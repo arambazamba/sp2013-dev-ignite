@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="d05a8d37-8995-4377-b64a-3d5802addaa8" solutionId="d05a8d37-8995-4377-b64a-3d5802addaa8" resetWebServer="false" sharePointProductVersion="15.0" name="PushNotificationsList" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="368c3fdd-f4c4-46f5-9b28-dee5abb14f9d" />
+  </features>
+</package>

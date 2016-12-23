@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<OfficeApp xmlns="http://schemas.microsoft.com/office/appforoffice/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ContentApp">
+  <Id>c740e802-2356-4749-9744-6082df80bfec</Id>
+  <Version>1.0</Version>
+  <ProviderName>Administrator</ProviderName>
+  <DefaultLocale>en-US</DefaultLocale>
+  <DisplayName DefaultValue="Excel Binding Demo" />
+  <Description DefaultValue="A sample App fo Office by Ted Pattison of Critical Path Training"/>
+  <IconUrl DefaultValue="~remoteAppUrl/Images/ExcelBindingDemo.png" />
+  <Capabilities>
+    <Capability Name="Workbook" />
+  </Capabilities>
+  <DefaultSettings>
+    <SourceLocation DefaultValue="~remoteAppUrl/Pages/ExcelBindingDemo.html" />
+    <RequestedWidth>400</RequestedWidth>
+<RequestedHeight>400</RequestedHeight>
+  </DefaultSettings>
+  <Permissions>ReadWriteDocument</Permissions>
+</OfficeApp>

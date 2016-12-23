@@ -1,0 +1,4 @@
+C:\DevProjects\Phone\PushNotificationsList\PushNotificationsList\bin\Debug\PushNotificationsList.dll
+C:\DevProjects\Phone\PushNotificationsList\PushNotificationsList\bin\Debug\PushNotificationsList.pdb
+C:\DevProjects\Phone\PushNotificationsList\PushNotificationsList\obj\Debug\PushNotificationsList.dll
+C:\DevProjects\Phone\PushNotificationsList\PushNotificationsList\obj\Debug\PushNotificationsList.pdb

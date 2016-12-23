@@ -1,0 +1,9 @@
+
+    <h1>Get a Quote</h1>
+
+    <div id="toolbar">
+      <input id="cmdGetContent" type="button" value="Get Content"  />
+      <input id="cmdInsertContent" type="button" value="Insert Content" />
+    </div>
+
+    <div id="display" />

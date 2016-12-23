@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="RESTLab Feature1" Id="2f4f186f-ce5d-49bf-b7b7-d5c25067a31a" ReceiverAssembly="RESTLab, Version=1.0.0.0, Culture=neutral, PublicKeyToken=8679050496f194d3" ReceiverClass="RESTLab.Features.SiteMain.SiteMainEventReceiver" Scope="Site">
+  <ElementManifests>
+    <ElementManifest Location="Customers\Elements.xml" />
+    <ElementManifest Location="LabPages\Elements.xml" />
+    <ElementFile Location="LabPages\Exercise04.js" />
+    <ElementFile Location="LabPages\Exercise01.aspx" />
+    <ElementFile Location="LabPages\Exercise01.js" />
+    <ElementFile Location="LabPages\Exercise02.aspx" />
+    <ElementFile Location="LabPages\Exercise02.js" />
+    <ElementFile Location="LabPages\Exercise03.aspx" />
+    <ElementFile Location="LabPages\Exercise03.js" />
+    <ElementFile Location="LabPages\Exercise04.aspx" />
+    <ElementManifest Location="RootFolder\Elements.xml" />
+    <ElementFile Location="RootFolder\js\datajs.js" />
+    <ElementFile Location="RootFolder\js\jquery-ui.js" />
+    <ElementFile Location="RootFolder\js\jquery.js" />
+    <ElementFile Location="RootFolder\js\jsrender.js" />
+    <ElementFile Location="RootFolder\css\lab_styles.css" />
+    <ElementFile Location="RootFolder\css\smoothness\jquery-ui.css" />
+    <ElementFile Location="RootFolder\css\smoothness\images\ui-bg_flat_0_aaaaaa_40x100.png" />
+    <ElementFile Location="RootFolder\css\smoothness\images\ui-bg_flat_75_ffffff_40x100.png" />
+    <ElementFile Location="RootFolder\css\smoothness\images\ui-bg_glass_55_fbf9ee_1x400.png" />
+    <ElementFile Location="RootFolder\css\smoothness\images\ui-bg_glass_65_ffffff_1x400.png" />
+    <ElementFile Location="RootFolder\css\smoothness\images\ui-bg_glass_75_dadada_1x400.png" />
+    <ElementFile Location="RootFolder\css\smoothness\images\ui-bg_glass_75_e6e6e6_1x400.png" />
+    <ElementFile Location="RootFolder\css\smoothness\images\ui-bg_glass_95_fef1ec_1x400.png" />
+    <ElementFile Location="RootFolder\css\smoothness\images\ui-bg_highlight-soft_75_cccccc_1x100.png" />
+    <ElementFile Location="RootFolder\css\smoothness\images\ui-icons_222222_256x240.png" />
+    <ElementFile Location="RootFolder\css\smoothness\images\ui-icons_2e83ff_256x240.png" />
+    <ElementFile Location="RootFolder\css\smoothness\images\ui-icons_454545_256x240.png" />
+    <ElementFile Location="RootFolder\css\smoothness\images\ui-icons_888888_256x240.png" />
+    <ElementFile Location="RootFolder\css\smoothness\images\ui-icons_cd0a0a_256x240.png" />
+    <ElementManifest Location="SolutionPages\Elements.xml" />
+    <ElementFile Location="SolutionPages\Exercise04.js" />
+    <ElementFile Location="SolutionPages\Exercise01.aspx" />
+    <ElementFile Location="SolutionPages\Exercise01.js" />
+    <ElementFile Location="SolutionPages\Exercise02.aspx" />
+    <ElementFile Location="SolutionPages\Exercise02.js" />
+    <ElementFile Location="SolutionPages\Exercise03.aspx" />
+    <ElementFile Location="SolutionPages\Exercise03.js" />
+    <ElementFile Location="SolutionPages\Exercise04.aspx" />
+  </ElementManifests>
+</Feature>

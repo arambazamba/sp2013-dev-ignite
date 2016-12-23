@@ -1,0 +1,5 @@
+D:\Dev\02 Server Object Model Basics\CopyToApplicationPage\CopyToApplicationPage\bin\Debug\CopyToApplicationPage.dll
+D:\Dev\02 Server Object Model Basics\CopyToApplicationPage\CopyToApplicationPage\bin\Debug\CopyToApplicationPage.pdb
+D:\Dev\02 Server Object Model Basics\CopyToApplicationPage\CopyToApplicationPage\obj\Debug\CopyToApplicationPage.csprojResolveAssemblyReference.cache
+D:\Dev\02 Server Object Model Basics\CopyToApplicationPage\CopyToApplicationPage\obj\Debug\CopyToApplicationPage.dll
+D:\Dev\02 Server Object Model Basics\CopyToApplicationPage\CopyToApplicationPage\obj\Debug\CopyToApplicationPage.pdb

@@ -1,0 +1,15 @@
+D:\Ignite\Beta2\06 CsomRestApi\DemoFiles\CreateCustomerList\CreateCustomerList\bin\Debug\CreateCustomerList.dll
+D:\Ignite\Beta2\06 CsomRestApi\DemoFiles\CreateCustomerList\CreateCustomerList\bin\Debug\CreateCustomerList.pdb
+D:\Ignite\Beta2\06 CsomRestApi\DemoFiles\CreateCustomerList\CreateCustomerList\obj\Debug\CreateCustomerList.csprojResolveAssemblyReference.cache
+D:\Ignite\Beta2\06 CsomRestApi\DemoFiles\CreateCustomerList\CreateCustomerList\obj\Debug\CreateCustomerList.dll
+D:\Ignite\Beta2\06 CsomRestApi\DemoFiles\CreateCustomerList\CreateCustomerList\obj\Debug\CreateCustomerList.pdb
+D:\Presentations & Demos\06_CsomRestApi\DemoFiles\CreateCustomerList\CreateCustomerList\bin\Debug\CreateCustomerList.dll
+D:\Presentations & Demos\06_CsomRestApi\DemoFiles\CreateCustomerList\CreateCustomerList\bin\Debug\CreateCustomerList.pdb
+D:\Presentations & Demos\06_CsomRestApi\DemoFiles\CreateCustomerList\CreateCustomerList\obj\Debug\CreateCustomerList.csprojResolveAssemblyReference.cache
+D:\Presentations & Demos\06_CsomRestApi\DemoFiles\CreateCustomerList\CreateCustomerList\obj\Debug\CreateCustomerList.dll
+D:\Presentations & Demos\06_CsomRestApi\DemoFiles\CreateCustomerList\CreateCustomerList\obj\Debug\CreateCustomerList.pdb
+D:\04 Apps For SharePoint\06_CsomRestApi\DemoFiles\CreateCustomerList\CreateCustomerList\bin\Debug\CreateCustomerList.dll
+D:\04 Apps For SharePoint\06_CsomRestApi\DemoFiles\CreateCustomerList\CreateCustomerList\bin\Debug\CreateCustomerList.pdb
+D:\04 Apps For SharePoint\06_CsomRestApi\DemoFiles\CreateCustomerList\CreateCustomerList\obj\Debug\CreateCustomerList.csprojResolveAssemblyReference.cache
+D:\04 Apps For SharePoint\06_CsomRestApi\DemoFiles\CreateCustomerList\CreateCustomerList\obj\Debug\CreateCustomerList.dll
+D:\04 Apps For SharePoint\06_CsomRestApi\DemoFiles\CreateCustomerList\CreateCustomerList\obj\Debug\CreateCustomerList.pdb

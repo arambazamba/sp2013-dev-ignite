@@ -1,0 +1,5 @@
+D:\Dev\02 Server Object Model Basics\SP2013WebParts\SP2013WebParts\obj\Debug\SP2013WebParts.csprojResolveAssemblyReference.cache
+D:\Dev\02 Server Object Model Basics\SP2013WebParts\SP2013WebParts\bin\Debug\SP2013WebParts.dll
+D:\Dev\02 Server Object Model Basics\SP2013WebParts\SP2013WebParts\bin\Debug\SP2013WebParts.pdb
+D:\Dev\02 Server Object Model Basics\SP2013WebParts\SP2013WebParts\obj\Debug\SP2013WebParts.dll
+D:\Dev\02 Server Object Model Basics\SP2013WebParts\SP2013WebParts\obj\Debug\SP2013WebParts.pdb

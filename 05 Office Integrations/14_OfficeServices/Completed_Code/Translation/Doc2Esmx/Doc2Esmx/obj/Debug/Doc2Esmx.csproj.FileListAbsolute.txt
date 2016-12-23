@@ -1,0 +1,9 @@
+C:\Demos\17 - Office Services\Translation\Doc2Esmx\Doc2Esmx\bin\Debug\Doc2Esmx.dll
+C:\Demos\17 - Office Services\Translation\Doc2Esmx\Doc2Esmx\bin\Debug\Doc2Esmx.pdb
+C:\Demos\17 - Office Services\Translation\Doc2Esmx\Doc2Esmx\obj\Debug\Doc2Esmx.dll
+C:\Demos\17 - Office Services\Translation\Doc2Esmx\Doc2Esmx\obj\Debug\Doc2Esmx.pdb
+C:\Student\Hands On Labs\14_OfficeServices\Completed_Code\Translation\Doc2Esmx\Doc2Esmx\bin\Debug\Doc2Esmx.dll
+C:\Student\Hands On Labs\14_OfficeServices\Completed_Code\Translation\Doc2Esmx\Doc2Esmx\bin\Debug\Doc2Esmx.pdb
+C:\Student\Hands On Labs\14_OfficeServices\Completed_Code\Translation\Doc2Esmx\Doc2Esmx\obj\Debug\Doc2Esmx.csprojResolveAssemblyReference.cache
+C:\Student\Hands On Labs\14_OfficeServices\Completed_Code\Translation\Doc2Esmx\Doc2Esmx\obj\Debug\Doc2Esmx.dll
+C:\Student\Hands On Labs\14_OfficeServices\Completed_Code\Translation\Doc2Esmx\Doc2Esmx\obj\Debug\Doc2Esmx.pdb

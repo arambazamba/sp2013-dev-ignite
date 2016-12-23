@@ -1,0 +1,6 @@
+d:\MySharePointApp\MySharePointApp\bin\Debug\MySharePointApp.pdb
+d:\MySharePointApp\MySharePointApp\obj\Debug\MySharePointApp.dll
+d:\MySharePointApp\MySharePointApp\obj\Debug\MySharePointApp.pdb
+D:\Presentations & Demos\03_DeveloperTools\MySharePointApp\MySharePointApp\bin\Debug\MySharePointApp.pdb
+D:\Presentations & Demos\03_DeveloperTools\MySharePointApp\MySharePointApp\obj\Debug\MySharePointApp.dll
+D:\Presentations & Demos\03_DeveloperTools\MySharePointApp\MySharePointApp\obj\Debug\MySharePointApp.pdb

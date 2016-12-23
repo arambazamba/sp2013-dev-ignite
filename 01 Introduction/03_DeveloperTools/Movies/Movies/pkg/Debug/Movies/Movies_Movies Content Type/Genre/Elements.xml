@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Field
+       ID="{209e7942-5acf-4afb-8ad2-be026a81bfd4}"
+       Name="Genre"
+       DisplayName="Movie Genre"
+       Type="Choice"
+       Required="FALSE"
+       Group="Contoso Site Columns">
+    <CHOICES>
+      <CHOICE>Action</CHOICE>
+      <CHOICE>Comedy</CHOICE>
+      <CHOICE>Drama</CHOICE>
+      <CHOICE>Musical</CHOICE>
+    </CHOICES>
+  </Field>
+</Elements>

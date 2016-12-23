@@ -1,0 +1,1 @@
+C:\Completed\Hands On Labs\04_AppModelSpHosted\Completed_Files\HelloApp\HelloApp\bin\Debug\app.publish\1.0.0.0\HelloApp.app

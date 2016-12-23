@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoanAppraisal", "LoanAppraisal\LoanAppraisal.csproj", "{70A06195-8ECD-4E4D-B79D-32CDA81D1E03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoanAppraisalWeb", "LoanAppraisalWeb\LoanAppraisalWeb.csproj", "{D66775EF-8C45-42AC-A3F0-763F80444E7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70A06195-8ECD-4E4D-B79D-32CDA81D1E03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70A06195-8ECD-4E4D-B79D-32CDA81D1E03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70A06195-8ECD-4E4D-B79D-32CDA81D1E03}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{70A06195-8ECD-4E4D-B79D-32CDA81D1E03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70A06195-8ECD-4E4D-B79D-32CDA81D1E03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70A06195-8ECD-4E4D-B79D-32CDA81D1E03}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{D66775EF-8C45-42AC-A3F0-763F80444E7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D66775EF-8C45-42AC-A3F0-763F80444E7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D66775EF-8C45-42AC-A3F0-763F80444E7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D66775EF-8C45-42AC-A3F0-763F80444E7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+c:\DevProjects\CustomXmlTimesheet\CustomXmlTimesheetWeb\bin\CustomXmlTimesheetWeb.dll
+c:\DevProjects\CustomXmlTimesheet\CustomXmlTimesheetWeb\bin\CustomXmlTimesheetWeb.pdb
+c:\DevProjects\CustomXmlTimesheet\CustomXmlTimesheetWeb\obj\Debug\CustomXmlTimesheetWeb.dll
+c:\DevProjects\CustomXmlTimesheet\CustomXmlTimesheetWeb\obj\Debug\CustomXmlTimesheetWeb.pdb
+c:\DevProjects\CustomXmlTimesheet\CustomXmlTimesheetWeb\obj\Debug\CustomXmlTimesheetWeb.csprojResolveAssemblyReference.cache
+D:\05 Office Integrations\18_DocumentOfficeApps\DemoFiles\Demo 3 CustomXmlTimesheet\CustomXmlTimesheetWeb\bin\CustomXmlTimesheetWeb.dll
+D:\05 Office Integrations\18_DocumentOfficeApps\DemoFiles\Demo 3 CustomXmlTimesheet\CustomXmlTimesheetWeb\bin\CustomXmlTimesheetWeb.pdb
+D:\05 Office Integrations\18_DocumentOfficeApps\DemoFiles\Demo 3 CustomXmlTimesheet\CustomXmlTimesheetWeb\obj\Debug\CustomXmlTimesheetWeb.csprojResolveAssemblyReference.cache
+D:\05 Office Integrations\18_DocumentOfficeApps\DemoFiles\Demo 3 CustomXmlTimesheet\CustomXmlTimesheetWeb\obj\Debug\CustomXmlTimesheetWeb.dll
+D:\05 Office Integrations\18_DocumentOfficeApps\DemoFiles\Demo 3 CustomXmlTimesheet\CustomXmlTimesheetWeb\obj\Debug\CustomXmlTimesheetWeb.pdb

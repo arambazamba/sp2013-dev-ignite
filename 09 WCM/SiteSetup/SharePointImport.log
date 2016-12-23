@@ -1,0 +1,153 @@
+﻿HIGHLIGHT : Starting SharePointImport @ 2012-11-04T13:20:10
+INFO      : Found ini file, reading it: SharePointImport.ini
+INFO      : Reading taxonomy file: .\Taxonomy.csv
+INFO      : Looking for product catalogs
+INFO      : Found Product Catalog: .\ProductCatalog_ContosoProducts.csv
+INFO      : Opening site: http://intranet.contoso.com/sites/ProductCatalog
+HIGHLIGHT : Site not found, attempt to create it
+INFO      : Opening web app: http://intranet.contoso.com
+INFO      : Creating site with parameters (this usually takes a couple of minutes): { SiteUrl = http://intranet.contoso.com/sites/ProductCatalog, SiteTitle = ProductCatalog, SiteDescription = ProductCatalog, SiteLanguage = 1033, SiteTemplate = PRODUCTCATALOG#0, Login = CORP\administrator, UserName = administrator, Email = administrator@microsoft.com }
+INFO      : Opening site: http://intranet.contoso.com/sites/ProductCatalog
+HIGHLIGHT : Setting anonymousaccess flag on web
+INFO      : Looking for the Item Category Site Column
+INFO      : Establishing taxonomy session
+INFO      : Building lookup for: Product Hierarchy
+INFO      : Taxonomy changes detected, committing them
+INFO      : Processing Product Catalog: C:\Student\Hands On Labs\13_WCM\SiteSetup\ProductCatalog_ContosoProducts.csv
+INFO      : Reading data file: C:\Student\Hands On Labs\13_WCM\SiteSetup\ProductCatalog_ContosoProducts.csv
+INFO      : #60 header names found
+INFO      : Counting datalines...
+INFO      : Found #878 datalines...
+INFO      : Looking for 'Product' Content Type
+INFO      : Looking for 'ContosoProducts_ContentType' Content Type
+HIGHLIGHT : Could not find content type: ContosoProducts_ContentType, creating it
+INFO      : Creating Site Column : ItemNumberLabel(text)
+INFO      : Adding link to Column : ItemNumberLabel
+INFO      : Creating Site Column : CategoryName(text)
+INFO      : Adding link to Column : CategoryName
+INFO      : Creating Site Column : ContosoDatabaseProductKey(text)
+INFO      : Adding link to Column : ContosoDatabaseProductKey
+INFO      : Creating Site Column : ContosoProductID(text)
+INFO      : Adding link to Column : ContosoProductID
+INFO      : Creating Site Column : About(html)
+INFO      : Adding link to Column : About
+INFO      : Creating Site Column : UnitCost(text)
+INFO      : Adding link to Column : UnitCost
+INFO      : Creating Site Column : UnitPrice(text)
+INFO      : Adding link to Column : UnitPrice
+INFO      : Creating Site Column : UnitPriceCurrency(text)
+INFO      : Adding link to Column : UnitPriceCurrency
+INFO      : Creating Site Column : UnitPriceLabel(text)
+INFO      : Adding link to Column : UnitPriceLabel
+INFO      : Creating Site Column : Features(text)
+INFO      : Adding link to Column : Features
+INFO      : Creating Site Column : Brand(text)
+INFO      : Adding link to Column : Brand
+INFO      : Creating Site Column : BrandLabel(text)
+INFO      : Adding link to Column : BrandLabel
+INFO      : Creating Site Column : Color(text)
+INFO      : Adding link to Column : Color
+INFO      : Creating Site Column : ColorLabel(text)
+INFO      : Adding link to Column : ColorLabel
+INFO      : Creating Site Column : Size(text)
+INFO      : Adding link to Column : Size
+INFO      : Creating Site Column : SizeUnit(text)
+INFO      : Adding link to Column : SizeUnit
+INFO      : Creating Site Column : SizeLabel(text)
+INFO      : Adding link to Column : SizeLabel
+INFO      : Creating Site Column : Weight(text)
+INFO      : Adding link to Column : Weight
+INFO      : Creating Site Column : WeightUnit(text)
+INFO      : Adding link to Column : WeightUnit
+INFO      : Creating Site Column : WeightLabel(text)
+INFO      : Adding link to Column : WeightLabel
+INFO      : Creating Site Column : ScreenSize(text)
+INFO      : Adding link to Column : ScreenSize
+INFO      : Creating Site Column : ScreenSizeUnit(text)
+INFO      : Adding link to Column : ScreenSizeUnit
+INFO      : Creating Site Column : ScreenSizeLabel(text)
+INFO      : Adding link to Column : ScreenSizeLabel
+INFO      : Creating Site Column : Memory(text)
+INFO      : Adding link to Column : Memory
+INFO      : Creating Site Column : MemoryUnit(text)
+INFO      : Adding link to Column : MemoryUnit
+INFO      : Creating Site Column : MemoryLabel(text)
+INFO      : Adding link to Column : MemoryLabel
+INFO      : Creating Site Column : HardDrive(text)
+INFO      : Adding link to Column : HardDrive
+INFO      : Creating Site Column : HardDriveUnit(text)
+INFO      : Adding link to Column : HardDriveUnit
+INFO      : Creating Site Column : HardDriveLabel(text)
+INFO      : Adding link to Column : HardDriveLabel
+INFO      : Creating Site Column : Megapixels(text)
+INFO      : Adding link to Column : Megapixels
+INFO      : Creating Site Column : MegapixelsUnit(text)
+INFO      : Adding link to Column : MegapixelsUnit
+INFO      : Creating Site Column : MegapixelsLabel(text)
+INFO      : Adding link to Column : MegapixelsLabel
+INFO      : Creating Site Column : Zoom(text)
+INFO      : Adding link to Column : Zoom
+INFO      : Creating Site Column : ZoomUnit(text)
+INFO      : Adding link to Column : ZoomUnit
+INFO      : Creating Site Column : ZoomLabel(text)
+INFO      : Adding link to Column : ZoomLabel
+INFO      : Creating Site Column : RefreshRate(text)
+INFO      : Adding link to Column : RefreshRate
+INFO      : Creating Site Column : RefreshRateUnit(text)
+INFO      : Adding link to Column : RefreshRateUnit
+INFO      : Creating Site Column : RefreshRateLabel(text)
+INFO      : Adding link to Column : RefreshRateLabel
+INFO      : Creating Site Column : NumberOfSpeakers(text)
+INFO      : Adding link to Column : NumberOfSpeakers
+INFO      : Creating Site Column : NumberOfSpeakersLabel(text)
+INFO      : Adding link to Column : NumberOfSpeakersLabel
+INFO      : Creating Site Column : Storage(text)
+INFO      : Adding link to Column : Storage
+INFO      : Creating Site Column : StorageUnit(text)
+INFO      : Adding link to Column : StorageUnit
+INFO      : Creating Site Column : StorageLabel(text)
+INFO      : Adding link to Column : StorageLabel
+INFO      : Creating Site Column : Volume(text)
+INFO      : Adding link to Column : Volume
+INFO      : Creating Site Column : VolumeUnit(text)
+INFO      : Adding link to Column : VolumeUnit
+INFO      : Creating Site Column : VolumeLabel(text)
+INFO      : Adding link to Column : VolumeLabel
+INFO      : Creating Site Column : BTU(text)
+INFO      : Adding link to Column : BTU
+INFO      : Creating Site Column : BTUUnit(text)
+INFO      : Adding link to Column : BTUUnit
+INFO      : Creating Site Column : BTULabel(text)
+INFO      : Adding link to Column : BTULabel
+INFO      : Creating Site Column : Coverage(text)
+INFO      : Adding link to Column : Coverage
+INFO      : Creating Site Column : CoverageUnit(text)
+INFO      : Adding link to Column : CoverageUnit
+INFO      : Creating Site Column : CoverageLabel(text)
+INFO      : Adding link to Column : CoverageLabel
+INFO      : Creating Site Column : Campaign(text)
+INFO      : Adding link to Column : Campaign
+INFO      : Creating Site Column : OnSale(text)
+INFO      : Adding link to Column : OnSale
+INFO      : Creating Site Column : Discount(text)
+INFO      : Adding link to Column : Discount
+INFO      : Looking for list: ContosoProducts
+HIGHLIGHT : Could not find list: ContosoProducts, creating it with content type 'ContosoProducts_ContentType'
+INFO      : Deleting ContentType 'Item' in newly created list
+HIGHLIGHT : Setting Catalog flag on list to true: IsCatalog
+HIGHLIGHT : Breaking role inheritance on list
+HIGHLIGHT : Setting anonymous access flag on list
+INFO      : Adding new default view to: ContosoProducts
+INFO      : Processing #878 datalines in batches of #100 lines
+INFO      : Processing batch 1/9
+INFO      : Processing batch 2/9
+INFO      : Processing batch 3/9
+INFO      : Processing batch 4/9
+INFO      : Processing batch 5/9
+INFO      : Processing batch 6/9
+INFO      : Processing batch 7/9
+INFO      : Processing batch 8/9
+INFO      : Processing batch 9/9
+SUCCESS   : Import of 878 lines took : 0.43 min
+SUCCESS   : Processing in total took : 1.35 min
+SUCCESS   : Completed - Duration: 1.20 minutes - exitcode: 0

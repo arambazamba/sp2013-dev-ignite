@@ -1,0 +1,1 @@
+C:\Demos\SharePoint-Hosted Apps\MembershipApp\MembershipApp\bin\Debug\app.publish\MembershipApp.app

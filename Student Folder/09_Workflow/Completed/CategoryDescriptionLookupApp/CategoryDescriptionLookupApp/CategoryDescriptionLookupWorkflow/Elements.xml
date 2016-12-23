@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="CategoryDescriptionLookupWorkflow" Url="wfsvc/6c5ad727bb084831958ffe3b39625c3e">
+    <File Url="Workflow.xaml" Type="GhostableInLibrary" Path="CategoryDescriptionLookupWorkflow\Workflow.xaml" DoGUIDFixUp="TRUE">
+      <Property Name="ContentType" Value="WorkflowServiceDefinition" />
+      <Property Name="isReusable" Value="true" />
+      <Property Name="RequiresInitiationForm" Value="False" />
+      <Property Name="RequiresAssociationForm" Value="False" />
+      <Property Name="WSPublishState" Value="3" />
+      <Property Name="WSDisplayName" Value="Category Description Lookup Workflow" />
+      <Property Name="WSDescription" Value="My 'Category Description Lookup Workflow' Worlflow" />
+      <!-- UNCOMMENT the following sample to set the InitiationUrl property. InitiationUrl is the Url of the workflow's custom initiation form. 
+           Remember to update the property value to the actual url.
+      -->
+      <!--<Property Name="InitiationUrl" Value="wfsvc/6c5ad727bb084831958ffe3b39625c3e/CategoryDescriptionLookupWorkflow/InitForm.aspx" />-->
+
+      <!-- UNCOMMENT the following sample to set the AssociationUrl property. AssociationUrl is the Url of the workflow's custom association form. 
+           Remember to update the property value to the actual url.
+      -->
+      <!--<Property Name="AssociationUrl" Value="wfsvc/6c5ad727bb084831958ffe3b39625c3e/CategoryDescriptionLookupWorkflow/AssocForm.aspx" />-->
+      <Property Name="RestrictToType" Value="List" />
+      <Property Name="RestrictToScope" Value="{$ListId:Lists/Announcements;}" />
+    </File>
+    <File Url="WorkflowStartAssociation" Path="CategoryDescriptionLookupWorkflow\WorkflowStartAssociation" Type="GhostableInLibrary">
+      <Property Name="WSDisplayName" Value="CategoryDescriptionLookupWorkflow - WorkflowStart" />
+      <Property Name="ContentType" Value="WorkflowServiceSubscription" />
+      <Property Name="WSPublishState" Value="3" />
+      <Property Name="WSEventType" Value="WorkflowStart" />
+      <Property Name="WSEnabled" Value="true" />
+      <Property Name="WSGUID" Value="45316319-38bc-4202-b3aa-bcfcce981742" />
+      <Property Name="WSEventSourceGUID" Value="{$ListId:Lists/Announcements;}" />
+      <Property Name="ListId" Value="{$ListId:Lists/Announcements;}" />
+      <Property Name="Microsoft.SharePoint.ActivationProperties.ListId" Value="{$ListId:Lists/Announcements;}" />
+      <Property Name="HistoryListId" Value="{$ListId:Lists/WorkflowHistoryList;}" />
+      <Property Name="TaskListId" Value="{$ListId:Lists/WorkflowTaskList;}" />
+    </File>
+  </Module>
+  <ListInstance FeatureId="{2c63df2b-ceab-42c6-aeff-b3968162d4b1}"
+                TemplateType="4501"
+                Title="wfsvc"
+                Description="This list instance is used by SharePoint to keep track of workflows. Do not modify."
+                Url="wfsvc"
+                RootWebOnly="FALSE" />
+</Elements>

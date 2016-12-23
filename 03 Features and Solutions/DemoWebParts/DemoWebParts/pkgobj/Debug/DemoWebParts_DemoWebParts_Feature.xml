@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="DemoWebParts Feature1" Id="113fd35e-abee-48c4-9a33-16d2f987a529" Scope="Site">
+  <ElementManifests>
+    <ElementManifest Location="DataboundWebPart\Elements.xml" />
+    <ElementFile Location="DataboundWebPart\DataboundWebPart.webpart" />
+    <ElementManifest Location="SharePointControlsWebPart\Elements.xml" />
+    <ElementFile Location="SharePointControlsWebPart\SharePointControlsWebPart.webpart" />
+    <ElementManifest Location="CSSWebPart\Elements.xml" />
+    <ElementFile Location="CSSWebPart\CSSWebPart.webpart" />
+    <ElementManifest Location="CustomEditorPartWP\Elements.xml" />
+    <ElementFile Location="CustomEditorPartWP\CustomEditorPartWP.webpart" />
+    <ElementManifest Location="ConnectedWebParts\Elements.xml" />
+    <ElementFile Location="ConnectedWebParts\ConnectedWebParts.webpart" />
+  </ElementManifests>
+</Feature>

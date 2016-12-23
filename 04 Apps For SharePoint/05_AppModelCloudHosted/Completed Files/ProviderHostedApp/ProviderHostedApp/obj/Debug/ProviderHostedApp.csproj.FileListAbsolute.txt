@@ -1,0 +1,8 @@
+c:\DevProjects\ProviderHostedApp\ProviderHostedApp\bin\Debug\ProviderHostedApp.pdb
+c:\DevProjects\ProviderHostedApp\ProviderHostedApp\obj\Debug\ProviderHostedApp.dll
+c:\DevProjects\ProviderHostedApp\ProviderHostedApp\obj\Debug\ProviderHostedApp.pdb
+c:\DevProjects\ProviderHostedApp\ProviderHostedApp\obj\Debug\ProviderHostedApp.csprojResolveAssemblyReference.cache
+D:\Presentations & Demos\05_AppModelCloudHosted\Completed Files\ProviderHostedApp\ProviderHostedApp\bin\Debug\ProviderHostedApp.pdb
+D:\Presentations & Demos\05_AppModelCloudHosted\Completed Files\ProviderHostedApp\ProviderHostedApp\obj\Debug\ProviderHostedApp.csprojResolveAssemblyReference.cache
+D:\Presentations & Demos\05_AppModelCloudHosted\Completed Files\ProviderHostedApp\ProviderHostedApp\obj\Debug\ProviderHostedApp.dll
+D:\Presentations & Demos\05_AppModelCloudHosted\Completed Files\ProviderHostedApp\ProviderHostedApp\obj\Debug\ProviderHostedApp.pdb

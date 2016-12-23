@@ -1,0 +1,10 @@
+c:\DevProjects\ProviderHostedApp\ProviderHostedAppWeb\bin\ProviderHostedAppWeb.dll
+c:\DevProjects\ProviderHostedApp\ProviderHostedAppWeb\bin\ProviderHostedAppWeb.pdb
+c:\DevProjects\ProviderHostedApp\ProviderHostedAppWeb\bin\Microsoft.IdentityModel.dll
+c:\DevProjects\ProviderHostedApp\ProviderHostedAppWeb\bin\Microsoft.IdentityModel.Extensions.dll
+c:\DevProjects\ProviderHostedApp\ProviderHostedAppWeb\bin\Microsoft.SharePoint.Client.dll
+c:\DevProjects\ProviderHostedApp\ProviderHostedAppWeb\bin\Microsoft.SharePoint.Client.Runtime.dll
+c:\DevProjects\ProviderHostedApp\ProviderHostedAppWeb\bin\Microsoft.SharePoint.Client.xml
+c:\DevProjects\ProviderHostedApp\ProviderHostedAppWeb\bin\Microsoft.SharePoint.Client.Runtime.xml
+c:\DevProjects\ProviderHostedApp\ProviderHostedAppWeb\obj\Debug\ProviderHostedAppWeb.dll
+c:\DevProjects\ProviderHostedApp\ProviderHostedAppWeb\obj\Debug\ProviderHostedAppWeb.pdb

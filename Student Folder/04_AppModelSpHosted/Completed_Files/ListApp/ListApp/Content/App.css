@@ -1,0 +1,21 @@
+﻿.messages
+{
+    margin: 0px;
+    padding: 0px;
+    float: left;
+    border-top: 1px #D8D8D0;
+    width: 300px;
+}
+
+.messages tr 
+{
+    padding: 5px 5px 10px 10px;
+    list-style-type: none;
+    background-color: #FAFAF4;
+    color: #000033;
+}
+
+.subtle
+{
+    color: #999999
+}

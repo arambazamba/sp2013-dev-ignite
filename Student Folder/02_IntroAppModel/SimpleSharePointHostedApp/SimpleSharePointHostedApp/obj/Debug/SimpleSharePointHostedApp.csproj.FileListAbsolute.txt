@@ -1,0 +1,3 @@
+C:\Student\Hands On Labs\02_IntroAppModel\SimpleSharePointHostedApp\SimpleSharePointHostedApp\bin\Debug\SimpleSharePointHostedApp.pdb
+C:\Student\Hands On Labs\02_IntroAppModel\SimpleSharePointHostedApp\SimpleSharePointHostedApp\obj\Debug\SimpleSharePointHostedApp.dll
+C:\Student\Hands On Labs\02_IntroAppModel\SimpleSharePointHostedApp\SimpleSharePointHostedApp\obj\Debug\SimpleSharePointHostedApp.pdb

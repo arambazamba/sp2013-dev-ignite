@@ -1,0 +1,5 @@
+c:\DevProjects\YouTubeMailApp\YouTubeMailAppWeb\bin\YouTubeMailAppWeb.dll
+c:\DevProjects\YouTubeMailApp\YouTubeMailAppWeb\bin\YouTubeMailAppWeb.pdb
+c:\DevProjects\YouTubeMailApp\YouTubeMailAppWeb\obj\Debug\YouTubeMailAppWeb.csprojResolveAssemblyReference.cache
+c:\DevProjects\YouTubeMailApp\YouTubeMailAppWeb\obj\Debug\YouTubeMailAppWeb.dll
+c:\DevProjects\YouTubeMailApp\YouTubeMailAppWeb\obj\Debug\YouTubeMailAppWeb.pdb

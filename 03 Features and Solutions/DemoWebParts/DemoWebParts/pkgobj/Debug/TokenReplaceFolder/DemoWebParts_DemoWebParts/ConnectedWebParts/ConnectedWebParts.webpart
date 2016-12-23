@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<webParts>
+  <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="DemoWebParts.ConnectedWebParts.ConnectedWebParts, DemoWebParts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=7c4d327b154fd663" />
+      <type name="DemoWebParts.SendingWebPart.SendingWebPart, DemoWebParts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=7c4d327b154fd663" />
+      <importErrorMessage>$Resources:core,ImportErrorMessage;</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="Title" type="string">DemoWebParts - ConnectedWebParts</property>
+        <property name="Description" type="string">My Web Part</property>
+      </properties>
+    </data>
+  </webPart>
+</webParts>

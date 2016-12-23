@@ -1,0 +1,4 @@
+D:\Dev\02 Server Object Model Basics\ListTimerJob\ListTimerJob\bin\Debug\ListTimerJob.dll
+D:\Dev\02 Server Object Model Basics\ListTimerJob\ListTimerJob\bin\Debug\ListTimerJob.pdb
+D:\Dev\02 Server Object Model Basics\ListTimerJob\ListTimerJob\obj\Debug\ListTimerJob.dll
+D:\Dev\02 Server Object Model Basics\ListTimerJob\ListTimerJob\obj\Debug\ListTimerJob.pdb

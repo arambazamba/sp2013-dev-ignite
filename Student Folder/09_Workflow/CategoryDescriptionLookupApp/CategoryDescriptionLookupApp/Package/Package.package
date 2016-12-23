@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="85a39c0d-93a9-457b-bb9f-489def05a7f3" 
+        solutionId="85a39c0d-93a9-457b-bb9f-489def05a7f3" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="CategoryDescriptionLookupApp"
+        sharePointProductVersion="15.0">
+  <features>
+        <featureReference itemId="f4ad2035-eb31-4ec8-8c9d-24566c23949b" />
+  </features>
+</package>

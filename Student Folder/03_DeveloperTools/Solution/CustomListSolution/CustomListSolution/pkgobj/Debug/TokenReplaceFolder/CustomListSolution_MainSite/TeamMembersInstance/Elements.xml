@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <ListInstance Title="Team Members" OnQuickLaunch="TRUE" TemplateType="10000" Url="Lists/TeamMembers" Description="Contoso Team Members">
+    <Data>
+      <Rows>
+        <Row>
+          <Field Name="Title">Healy</Field>
+          <Field Name="FirstName">Joe</Field>
+          <Field Name="WorkPhone">(800)EAT-FISH</Field>
+          <Field Name="HomePhone">(813)111-2222</Field>
+          <Field Name="MemberType">Full-time Employee</Field>
+        </Row>
+        <Row>
+          <Field Name="Title">Sells</Field>
+          <Field Name="FirstName">Chris</Field>
+          <Field Name="WorkPhone">(800)OMG-ROFL</Field>
+          <Field Name="HomePhone">(512)222-3333</Field>
+          <Field Name="MemberType">Part-time Employee</Field>
+        </Row>
+        <Row>
+          <Field Name="Title">Wheeler</Field>
+          <Field Name="FirstName">Wendy</Field>
+          <Field Name="WorkPhone">(800)BIG-SALE</Field>
+          <Field Name="HomePhone">(210)333-4444</Field>
+          <Field Name="MemberType">Full-time Employee</Field>
+        </Row>
+        <Row>
+          <Field Name="Title">Cox</Field>
+          <Field Name="FirstName">Brian</Field>
+          <Field Name="WorkPhone">(800)123-4567</Field>
+          <Field Name="HomePhone">(301)555-7777</Field>
+          <Field Name="MemberType">Contractor</Field>
+        </Row>
+      </Rows>
+    </Data>
+  </ListInstance>
+</Elements>

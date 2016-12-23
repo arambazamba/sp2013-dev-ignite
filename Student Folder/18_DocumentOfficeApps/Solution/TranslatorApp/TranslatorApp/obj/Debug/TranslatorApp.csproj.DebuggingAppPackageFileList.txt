@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\TranslatorApp.xml
+c:\DevProjects\TranslatorApp\TranslatorApp\bin\Debug\TranslatorApp.app

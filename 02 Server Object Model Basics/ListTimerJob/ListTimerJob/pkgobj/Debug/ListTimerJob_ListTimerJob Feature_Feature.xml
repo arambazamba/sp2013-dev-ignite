@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="ListTimerJob Feature" Id="1ee64c5e-f162-4caa-8220-a9501d1f5569" ReceiverAssembly="ListTimerJob, Version=1.0.0.0, Culture=neutral, PublicKeyToken=cd4f51225f327f5d" ReceiverClass="ListTimerJob.Features.ListTimerJob_Feature.ListTimerJob_FeatureEventReceiver" Scope="Site"></Feature>

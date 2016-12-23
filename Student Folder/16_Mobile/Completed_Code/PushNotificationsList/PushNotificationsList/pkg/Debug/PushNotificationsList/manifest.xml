@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="d05a8d37-8995-4377-b64a-3d5802addaa8" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="PushNotificationsList.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="PushNotificationsList_Main\Feature.xml" />
+  </FeatureManifests>
+</Solution>

@@ -1,0 +1,9 @@
+D:\ApplicationPagePattern\ApplicationPagePattern\bin\Debug\ApplicationPagePattern.dll
+D:\ApplicationPagePattern\ApplicationPagePattern\bin\Debug\ApplicationPagePattern.pdb
+D:\ApplicationPagePattern\ApplicationPagePattern\obj\Debug\ApplicationPagePattern.dll
+D:\ApplicationPagePattern\ApplicationPagePattern\obj\Debug\ApplicationPagePattern.pdb
+D:\02 Server Object Model Basics\ApplicationPagePattern\ApplicationPagePattern\bin\Debug\ApplicationPagePattern.dll
+D:\02 Server Object Model Basics\ApplicationPagePattern\ApplicationPagePattern\bin\Debug\ApplicationPagePattern.pdb
+D:\02 Server Object Model Basics\ApplicationPagePattern\ApplicationPagePattern\obj\Debug\ApplicationPagePattern.csprojResolveAssemblyReference.cache
+D:\02 Server Object Model Basics\ApplicationPagePattern\ApplicationPagePattern\obj\Debug\ApplicationPagePattern.dll
+D:\02 Server Object Model Basics\ApplicationPagePattern\ApplicationPagePattern\obj\Debug\ApplicationPagePattern.pdb

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomXmlTimesheet", "CustomXmlTimesheet\CustomXmlTimesheet.csproj", "{2003D390-BB2C-4C55-A670-78BABFAE52CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomXmlTimesheetWeb", "CustomXmlTimesheetWeb\CustomXmlTimesheetWeb.csproj", "{6B489DB3-F92B-4ECF-87B0-690FF9375109}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2003D390-BB2C-4C55-A670-78BABFAE52CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2003D390-BB2C-4C55-A670-78BABFAE52CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2003D390-BB2C-4C55-A670-78BABFAE52CD}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2003D390-BB2C-4C55-A670-78BABFAE52CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2003D390-BB2C-4C55-A670-78BABFAE52CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2003D390-BB2C-4C55-A670-78BABFAE52CD}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{6B489DB3-F92B-4ECF-87B0-690FF9375109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B489DB3-F92B-4ECF-87B0-690FF9375109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B489DB3-F92B-4ECF-87B0-690FF9375109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B489DB3-F92B-4ECF-87B0-690FF9375109}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

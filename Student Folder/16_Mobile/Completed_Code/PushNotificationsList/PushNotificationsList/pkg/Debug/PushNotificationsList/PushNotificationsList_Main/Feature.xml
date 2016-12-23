@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="Push Notification Support" Id="2ed6e91e-378b-4f86-8a78-63502ea6a077" ReceiverAssembly="PushNotificationsList, Version=1.0.0.0, Culture=neutral, PublicKeyToken=bd5ee72bd6b5e3af" ReceiverClass="PushNotificationsList.Features.Main.MainEventReceiver" Scope="Web"></Feature>

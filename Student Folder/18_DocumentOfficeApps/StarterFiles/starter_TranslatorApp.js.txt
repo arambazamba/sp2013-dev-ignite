@@ -1,0 +1,10 @@
+Office.initialize = function (reason) {
+
+  // Initialize variables using Office JavaScript API
+
+  // Add handler function for jQuery document ready event
+  $(function () {
+    // UI initialization code goes here
+  });
+
+}

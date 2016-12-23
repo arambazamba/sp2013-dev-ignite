@@ -1,0 +1,5 @@
+D:\Dev\02 Server Object Model Basics\DeployCustomActions\DeployCustomActions\bin\Debug\DeployCustomActions.dll
+D:\Dev\02 Server Object Model Basics\DeployCustomActions\DeployCustomActions\bin\Debug\DeployCustomActions.pdb
+D:\Dev\02 Server Object Model Basics\DeployCustomActions\DeployCustomActions\obj\Debug\DeployCustomActions.csprojResolveAssemblyReference.cache
+D:\Dev\02 Server Object Model Basics\DeployCustomActions\DeployCustomActions\obj\Debug\DeployCustomActions.dll
+D:\Dev\02 Server Object Model Basics\DeployCustomActions\DeployCustomActions\obj\Debug\DeployCustomActions.pdb

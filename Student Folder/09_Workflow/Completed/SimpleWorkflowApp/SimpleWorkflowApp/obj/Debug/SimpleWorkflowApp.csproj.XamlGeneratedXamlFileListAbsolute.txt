@@ -1,0 +1,2 @@
+obj\Debug\Workflow.g.xaml
+obj\Debug\SimpleWorkflowApp.Simple_Workflow_Workflow_BeforeInitializeComponentHelper.txt

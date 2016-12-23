@@ -1,0 +1,23 @@
+c:\DevProjects\LifecycleApp\LifecycleAppWeb\bin\LifecycleAppWeb.dll
+c:\DevProjects\LifecycleApp\LifecycleAppWeb\bin\LifecycleAppWeb.pdb
+c:\DevProjects\LifecycleApp\LifecycleAppWeb\bin\Microsoft.IdentityModel.dll
+c:\DevProjects\LifecycleApp\LifecycleAppWeb\bin\Microsoft.IdentityModel.Extensions.dll
+c:\DevProjects\LifecycleApp\LifecycleAppWeb\bin\Microsoft.SharePoint.Client.dll
+c:\DevProjects\LifecycleApp\LifecycleAppWeb\bin\Microsoft.SharePoint.Client.Runtime.dll
+c:\DevProjects\LifecycleApp\LifecycleAppWeb\bin\Microsoft.SharePoint.Client.xml
+c:\DevProjects\LifecycleApp\LifecycleAppWeb\bin\Microsoft.SharePoint.Client.Runtime.xml
+c:\DevProjects\LifecycleApp\LifecycleAppWeb\obj\Debug\LifecycleAppWeb.csprojResolveAssemblyReference.cache
+c:\DevProjects\LifecycleApp\LifecycleAppWeb\obj\Debug\LifecycleAppWeb.dll
+c:\DevProjects\LifecycleApp\LifecycleAppWeb\obj\Debug\LifecycleAppWeb.pdb
+D:\Dev ETC\04 Apps For SharePoint\08_RemoteEventReceivers\LifecycleApp\LifecycleAppWeb\bin\LifecycleAppWeb.dll
+D:\Dev ETC\04 Apps For SharePoint\08_RemoteEventReceivers\LifecycleApp\LifecycleAppWeb\bin\LifecycleAppWeb.pdb
+D:\Dev ETC\04 Apps For SharePoint\08_RemoteEventReceivers\LifecycleApp\LifecycleAppWeb\bin\Microsoft.IdentityModel.dll
+D:\Dev ETC\04 Apps For SharePoint\08_RemoteEventReceivers\LifecycleApp\LifecycleAppWeb\bin\Microsoft.IdentityModel.Extensions.dll
+D:\Dev ETC\04 Apps For SharePoint\08_RemoteEventReceivers\LifecycleApp\LifecycleAppWeb\bin\Microsoft.SharePoint.Client.dll
+D:\Dev ETC\04 Apps For SharePoint\08_RemoteEventReceivers\LifecycleApp\LifecycleAppWeb\bin\Microsoft.SharePoint.Client.Runtime.dll
+D:\Dev ETC\04 Apps For SharePoint\08_RemoteEventReceivers\LifecycleApp\LifecycleAppWeb\bin\Microsoft.SharePoint.Client.xml
+D:\Dev ETC\04 Apps For SharePoint\08_RemoteEventReceivers\LifecycleApp\LifecycleAppWeb\bin\Microsoft.SharePoint.Client.Runtime.xml
+D:\Dev ETC\04 Apps For SharePoint\08_RemoteEventReceivers\LifecycleApp\LifecycleAppWeb\bin\en\Microsoft.IdentityModel.resources.dll
+D:\Dev ETC\04 Apps For SharePoint\08_RemoteEventReceivers\LifecycleApp\LifecycleAppWeb\obj\Debug\LifecycleAppWeb.csprojResolveAssemblyReference.cache
+D:\Dev ETC\04 Apps For SharePoint\08_RemoteEventReceivers\LifecycleApp\LifecycleAppWeb\obj\Debug\LifecycleAppWeb.dll
+D:\Dev ETC\04 Apps For SharePoint\08_RemoteEventReceivers\LifecycleApp\LifecycleAppWeb\obj\Debug\LifecycleAppWeb.pdb

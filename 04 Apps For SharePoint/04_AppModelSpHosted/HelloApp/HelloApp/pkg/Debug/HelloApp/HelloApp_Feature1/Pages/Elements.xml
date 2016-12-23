@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Pages">
+    <File Path="Pages\Default.aspx" Url="Pages/Default.aspx" />
+    <File Path="Pages\AppPartSource.aspx" Url="Pages/AppPartSource.aspx" />
+  </Module>
+  <ClientWebPart Name="AppPart"
+                 Title="App Part"
+                 Description="A simple client web part"
+                 DefaultWidth="200"
+                 DefaultHeight="200">
+    <Content Type="html"
+             Src="~appWebUrl/Pages/AppPartSource.aspx?Message=_DisplayMessage_" />
+    <Properties>
+      <Property Name="DisplayMessage"
+                Type="string"
+                WebBrowsable="true"
+                WebDisplayName="Display Message"
+                WebDescription="A message to display"
+                WebCategory="Configuration"
+                DefaultValue="Hello, Client Web Part!"
+                RequiresDesignerPermission="true" />
+    </Properties>
+  </ClientWebPart>
+</Elements>

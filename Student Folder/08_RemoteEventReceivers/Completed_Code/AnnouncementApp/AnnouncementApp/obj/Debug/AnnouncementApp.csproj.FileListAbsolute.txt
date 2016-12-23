@@ -1,0 +1,4 @@
+c:\DevProjects\AnnouncementApp\AnnouncementApp\bin\Debug\AnnouncementApp.pdb
+c:\DevProjects\AnnouncementApp\AnnouncementApp\obj\Debug\AnnouncementApp.dll
+c:\DevProjects\AnnouncementApp\AnnouncementApp\obj\Debug\AnnouncementApp.pdb
+c:\DevProjects\AnnouncementApp\AnnouncementApp\obj\Debug\AnnouncementApp.csprojResolveAssemblyReference.cache

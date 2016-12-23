@@ -1,0 +1,53 @@
+﻿body {
+  padding: 0px;
+  background-color: #444;
+}
+
+h1 {
+  color: White;
+  background-color: black;
+  padding: 4px;
+  font-size: 1.75em;
+  box-sizing: border-box;
+  height: 32px;
+  margin: 0px;
+}
+
+#toolbar {
+  height: 32px;
+  box-sizing: border-box;
+  margin: 0px;
+  background-color: #ddd;
+  padding: 4px;
+}
+
+#toolbar input[type=button]{
+  width: 100px;
+  height:24px; 
+  padding-left:1em; 
+  padding-right:1em; 
+  background-color:white; 
+  border:1px solid #ccc; 
+  cursor:pointer; 
+}
+
+#display {
+  margin: 4px;
+  border:  1px solid #BBB;
+  padding: 4px;
+  background-color: white;
+  height: 480px;
+}
+
+
+  #display p {
+    margin: 0px;
+    color: #444;
+    padding: 0px;
+    font-size: 1.0em;
+  }
+  
+  #display p:first-child {
+    color: red;
+    
+  }

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContentGenerator", "ContentGenerator\ContentGenerator.csproj", "{DEF6DCD3-AC73-438D-94CC-97E36D6E4942}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContentGeneratorWeb", "ContentGeneratorWeb\ContentGeneratorWeb.csproj", "{E1790182-7AEE-4CE8-BDEF-3421C70F7800}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEF6DCD3-AC73-438D-94CC-97E36D6E4942}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEF6DCD3-AC73-438D-94CC-97E36D6E4942}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEF6DCD3-AC73-438D-94CC-97E36D6E4942}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DEF6DCD3-AC73-438D-94CC-97E36D6E4942}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEF6DCD3-AC73-438D-94CC-97E36D6E4942}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEF6DCD3-AC73-438D-94CC-97E36D6E4942}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{E1790182-7AEE-4CE8-BDEF-3421C70F7800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1790182-7AEE-4CE8-BDEF-3421C70F7800}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1790182-7AEE-4CE8-BDEF-3421C70F7800}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1790182-7AEE-4CE8-BDEF-3421C70F7800}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

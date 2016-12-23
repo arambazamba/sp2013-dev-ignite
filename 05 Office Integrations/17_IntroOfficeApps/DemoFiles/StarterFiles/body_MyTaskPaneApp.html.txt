@@ -1,0 +1,12 @@
+<body>
+  
+    <h1>My App Title</h1>
+
+    <div id="toolbar">
+      <input id="cmdUpdateApp" type="button" value="Update App"  />
+      <input id="cmdUpdateDoc" type="button" value="Update Doc"  />
+    </div>
+
+    <div id="display" />
+
+</body>

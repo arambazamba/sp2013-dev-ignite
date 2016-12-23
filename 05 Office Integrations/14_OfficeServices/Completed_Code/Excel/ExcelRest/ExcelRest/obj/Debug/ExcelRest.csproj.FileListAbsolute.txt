@@ -1,0 +1,4 @@
+c:\DevProjects\ExcelRest\ExcelRest\bin\Debug\ExcelRest.dll
+c:\DevProjects\ExcelRest\ExcelRest\bin\Debug\ExcelRest.pdb
+c:\DevProjects\ExcelRest\ExcelRest\obj\Debug\ExcelRest.dll
+c:\DevProjects\ExcelRest\ExcelRest\obj\Debug\ExcelRest.pdb

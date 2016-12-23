@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="PPT to PPTX Conversion" Description="A feature for coverting old PowerPoint decks" Id="1084ae7d-e218-42fb-b189-e29c22f83aae" Scope="Web">
+  <ElementManifests>
+    <ElementManifest Location="Action\Elements.xml" />
+  </ElementManifests>
+</Feature>

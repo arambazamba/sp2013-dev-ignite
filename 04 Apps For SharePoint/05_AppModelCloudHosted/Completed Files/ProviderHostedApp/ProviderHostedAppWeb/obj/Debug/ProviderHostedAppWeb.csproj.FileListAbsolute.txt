@@ -1,0 +1,22 @@
+c:\DevProjects\ProviderHostedApp\ProviderHostedAppWeb\bin\ProviderHostedAppWeb.dll
+c:\DevProjects\ProviderHostedApp\ProviderHostedAppWeb\bin\ProviderHostedAppWeb.pdb
+c:\DevProjects\ProviderHostedApp\ProviderHostedAppWeb\bin\Microsoft.IdentityModel.dll
+c:\DevProjects\ProviderHostedApp\ProviderHostedAppWeb\bin\Microsoft.IdentityModel.Extensions.dll
+c:\DevProjects\ProviderHostedApp\ProviderHostedAppWeb\bin\Microsoft.SharePoint.Client.dll
+c:\DevProjects\ProviderHostedApp\ProviderHostedAppWeb\bin\Microsoft.SharePoint.Client.Runtime.dll
+c:\DevProjects\ProviderHostedApp\ProviderHostedAppWeb\bin\Microsoft.SharePoint.Client.xml
+c:\DevProjects\ProviderHostedApp\ProviderHostedAppWeb\bin\Microsoft.SharePoint.Client.Runtime.xml
+c:\DevProjects\ProviderHostedApp\ProviderHostedAppWeb\obj\Debug\ProviderHostedAppWeb.dll
+c:\DevProjects\ProviderHostedApp\ProviderHostedAppWeb\obj\Debug\ProviderHostedAppWeb.pdb
+D:\Presentations & Demos\05_AppModelCloudHosted\Completed Files\ProviderHostedApp\ProviderHostedAppWeb\bin\ProviderHostedAppWeb.dll
+D:\Presentations & Demos\05_AppModelCloudHosted\Completed Files\ProviderHostedApp\ProviderHostedAppWeb\bin\ProviderHostedAppWeb.pdb
+D:\Presentations & Demos\05_AppModelCloudHosted\Completed Files\ProviderHostedApp\ProviderHostedAppWeb\bin\Microsoft.IdentityModel.dll
+D:\Presentations & Demos\05_AppModelCloudHosted\Completed Files\ProviderHostedApp\ProviderHostedAppWeb\bin\Microsoft.IdentityModel.Extensions.dll
+D:\Presentations & Demos\05_AppModelCloudHosted\Completed Files\ProviderHostedApp\ProviderHostedAppWeb\bin\Microsoft.SharePoint.Client.dll
+D:\Presentations & Demos\05_AppModelCloudHosted\Completed Files\ProviderHostedApp\ProviderHostedAppWeb\bin\Microsoft.SharePoint.Client.Runtime.dll
+D:\Presentations & Demos\05_AppModelCloudHosted\Completed Files\ProviderHostedApp\ProviderHostedAppWeb\bin\Microsoft.SharePoint.Client.xml
+D:\Presentations & Demos\05_AppModelCloudHosted\Completed Files\ProviderHostedApp\ProviderHostedAppWeb\bin\Microsoft.SharePoint.Client.Runtime.xml
+D:\Presentations & Demos\05_AppModelCloudHosted\Completed Files\ProviderHostedApp\ProviderHostedAppWeb\bin\en\Microsoft.IdentityModel.resources.dll
+D:\Presentations & Demos\05_AppModelCloudHosted\Completed Files\ProviderHostedApp\ProviderHostedAppWeb\obj\Debug\ProviderHostedAppWeb.csprojResolveAssemblyReference.cache
+D:\Presentations & Demos\05_AppModelCloudHosted\Completed Files\ProviderHostedApp\ProviderHostedAppWeb\obj\Debug\ProviderHostedAppWeb.dll
+D:\Presentations & Demos\05_AppModelCloudHosted\Completed Files\ProviderHostedApp\ProviderHostedAppWeb\obj\Debug\ProviderHostedAppWeb.pdb

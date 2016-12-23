@@ -1,0 +1,9 @@
+D:\Dev\02 Server Object Model Basics\PermissionConsole2013\PermissionConsole2013\bin\Debug\PermissionConsole2013.exe.config
+D:\Dev\02 Server Object Model Basics\PermissionConsole2013\PermissionConsole2013\bin\Debug\PermissionConsole2013.exe
+D:\Dev\02 Server Object Model Basics\PermissionConsole2013\PermissionConsole2013\bin\Debug\PermissionConsole2013.pdb
+D:\Dev\02 Server Object Model Basics\PermissionConsole2013\PermissionConsole2013\obj\Debug\PermissionConsole2013.csprojResolveAssemblyReference.cache
+D:\Dev\02 Server Object Model Basics\PermissionConsole2013\PermissionConsole2013\obj\Debug\PermissionConsole2013.exe
+D:\Dev\02 Server Object Model Basics\PermissionConsole2013\PermissionConsole2013\obj\Debug\PermissionConsole2013.pdb
+D:\02 Server Object Model Basics\PermissionConsole\PermissionConsole2013\bin\Debug\PermissionConsole2013.exe.config
+D:\02 Server Object Model Basics\PermissionConsole\PermissionConsole2013\obj\Debug\PermissionConsole2013.exe
+D:\02 Server Object Model Basics\PermissionConsole\PermissionConsole2013\obj\Debug\PermissionConsole2013.pdb

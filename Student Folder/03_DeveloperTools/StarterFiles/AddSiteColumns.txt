@@ -1,0 +1,11 @@
+<Field
+  ID="{82642ec8-ef9b-478f-acf9-31f7d45fbc31}" 
+  Name="LinkTitle" 
+  DisplayName="Last Name" 
+  Type="Computed" />
+
+<Field 
+  ID="{bc91a437-52e7-49e1-8c4e-4698904b2b6d}" 
+  Name="LinkTitleNoMenu" 
+  DisplayName="Last Name" 
+  Type="Computed" />

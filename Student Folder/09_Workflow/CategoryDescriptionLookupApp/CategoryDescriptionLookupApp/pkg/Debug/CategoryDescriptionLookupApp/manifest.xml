@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="85a39c0d-93a9-457b-bb9f-489def05a7f3" SharePointProductVersion="15.0">
+  <FeatureManifests>
+    <FeatureManifest Location="WF624971317e1f47a7a9e7fb73bffd493e\Feature.xml" />
+    <FeatureManifest Location="CategoryDescriptionLookupApp_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

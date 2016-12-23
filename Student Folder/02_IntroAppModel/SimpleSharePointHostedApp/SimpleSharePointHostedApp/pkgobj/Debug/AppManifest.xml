@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Published:a2ba41A2-b704-4a9d-a9ed-aecacc1d43ed-->
+<App xmlns="http://schemas.microsoft.com/sharepoint/2012/app/manifest" Name="SimpleSharePointHostedApp" ProductID="{a2419231-31e7-44c4-870b-b0c6bbc44012}" Version="1.0.0.0" SharePointMinVersion="15.0.0.0">
+  <Properties>
+    <Title>Simple SharePoint Hosted App</Title>
+    <StartPage>~appWebUrl/Pages/Default.aspx?{StandardTokens}</StartPage>
+  </Properties>
+  <AppPrincipal>
+    <Internal />
+  </AppPrincipal>
+</App>

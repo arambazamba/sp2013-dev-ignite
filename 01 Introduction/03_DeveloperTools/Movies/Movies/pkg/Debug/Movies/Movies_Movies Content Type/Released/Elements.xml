@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Field
+       ID="{2568b09e-1c10-416d-871d-530b4f7df776}"
+       Name="Released"
+       DisplayName="Year Released"
+       Type="Text"
+       Required="FALSE"
+       Group="Contoso Site Columns">
+  </Field>
+</Elements>

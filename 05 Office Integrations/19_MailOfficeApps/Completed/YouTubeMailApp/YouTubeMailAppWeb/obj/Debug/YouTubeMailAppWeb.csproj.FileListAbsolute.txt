@@ -1,0 +1,15 @@
+c:\DevProjects\YouTubeMailApp\YouTubeMailAppWeb\bin\YouTubeMailAppWeb.dll
+c:\DevProjects\YouTubeMailApp\YouTubeMailAppWeb\bin\YouTubeMailAppWeb.pdb
+c:\DevProjects\YouTubeMailApp\YouTubeMailAppWeb\obj\Debug\YouTubeMailAppWeb.csprojResolveAssemblyReference.cache
+c:\DevProjects\YouTubeMailApp\YouTubeMailAppWeb\obj\Debug\YouTubeMailAppWeb.dll
+c:\DevProjects\YouTubeMailApp\YouTubeMailAppWeb\obj\Debug\YouTubeMailAppWeb.pdb
+D:\Dev ETC\05 Office Integrations\19_MailOfficeApps\Completed\YouTubeMailApp\YouTubeMailAppWeb\bin\YouTubeMailAppWeb.dll
+D:\Dev ETC\05 Office Integrations\19_MailOfficeApps\Completed\YouTubeMailApp\YouTubeMailAppWeb\bin\YouTubeMailAppWeb.pdb
+D:\Dev ETC\05 Office Integrations\19_MailOfficeApps\Completed\YouTubeMailApp\YouTubeMailAppWeb\obj\Debug\YouTubeMailAppWeb.csprojResolveAssemblyReference.cache
+D:\Dev ETC\05 Office Integrations\19_MailOfficeApps\Completed\YouTubeMailApp\YouTubeMailAppWeb\obj\Debug\YouTubeMailAppWeb.dll
+D:\Dev ETC\05 Office Integrations\19_MailOfficeApps\Completed\YouTubeMailApp\YouTubeMailAppWeb\obj\Debug\YouTubeMailAppWeb.pdb
+D:\Dev\05 Office Integrations\19_MailOfficeApps\Completed\YouTubeMailApp\YouTubeMailAppWeb\bin\YouTubeMailAppWeb.dll
+D:\Dev\05 Office Integrations\19_MailOfficeApps\Completed\YouTubeMailApp\YouTubeMailAppWeb\bin\YouTubeMailAppWeb.pdb
+D:\Dev\05 Office Integrations\19_MailOfficeApps\Completed\YouTubeMailApp\YouTubeMailAppWeb\obj\Debug\YouTubeMailAppWeb.csprojResolveAssemblyReference.cache
+D:\Dev\05 Office Integrations\19_MailOfficeApps\Completed\YouTubeMailApp\YouTubeMailAppWeb\obj\Debug\YouTubeMailAppWeb.dll
+D:\Dev\05 Office Integrations\19_MailOfficeApps\Completed\YouTubeMailApp\YouTubeMailAppWeb\obj\Debug\YouTubeMailAppWeb.pdb

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="83233f37-15b2-42b1-af8a-435335a0d085" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="Doc2Esmx.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Layouts\Doc2Esmx\Converter.aspx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="Doc2Esmx_Main\Feature.xml" />
+  </FeatureManifests>
+</Solution>

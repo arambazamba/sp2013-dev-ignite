@@ -1,0 +1,30 @@
+﻿*
+{
+    margin: 0px;
+    overflow: hidden;
+}
+.thumbnailFrame
+{
+    margin-bottom: 4px;
+}
+.thumbnail
+{
+    margin-right: 4px;
+}
+.videoTitle
+{
+    font-family: Segoe UI;
+    font-size: 16px;
+}
+.multiLineVideoDetails
+{
+    font-family: Segoe UI;
+    font-size: 14px;
+    color: Gray;
+}
+.singleLineVideoDetails
+{
+    font-family: Segoe UI;
+    font-size: 12px;
+    color: Gray;
+}

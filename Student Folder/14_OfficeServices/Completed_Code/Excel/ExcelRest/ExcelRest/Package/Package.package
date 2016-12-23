@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="727476ef-04b4-495f-9168-b79bd0848b69" 
+        solutionId="727476ef-04b4-495f-9168-b79bd0848b69" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="ExcelRest"
+        sharePointProductVersion="15.0">
+    <features>
+        <featureReference itemId="393ddeba-0132-4eef-b7c7-a84e7f2cdbc8" />
+    </features>
+</package>

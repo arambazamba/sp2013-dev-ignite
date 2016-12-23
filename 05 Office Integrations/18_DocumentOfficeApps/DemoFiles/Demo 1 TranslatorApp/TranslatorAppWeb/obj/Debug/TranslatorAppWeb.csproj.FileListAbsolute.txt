@@ -1,0 +1,25 @@
+D:\Ignite\Beta2\10 DocumentAgaves\DemoFiles\TranslatorApp\TranslatorAppWeb\bin\TranslatorAppWeb.dll
+D:\Ignite\Beta2\10 DocumentAgaves\DemoFiles\TranslatorApp\TranslatorAppWeb\bin\TranslatorAppWeb.pdb
+D:\Ignite\Beta2\10 DocumentAgaves\DemoFiles\TranslatorApp\TranslatorAppWeb\obj\Debug\TranslatorAppWeb.csprojResolveAssemblyReference.cache
+D:\Ignite\Beta2\10 DocumentAgaves\DemoFiles\TranslatorApp\TranslatorAppWeb\obj\Debug\TranslatorAppWeb.dll
+D:\Ignite\Beta2\10 DocumentAgaves\DemoFiles\TranslatorApp\TranslatorAppWeb\obj\Debug\TranslatorAppWeb.pdb
+D:\Ignite\Beta2\10 DocumentAgaves\DemoFiles\Demo 1 TranslatorApp\Solution\TranslatorAppWeb\bin\TranslatorAppWeb.dll
+D:\Ignite\Beta2\10 DocumentAgaves\DemoFiles\Demo 1 TranslatorApp\Solution\TranslatorAppWeb\bin\TranslatorAppWeb.pdb
+D:\Ignite\Beta2\10 DocumentAgaves\DemoFiles\Demo 1 TranslatorApp\Solution\TranslatorAppWeb\obj\Debug\TranslatorAppWeb.csprojResolveAssemblyReference.cache
+D:\Ignite\Beta2\10 DocumentAgaves\DemoFiles\Demo 1 TranslatorApp\Solution\TranslatorAppWeb\obj\Debug\TranslatorAppWeb.dll
+D:\Ignite\Beta2\10 DocumentAgaves\DemoFiles\Demo 1 TranslatorApp\Solution\TranslatorAppWeb\obj\Debug\TranslatorAppWeb.pdb
+D:\Ignite\Beta2\10 DocumentAgaves\DemoFiles\Demo 1 TranslatorApp\TranslatorAppWeb\bin\TranslatorAppWeb.dll
+D:\Ignite\Beta2\10 DocumentAgaves\DemoFiles\Demo 1 TranslatorApp\TranslatorAppWeb\bin\TranslatorAppWeb.pdb
+D:\Ignite\Beta2\10 DocumentAgaves\DemoFiles\Demo 1 TranslatorApp\TranslatorAppWeb\obj\Debug\TranslatorAppWeb.csprojResolveAssemblyReference.cache
+D:\Ignite\Beta2\10 DocumentAgaves\DemoFiles\Demo 1 TranslatorApp\TranslatorAppWeb\obj\Debug\TranslatorAppWeb.dll
+D:\Ignite\Beta2\10 DocumentAgaves\DemoFiles\Demo 1 TranslatorApp\TranslatorAppWeb\obj\Debug\TranslatorAppWeb.pdb
+C:\Student\Presentations+Demos\18_DocumentOfficeApps\DemoFiles\Demo 1 TranslatorApp\TranslatorAppWeb\bin\TranslatorAppWeb.dll
+C:\Student\Presentations+Demos\18_DocumentOfficeApps\DemoFiles\Demo 1 TranslatorApp\TranslatorAppWeb\bin\TranslatorAppWeb.pdb
+C:\Student\Presentations+Demos\18_DocumentOfficeApps\DemoFiles\Demo 1 TranslatorApp\TranslatorAppWeb\obj\Debug\TranslatorAppWeb.csprojResolveAssemblyReference.cache
+C:\Student\Presentations+Demos\18_DocumentOfficeApps\DemoFiles\Demo 1 TranslatorApp\TranslatorAppWeb\obj\Debug\TranslatorAppWeb.dll
+C:\Student\Presentations+Demos\18_DocumentOfficeApps\DemoFiles\Demo 1 TranslatorApp\TranslatorAppWeb\obj\Debug\TranslatorAppWeb.pdb
+D:\05 Office Integrations\18_DocumentOfficeApps\DemoFiles\Demo 1 TranslatorApp\TranslatorAppWeb\bin\TranslatorAppWeb.dll
+D:\05 Office Integrations\18_DocumentOfficeApps\DemoFiles\Demo 1 TranslatorApp\TranslatorAppWeb\bin\TranslatorAppWeb.pdb
+D:\05 Office Integrations\18_DocumentOfficeApps\DemoFiles\Demo 1 TranslatorApp\TranslatorAppWeb\obj\Debug\TranslatorAppWeb.csprojResolveAssemblyReference.cache
+D:\05 Office Integrations\18_DocumentOfficeApps\DemoFiles\Demo 1 TranslatorApp\TranslatorAppWeb\obj\Debug\TranslatorAppWeb.dll
+D:\05 Office Integrations\18_DocumentOfficeApps\DemoFiles\Demo 1 TranslatorApp\TranslatorAppWeb\obj\Debug\TranslatorAppWeb.pdb

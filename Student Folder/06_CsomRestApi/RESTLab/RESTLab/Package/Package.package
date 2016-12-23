@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="225aaff9-8de8-4606-ac4f-3c08b57de1c8" solutionId="225aaff9-8de8-4606-ac4f-3c08b57de1c8" resetWebServer="false" sharePointProductVersion="15.0" name="RESTLab" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="128df0dc-5b17-4e6f-8ffe-3ffe6f6df6c9" />
+  </features>
+</package>

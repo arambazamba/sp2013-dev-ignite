@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="67192439-ca33-4d1b-88dc-3a20357c8050" 
+        solutionId="67192439-ca33-4d1b-88dc-3a20357c8050" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="HelloApp"
+        sharePointProductVersion="15.0">
+  <features>
+        <featureReference itemId="8ff05fb4-c1c7-4b7a-ad02-d86376540b31" />
+  </features>
+</package>

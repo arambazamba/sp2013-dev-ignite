@@ -1,0 +1,2 @@
+obj\Debug\Workflow.g.xaml
+obj\Debug\CategoryDescriptionLookupApp.Category_Description_Lookup_Workflow_Workflow_BeforeInitializeComponentHelper.txt

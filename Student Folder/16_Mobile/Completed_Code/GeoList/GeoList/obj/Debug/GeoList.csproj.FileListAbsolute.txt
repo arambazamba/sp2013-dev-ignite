@@ -1,0 +1,5 @@
+c:\DevProjects\GeoList\GeoList\bin\Debug\GeoList.dll
+c:\DevProjects\GeoList\GeoList\bin\Debug\GeoList.pdb
+c:\DevProjects\GeoList\GeoList\obj\Debug\GeoList.csprojResolveAssemblyReference.cache
+c:\DevProjects\GeoList\GeoList\obj\Debug\GeoList.dll
+c:\DevProjects\GeoList\GeoList\obj\Debug\GeoList.pdb

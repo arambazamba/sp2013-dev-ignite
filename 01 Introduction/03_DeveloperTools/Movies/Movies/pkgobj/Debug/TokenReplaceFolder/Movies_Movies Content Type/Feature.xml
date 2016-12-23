@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="Movies Content Type" Id="3996e5ed-f959-4c25-9668-5dd24ea697f3" Scope="Web">
+  <ElementManifests>
+    <ElementManifest Location="Genre\Elements.xml" />
+    <ElementManifest Location="Released\Elements.xml" />
+    <ElementManifest Location="MoviesListInstance\Elements.xml" />
+    <ElementManifest Location="MoviesList\Elements.xml" />
+    <ElementFile Location="MoviesList\Schema.xml" />
+  </ElementManifests>
+</Feature>

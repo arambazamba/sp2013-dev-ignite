@@ -1,0 +1,9 @@
+D:\Dev\02 Server Object Model Basics\CAML Query 2013\CAML Query 2013\obj\Debug\CAML Query 2013.csprojResolveAssemblyReference.cache
+D:\Dev\02 Server Object Model Basics\CAML Query 2013\CAML Query 2013\bin\Debug\CAML Query 2013.exe.config
+D:\Dev\02 Server Object Model Basics\CAML Query 2013\CAML Query 2013\bin\Debug\CAML Query 2013.exe
+D:\Dev\02 Server Object Model Basics\CAML Query 2013\CAML Query 2013\bin\Debug\CAML Query 2013.pdb
+D:\Dev\02 Server Object Model Basics\CAML Query 2013\CAML Query 2013\obj\Debug\CAML Query 2013.exe
+D:\Dev\02 Server Object Model Basics\CAML Query 2013\CAML Query 2013\obj\Debug\CAML Query 2013.pdb
+D:\02 Server Object Model Basics\CAML Query\CAML Query 2013\bin\Debug\CAML Query 2013.exe.config
+D:\02 Server Object Model Basics\CAML Query\CAML Query 2013\obj\Debug\CAML Query 2013.exe
+D:\02 Server Object Model Basics\CAML Query\CAML Query 2013\obj\Debug\CAML Query 2013.pdb

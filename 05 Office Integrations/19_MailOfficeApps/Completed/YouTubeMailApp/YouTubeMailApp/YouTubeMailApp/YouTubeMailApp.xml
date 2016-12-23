@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--Created:cb85b80c-f585-40ff-8bfc-12ff4d0e34a9-->
+<OfficeApp xmlns="http://schemas.microsoft.com/office/appforoffice/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="MailApp">
+  <Id>415ba9f5-8950-4c8f-9a67-843e5e6da5f1</Id>
+  <Version>1.0</Version>
+  <ProviderName>administrator</ProviderName>
+  <DefaultLocale>en-US</DefaultLocale>
+  <DisplayName DefaultValue="YouTubeMailApp" />
+  <Description DefaultValue="An app to show YouTube videos in messages without leaving Outlook"/>
+<IconUrl DefaultValue="~remoteAppUrl/Content/YouTubeLogo.png" />
+  <Capabilities>
+    <Capability Name="Mailbox" />
+  </Capabilities>
+  <DesktopSettings>
+    <SourceLocation DefaultValue="~remoteAppUrl/Pages/YouTubeMailApp.html" />
+    <RequestedHeight>216</RequestedHeight>
+  </DesktopSettings>
+  <Permissions>ReadItem</Permissions>
+    <Rule xsi:type="RuleCollection" Mode="And">
+      <Rule xsi:type="ItemIs" ItemType="Message"/>
+    <Rule xsi:type="ItemHasRegularExpressionMatch" RegExName="VideoURL" RegExValue="http://(((www\.)?youtube\.com/watch\?v=)|(youtu\.be/))[a-zA-Z0-9_-]{11}" PropertyName="BodyAsPlaintext" IgnoreCase="true" />
+  </Rule>
+</OfficeApp>

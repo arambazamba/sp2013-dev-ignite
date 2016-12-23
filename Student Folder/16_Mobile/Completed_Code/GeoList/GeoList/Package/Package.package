@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="27540229-c527-4fe1-96d5-9f2f4c9fa766" solutionId="27540229-c527-4fe1-96d5-9f2f4c9fa766" resetWebServer="false" sharePointProductVersion="15.0" name="GeoList" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="905eb117-e84f-4262-8548-3356ebd00a2f" />
+  </features>
+</package>

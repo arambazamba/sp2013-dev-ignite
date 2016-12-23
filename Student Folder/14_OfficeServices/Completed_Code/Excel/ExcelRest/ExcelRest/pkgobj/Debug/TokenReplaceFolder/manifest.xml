@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="727476ef-04b4-495f-9168-b79bd0848b69" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="ExcelRest.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="ExcelRest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=e5a8d0b407ade738" Namespace="ExcelRest.VisualWebPart1" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="ExcelRest_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

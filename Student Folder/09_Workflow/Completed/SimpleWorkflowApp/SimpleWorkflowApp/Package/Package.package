@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="a5317d75-20f3-4b77-a536-d03368023e02" 
+        solutionId="a5317d75-20f3-4b77-a536-d03368023e02" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="SimpleWorkflowApp"
+        sharePointProductVersion="15.0">
+  <features>
+        <featureReference itemId="6e289089-84cc-408b-b894-8179aecd97fb" />
+  </features>
+</package>

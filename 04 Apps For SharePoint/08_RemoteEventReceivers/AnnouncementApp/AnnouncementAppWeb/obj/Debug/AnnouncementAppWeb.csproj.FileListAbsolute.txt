@@ -1,0 +1,23 @@
+c:\DevProjects\AnnouncementApp\AnnouncementAppWeb\bin\AnnouncementAppWeb.dll
+c:\DevProjects\AnnouncementApp\AnnouncementAppWeb\bin\AnnouncementAppWeb.pdb
+c:\DevProjects\AnnouncementApp\AnnouncementAppWeb\bin\Microsoft.IdentityModel.dll
+c:\DevProjects\AnnouncementApp\AnnouncementAppWeb\bin\Microsoft.IdentityModel.Extensions.dll
+c:\DevProjects\AnnouncementApp\AnnouncementAppWeb\bin\Microsoft.SharePoint.Client.dll
+c:\DevProjects\AnnouncementApp\AnnouncementAppWeb\bin\Microsoft.SharePoint.Client.Runtime.dll
+c:\DevProjects\AnnouncementApp\AnnouncementAppWeb\bin\Microsoft.SharePoint.Client.xml
+c:\DevProjects\AnnouncementApp\AnnouncementAppWeb\bin\Microsoft.SharePoint.Client.Runtime.xml
+c:\DevProjects\AnnouncementApp\AnnouncementAppWeb\obj\Debug\AnnouncementAppWeb.csprojResolveAssemblyReference.cache
+c:\DevProjects\AnnouncementApp\AnnouncementAppWeb\obj\Debug\AnnouncementAppWeb.dll
+c:\DevProjects\AnnouncementApp\AnnouncementAppWeb\obj\Debug\AnnouncementAppWeb.pdb
+D:\Dev ETC\04 Apps For SharePoint\08_RemoteEventReceivers\AnnouncementApp\AnnouncementAppWeb\obj\Debug\AnnouncementAppWeb.csprojResolveAssemblyReference.cache
+D:\Dev ETC\04 Apps For SharePoint\08_RemoteEventReceivers\AnnouncementApp\AnnouncementAppWeb\obj\Debug\AnnouncementAppWeb.dll
+D:\Dev ETC\04 Apps For SharePoint\08_RemoteEventReceivers\AnnouncementApp\AnnouncementAppWeb\obj\Debug\AnnouncementAppWeb.pdb
+D:\Dev ETC\04 Apps For SharePoint\08_RemoteEventReceivers\AnnouncementApp\AnnouncementAppWeb\bin\AnnouncementAppWeb.dll
+D:\Dev ETC\04 Apps For SharePoint\08_RemoteEventReceivers\AnnouncementApp\AnnouncementAppWeb\bin\AnnouncementAppWeb.pdb
+D:\Dev ETC\04 Apps For SharePoint\08_RemoteEventReceivers\AnnouncementApp\AnnouncementAppWeb\bin\Microsoft.IdentityModel.dll
+D:\Dev ETC\04 Apps For SharePoint\08_RemoteEventReceivers\AnnouncementApp\AnnouncementAppWeb\bin\Microsoft.IdentityModel.Extensions.dll
+D:\Dev ETC\04 Apps For SharePoint\08_RemoteEventReceivers\AnnouncementApp\AnnouncementAppWeb\bin\Microsoft.SharePoint.Client.dll
+D:\Dev ETC\04 Apps For SharePoint\08_RemoteEventReceivers\AnnouncementApp\AnnouncementAppWeb\bin\Microsoft.SharePoint.Client.Runtime.dll
+D:\Dev ETC\04 Apps For SharePoint\08_RemoteEventReceivers\AnnouncementApp\AnnouncementAppWeb\bin\Microsoft.SharePoint.Client.xml
+D:\Dev ETC\04 Apps For SharePoint\08_RemoteEventReceivers\AnnouncementApp\AnnouncementAppWeb\bin\Microsoft.SharePoint.Client.Runtime.xml
+D:\Dev ETC\04 Apps For SharePoint\08_RemoteEventReceivers\AnnouncementApp\AnnouncementAppWeb\bin\en\Microsoft.IdentityModel.resources.dll

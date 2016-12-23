@@ -1,0 +1,4 @@
+D:\Dev\03 Features and Solutions\DemoWebParts\DemoWebParts\bin\Debug\DemoWebParts.dll
+D:\Dev\03 Features and Solutions\DemoWebParts\DemoWebParts\bin\Debug\DemoWebParts.pdb
+D:\Dev\03 Features and Solutions\DemoWebParts\DemoWebParts\obj\Debug\DemoWebParts.dll
+D:\Dev\03 Features and Solutions\DemoWebParts\DemoWebParts\obj\Debug\DemoWebParts.pdb

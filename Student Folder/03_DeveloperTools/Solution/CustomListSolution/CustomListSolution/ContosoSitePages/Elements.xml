@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="ContosoSitePages">
+
+    <File Path="ContosoSitePages\Page1.aspx" Url="ContosoSitePages/Page1.aspx" />
+
+       <File Path="ContosoSitePages\Page2.aspx" Url="ContosoSitePages/Page2.aspx" >
+        <AllUsersWebPart WebPartOrder="0" WebPartZoneID="Left">
+          <![CDATA[ 
+        <webParts> 
+         <webPart xmlns="http://schemas.microsoft.com/WebPart/v3"> 
+           <metaData> 
+             <type name="Microsoft.SharePoint.WebPartPages.XsltListViewWebPart,Microsoft.SharePoint,Version=15.0.0.0,Culture=neutral,PublicKeyToken=71e9bce111e9429c" /> 
+             <importErrorMessage>Cannot import this Web Part.</importErrorMessage> 
+           </metaData> 
+           <data> 
+             <properties> 
+               <property name="Title" type="string">Team Members</property> 
+               <property name="ListDisplayName" type="string">Team Members</property> 
+               <property name="ChromeType" type="chrometype">TitleOnly</property> 
+             </properties> 
+           </data> 
+         </webPart> 
+       </webParts> ]]>
+        </AllUsersWebPart>
+      </File>
+      
+    <File Path="ContosoSitePages\Page3.aspx" Url="ContosoSitePages/Page3.aspx" />
+
+  </Module>
+</Elements>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="225aaff9-8de8-4606-ac4f-3c08b57de1c8" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="RESTLab.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="RESTLab_SiteMain\Feature.xml" />
+  </FeatureManifests>
+</Solution>

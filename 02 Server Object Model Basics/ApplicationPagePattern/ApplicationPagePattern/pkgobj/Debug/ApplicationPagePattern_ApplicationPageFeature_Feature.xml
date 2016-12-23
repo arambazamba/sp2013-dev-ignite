@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="ec4383a3-db22-4cf7-8e90-f3224ca42638" Scope="Web" Title="Application Page Pattern Feature">
+  <ElementManifests>
+    <ElementManifest Location="DemoPageMenuEntry\Elements.xml" />
+  </ElementManifests>
+</Feature>

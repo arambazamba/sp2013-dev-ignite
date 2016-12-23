@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="e56d310c-8c2a-40bb-a905-bc6bb1bc125f" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="CreateCustomerList.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="CreateCustomerList_MainWeb\Feature.xml" />
+  </FeatureManifests>
+</Solution>

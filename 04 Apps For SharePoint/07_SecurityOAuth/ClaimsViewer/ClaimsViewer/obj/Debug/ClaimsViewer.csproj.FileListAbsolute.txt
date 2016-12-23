@@ -1,0 +1,30 @@
+C:\Student\Demos\Security\ClaimsViewer\ClaimsViewer\bin\Debug\ClaimsViewer.dll
+C:\Student\Demos\Security\ClaimsViewer\ClaimsViewer\bin\Debug\ClaimsViewer.pdb
+C:\Student\Demos\Security\ClaimsViewer\ClaimsViewer\obj\Debug\ClaimsViewer.csprojResolveAssemblyReference.cache
+C:\Student\Demos\Security\ClaimsViewer\ClaimsViewer\obj\Debug\ClaimsViewer.dll
+C:\Student\Demos\Security\ClaimsViewer\ClaimsViewer\obj\Debug\ClaimsViewer.pdb
+D:\Ignite\Beta2\07 SecurityOAuth\DemoFiles\ClaimsViewer\ClaimsViewer\bin\Debug\ClaimsViewer.dll
+D:\Ignite\Beta2\07 SecurityOAuth\DemoFiles\ClaimsViewer\ClaimsViewer\bin\Debug\ClaimsViewer.pdb
+D:\Ignite\Beta2\07 SecurityOAuth\DemoFiles\ClaimsViewer\ClaimsViewer\obj\Debug\ClaimsViewer.csprojResolveAssemblyReference.cache
+D:\Ignite\Beta2\07 SecurityOAuth\DemoFiles\ClaimsViewer\ClaimsViewer\obj\Debug\ClaimsViewer.dll
+D:\Ignite\Beta2\07 SecurityOAuth\DemoFiles\ClaimsViewer\ClaimsViewer\obj\Debug\ClaimsViewer.pdb
+\\tsclient\E\Ignite\Dev\Student\Presentations+Demos\07_SecurityOAuth\ClaimsViewer\ClaimsViewer\bin\Debug\ClaimsViewer.dll
+\\tsclient\E\Ignite\Dev\Student\Presentations+Demos\07_SecurityOAuth\ClaimsViewer\ClaimsViewer\bin\Debug\ClaimsViewer.pdb
+\\tsclient\E\Ignite\Dev\Student\Presentations+Demos\07_SecurityOAuth\ClaimsViewer\ClaimsViewer\obj\Debug\ClaimsViewer.csprojResolveAssemblyReference.cache
+\\tsclient\E\Ignite\Dev\Student\Presentations+Demos\07_SecurityOAuth\ClaimsViewer\ClaimsViewer\obj\Debug\ClaimsViewer.dll
+\\tsclient\E\Ignite\Dev\Student\Presentations+Demos\07_SecurityOAuth\ClaimsViewer\ClaimsViewer\obj\Debug\ClaimsViewer.pdb
+C:\Completed\Presentations+Demos\07_SecurityOAuth\ClaimsViewer\ClaimsViewer\bin\Debug\ClaimsViewer.dll
+C:\Completed\Presentations+Demos\07_SecurityOAuth\ClaimsViewer\ClaimsViewer\bin\Debug\ClaimsViewer.pdb
+C:\Completed\Presentations+Demos\07_SecurityOAuth\ClaimsViewer\ClaimsViewer\obj\Debug\ClaimsViewer.csprojResolveAssemblyReference.cache
+C:\Completed\Presentations+Demos\07_SecurityOAuth\ClaimsViewer\ClaimsViewer\obj\Debug\ClaimsViewer.dll
+C:\Completed\Presentations+Demos\07_SecurityOAuth\ClaimsViewer\ClaimsViewer\obj\Debug\ClaimsViewer.pdb
+D:\Dev ETC\04 Apps For SharePoint\07_SecurityOAuth\ClaimsViewer\ClaimsViewer\bin\Debug\ClaimsViewer.dll
+D:\Dev ETC\04 Apps For SharePoint\07_SecurityOAuth\ClaimsViewer\ClaimsViewer\bin\Debug\ClaimsViewer.pdb
+D:\Dev ETC\04 Apps For SharePoint\07_SecurityOAuth\ClaimsViewer\ClaimsViewer\obj\Debug\ClaimsViewer.csprojResolveAssemblyReference.cache
+D:\Dev ETC\04 Apps For SharePoint\07_SecurityOAuth\ClaimsViewer\ClaimsViewer\obj\Debug\ClaimsViewer.dll
+D:\Dev ETC\04 Apps For SharePoint\07_SecurityOAuth\ClaimsViewer\ClaimsViewer\obj\Debug\ClaimsViewer.pdb
+D:\04 Apps For SharePoint\07_SecurityOAuth\ClaimsViewer\ClaimsViewer\bin\Debug\ClaimsViewer.dll
+D:\04 Apps For SharePoint\07_SecurityOAuth\ClaimsViewer\ClaimsViewer\bin\Debug\ClaimsViewer.pdb
+D:\04 Apps For SharePoint\07_SecurityOAuth\ClaimsViewer\ClaimsViewer\obj\Debug\ClaimsViewer.csprojResolveAssemblyReference.cache
+D:\04 Apps For SharePoint\07_SecurityOAuth\ClaimsViewer\ClaimsViewer\obj\Debug\ClaimsViewer.dll
+D:\04 Apps For SharePoint\07_SecurityOAuth\ClaimsViewer\ClaimsViewer\obj\Debug\ClaimsViewer.pdb

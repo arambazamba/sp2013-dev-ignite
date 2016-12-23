@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="d381f644-fe68-4eda-8aef-3ede7ac88f2d" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="Ppt2Pptx.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Layouts\Ppt2Pptx\Converter.aspx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="Ppt2Pptx_Main\Feature.xml" />
+  </FeatureManifests>
+</Solution>

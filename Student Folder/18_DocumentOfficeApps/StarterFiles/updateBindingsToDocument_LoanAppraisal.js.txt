@@ -1,0 +1,9 @@
+
+function updateBindingsToDocument() {
+  Office.select("bindings#applicant_name").setDataAsync(currentApplicant.name, function () { });
+  Office.select("bindings#loan_amount").setDataAsync(currentApplicant.loan_amount, function () { });
+  Office.select("bindings#interest_rate").setDataAsync(currentRate, { coercionType: "text" }, function () { });
+  Office.select("bindings#loan_duration").setDataAsync(currentApplicant.loan_duration, { coercionType: "text" }, function () { });
+  Office.select("bindings#total_income").setDataAsync(currentApplicant.total_income, { coercionType: "text" }, function () { });
+  Office.select("bindings#fixed_expenses").setDataAsync(currentApplicant.fixed_expenses, { coercionType: "text" }, onBindingUpdated);
+}

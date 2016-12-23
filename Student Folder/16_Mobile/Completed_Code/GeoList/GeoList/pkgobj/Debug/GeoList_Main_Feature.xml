@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="Service Calls" Description="Creates a list named 'Service Calls' with a Geolocation field" Id="a5767a78-531c-48e7-bb07-da8a050e74b2" ReceiverAssembly="GeoList, Version=1.0.0.0, Culture=neutral, PublicKeyToken=855c9aa60878655f" ReceiverClass="GeoList.Features.Main.MainEventReceiver" Scope="Web">
+  <ElementManifests>
+    <ElementManifest Location="ServiceCallsInstance\Elements.xml" />
+    <ElementManifest Location="ServiceCalls\Elements.xml" />
+    <ElementFile Location="ServiceCalls\Schema.xml" />
+  </ElementManifests>
+</Feature>

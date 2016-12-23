@@ -1,0 +1,5 @@
+c:\DevProjects\TwitterMailApp\TwitterMailAppWeb\bin\TwitterMailAppWeb.dll
+c:\DevProjects\TwitterMailApp\TwitterMailAppWeb\bin\TwitterMailAppWeb.pdb
+c:\DevProjects\TwitterMailApp\TwitterMailAppWeb\obj\Debug\TwitterMailAppWeb.csprojResolveAssemblyReference.cache
+c:\DevProjects\TwitterMailApp\TwitterMailAppWeb\obj\Debug\TwitterMailAppWeb.dll
+c:\DevProjects\TwitterMailApp\TwitterMailAppWeb\obj\Debug\TwitterMailAppWeb.pdb

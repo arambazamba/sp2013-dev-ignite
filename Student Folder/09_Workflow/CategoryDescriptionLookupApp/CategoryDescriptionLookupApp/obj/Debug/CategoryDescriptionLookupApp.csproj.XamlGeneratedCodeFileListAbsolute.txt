@@ -1,0 +1,5 @@
+obj\Debug\_CategoryDescriptionLookupApp.g.cs
+obj\Debug\Workflow.g.cs
+obj\Debug\CategoryDescriptionLookupApp.Category_Description_Lookup_Workflow_Workflow_BeforeInitializeComponentHelper.cs
+obj\Debug\_AssemblyInfo_1a3f7e3cd20047469165c9da3fb62731.g.cs
+C:\DevProjects\CategoryDescriptionLookupApp\CategoryDescriptionLookupApp\obj\Debug\CategoryDescriptionLookupApp.Category_Description_Lookup_Workflow_Workflow_CompiledExpressionRoot.cs

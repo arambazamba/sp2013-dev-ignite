@@ -1,0 +1,8 @@
+c:\DevProjects\AnnouncementApp\AnnouncementApp\bin\Debug\AnnouncementApp.pdb
+c:\DevProjects\AnnouncementApp\AnnouncementApp\obj\Debug\AnnouncementApp.dll
+c:\DevProjects\AnnouncementApp\AnnouncementApp\obj\Debug\AnnouncementApp.pdb
+c:\DevProjects\AnnouncementApp\AnnouncementApp\obj\Debug\AnnouncementApp.csprojResolveAssemblyReference.cache
+D:\Dev ETC\04 Apps For SharePoint\08_RemoteEventReceivers\AnnouncementApp\AnnouncementApp\bin\Debug\AnnouncementApp.pdb
+D:\Dev ETC\04 Apps For SharePoint\08_RemoteEventReceivers\AnnouncementApp\AnnouncementApp\obj\Debug\AnnouncementApp.csprojResolveAssemblyReference.cache
+D:\Dev ETC\04 Apps For SharePoint\08_RemoteEventReceivers\AnnouncementApp\AnnouncementApp\obj\Debug\AnnouncementApp.dll
+D:\Dev ETC\04 Apps For SharePoint\08_RemoteEventReceivers\AnnouncementApp\AnnouncementApp\obj\Debug\AnnouncementApp.pdb

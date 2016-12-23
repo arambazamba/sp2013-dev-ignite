@@ -1,0 +1,43 @@
+﻿/* Add your CSS styles here
+***************************************************************/
+
+body {
+  margin: 0px;
+  padding: 0px;
+  background-image: url("../Images/background.jpg");
+}
+
+h1 {
+  color: White;
+  padding: 4px;
+  font-size: 1.5em;
+  box-sizing: border-box;
+  height: 32px;
+  margin: 0px;
+  background-color: black;
+}
+
+#toolbar {
+  height: 32px;
+  box-sizing: border-box;
+  padding: 8px;
+}
+
+#toolbar input[type=button]{
+  width: 110px;
+  height:24px; 
+  padding: 2px; 
+  background-color:white; 
+  border:1px solid #ccc; 
+  cursor:pointer; 
+}
+
+#display {
+  margin: 8px;
+  border:  1px solid #300;
+  padding: 8px;
+  background-color: white;
+  min-height: 240px;
+  font-size: 1.25em;
+  color: navy;
+}

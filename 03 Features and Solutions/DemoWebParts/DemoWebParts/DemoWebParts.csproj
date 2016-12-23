@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6F95F71B-32E4-4BC3-9DC6-B432C23DDEB9}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DemoWebParts</RootNamespace>
+    <AssemblyName>DemoWebParts</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetOfficeVersion>15.0</TargetOfficeVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{C1CDDADD-2546-481F-9697-4EA41081F2FC};{14822709-B5A1-4724-98CA-57A101D1B079};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <SandboxedSolution>False</SandboxedSolution>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>true</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>key.snk</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="Microsoft.SharePoint" />
+    <Reference Include="Microsoft.SharePoint.Client.ServerRuntime" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ConnectedWebParts\ConnectedWebParts.cs" />
+    <Compile Include="ConnectedWebParts\IStringContent.cs" />
+    <Compile Include="ConnectedWebParts\SendingWebPart.cs" />
+    <Compile Include="CSSWebPart\CSSWebPart.cs" />
+    <Compile Include="CustomEditorPartWP\CustomEditorPartWP.cs" />
+    <Compile Include="CustomEditorPartWP\EditorPart.cs" />
+    <Compile Include="DataboundWebPart\DataboundWebPart.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SharePointControlsWebPart\SharePointControlsWebPart.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ConnectedWebParts\ConnectedWebParts.webpart" />
+    <None Include="ConnectedWebParts\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{a2e7cb4b-e92f-485d-b3f6-43521f0b08ba}</SharePointProjectItemId>
+    </None>
+    <None Include="CSSWebPart\CSSWebPart.webpart" />
+    <None Include="CSSWebPart\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{cd5675cd-3f8f-4b23-9513-e03ee28f73e0}</SharePointProjectItemId>
+    </None>
+    <None Include="CustomEditorPartWP\CustomEditorPartWP.webpart" />
+    <None Include="CustomEditorPartWP\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{d8c7ab99-9fc0-49f7-8a79-d9b85205e27e}</SharePointProjectItemId>
+    </None>
+    <None Include="DataboundWebPart\DataboundWebPart.webpart" />
+    <None Include="DataboundWebPart\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{802cbb71-db2f-4f62-9eca-48e48b3822f5}</SharePointProjectItemId>
+    </None>
+    <None Include="Features\DemoWebParts\DemoWebParts.feature">
+      <FeatureId>{222bca72-45ad-4756-8064-48c8afeebe16}</FeatureId>
+    </None>
+    <None Include="key.snk" />
+    <None Include="Package\Package.package">
+      <PackageId>{2867168a-e5a8-4fd4-a645-8231a2d64537}</PackageId>
+    </None>
+    <None Include="Package\Package.Template.xml">
+      <DependentUpon>Package.package</DependentUpon>
+    </None>
+    <None Include="SharePointControlsWebPart\SharePointControlsWebPart.webpart" />
+    <None Include="SharePointControlsWebPart\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{9b86c008-bc96-4edc-aeea-9c96eb1f13b3}</SharePointProjectItemId>
+    </None>
+    <None Include="STYLES\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{3c15ef8a-f8e7-4b7c-87b7-e3bfbb9ef663}</SharePointProjectItemId>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="ConnectedWebParts\Elements.xml" />
+    <Content Include="CSSWebPart\Elements.xml" />
+    <Content Include="CustomEditorPartWP\Elements.xml" />
+    <Content Include="DataboundWebPart\Elements.xml" />
+    <Content Include="Features\DemoWebParts\DemoWebParts.Template.xml">
+      <DependentUpon>DemoWebParts.feature</DependentUpon>
+    </Content>
+    <Content Include="STYLES\mystyle.css" />
+    <Content Include="SharePointControlsWebPart\Elements.xml" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '11.0'">11.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(VSToolsPath)\SharePointTools\Microsoft.VisualStudio.SharePoint.targets" Condition="'$(VSToolsPath)' != ''" />
+</Project>

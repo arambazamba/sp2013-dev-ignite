@@ -1,0 +1,9 @@
+C:\Demos\17 - Office Services\PowerPoint\Ppt2Pptx\Ppt2Pptx\bin\Debug\Ppt2Pptx.dll
+C:\Demos\17 - Office Services\PowerPoint\Ppt2Pptx\Ppt2Pptx\bin\Debug\Ppt2Pptx.pdb
+C:\Demos\17 - Office Services\PowerPoint\Ppt2Pptx\Ppt2Pptx\obj\Debug\Ppt2Pptx.dll
+C:\Demos\17 - Office Services\PowerPoint\Ppt2Pptx\Ppt2Pptx\obj\Debug\Ppt2Pptx.pdb
+C:\Student\Hands On Labs\14_OfficeServices\Completed_Code\PowerPoint\Ppt2Pptx\Ppt2Pptx\bin\Debug\Ppt2Pptx.dll
+C:\Student\Hands On Labs\14_OfficeServices\Completed_Code\PowerPoint\Ppt2Pptx\Ppt2Pptx\bin\Debug\Ppt2Pptx.pdb
+C:\Student\Hands On Labs\14_OfficeServices\Completed_Code\PowerPoint\Ppt2Pptx\Ppt2Pptx\obj\Debug\Ppt2Pptx.csprojResolveAssemblyReference.cache
+C:\Student\Hands On Labs\14_OfficeServices\Completed_Code\PowerPoint\Ppt2Pptx\Ppt2Pptx\obj\Debug\Ppt2Pptx.dll
+C:\Student\Hands On Labs\14_OfficeServices\Completed_Code\PowerPoint\Ppt2Pptx\Ppt2Pptx\obj\Debug\Ppt2Pptx.pdb

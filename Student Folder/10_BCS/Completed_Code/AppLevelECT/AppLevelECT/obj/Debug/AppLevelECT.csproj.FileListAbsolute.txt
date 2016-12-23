@@ -1,0 +1,6 @@
+c:\DevProjects\AppLevelECT\AppLevelECT\bin\Debug\AppLevelECT.pdb
+c:\DevProjects\AppLevelECT\AppLevelECT\obj\Debug\AppLevelECT.dll
+c:\DevProjects\AppLevelECT\AppLevelECT\obj\Debug\AppLevelECT.pdb
+D:\Dev ETC\Student Folder\10_BCS\Completed_Code\AppLevelECT\AppLevelECT\bin\Debug\AppLevelECT.pdb
+D:\Dev ETC\Student Folder\10_BCS\Completed_Code\AppLevelECT\AppLevelECT\obj\Debug\AppLevelECT.dll
+D:\Dev ETC\Student Folder\10_BCS\Completed_Code\AppLevelECT\AppLevelECT\obj\Debug\AppLevelECT.pdb

@@ -1,0 +1,1 @@
+c:\DevProjects\CategoryDescriptionLookupApp\CategoryDescriptionLookupApp\bin\Debug\app.publish\1.0.0.0\CategoryDescriptionLookupApp.app

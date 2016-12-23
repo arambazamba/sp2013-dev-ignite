@@ -1,0 +1,15 @@
+C:\Student\Labs\LoanAppraisal\LoanAppraisalWeb\bin\LoanAppraisalWeb.dll
+C:\Student\Labs\LoanAppraisal\LoanAppraisalWeb\bin\LoanAppraisalWeb.pdb
+C:\Student\Labs\LoanAppraisal\LoanAppraisalWeb\obj\Debug\LoanAppraisalWeb.csprojResolveAssemblyReference.cache
+C:\Student\Labs\LoanAppraisal\LoanAppraisalWeb\obj\Debug\LoanAppraisalWeb.dll
+C:\Student\Labs\LoanAppraisal\LoanAppraisalWeb\obj\Debug\LoanAppraisalWeb.pdb
+D:\Ignite\Beta2\10 DocumentAgaves\StudentFiles\Solution\LoanAppraisal\LoanAppraisalWeb\bin\LoanAppraisalWeb.dll
+D:\Ignite\Beta2\10 DocumentAgaves\StudentFiles\Solution\LoanAppraisal\LoanAppraisalWeb\bin\LoanAppraisalWeb.pdb
+D:\Ignite\Beta2\10 DocumentAgaves\StudentFiles\Solution\LoanAppraisal\LoanAppraisalWeb\obj\Debug\LoanAppraisalWeb.csprojResolveAssemblyReference.cache
+D:\Ignite\Beta2\10 DocumentAgaves\StudentFiles\Solution\LoanAppraisal\LoanAppraisalWeb\obj\Debug\LoanAppraisalWeb.dll
+D:\Ignite\Beta2\10 DocumentAgaves\StudentFiles\Solution\LoanAppraisal\LoanAppraisalWeb\obj\Debug\LoanAppraisalWeb.pdb
+C:\Student\Hands On Labs\18_DocumentOfficeApps\Solution\LoanAppraisal\LoanAppraisalWeb\bin\LoanAppraisalWeb.dll
+C:\Student\Hands On Labs\18_DocumentOfficeApps\Solution\LoanAppraisal\LoanAppraisalWeb\bin\LoanAppraisalWeb.pdb
+C:\Student\Hands On Labs\18_DocumentOfficeApps\Solution\LoanAppraisal\LoanAppraisalWeb\obj\Debug\LoanAppraisalWeb.csprojResolveAssemblyReference.cache
+C:\Student\Hands On Labs\18_DocumentOfficeApps\Solution\LoanAppraisal\LoanAppraisalWeb\obj\Debug\LoanAppraisalWeb.dll
+C:\Student\Hands On Labs\18_DocumentOfficeApps\Solution\LoanAppraisal\LoanAppraisalWeb\obj\Debug\LoanAppraisalWeb.pdb

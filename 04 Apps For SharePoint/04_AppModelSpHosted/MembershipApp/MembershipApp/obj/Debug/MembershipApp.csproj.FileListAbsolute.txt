@@ -1,0 +1,3 @@
+d:\MembershipApp\MembershipApp\bin\Debug\MembershipApp.pdb
+d:\MembershipApp\MembershipApp\obj\Debug\MembershipApp.dll
+d:\MembershipApp\MembershipApp\obj\Debug\MembershipApp.pdb

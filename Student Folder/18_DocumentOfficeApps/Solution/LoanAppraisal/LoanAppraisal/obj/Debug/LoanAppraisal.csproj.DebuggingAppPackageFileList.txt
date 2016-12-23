@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\LoanAppraisal.xml
+C:\Student\Hands On Labs\18_DocumentOfficeApps\Solution\LoanAppraisal\LoanAppraisal\bin\Debug\LoanAppraisal.app

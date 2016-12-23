@@ -1,0 +1,5 @@
+D:\Ignite\Beta2\09 IntroAgave\StudentFiles\Solution\ContentGenerator\ContentGeneratorWeb\bin\ContentGeneratorWeb.dll
+D:\Ignite\Beta2\09 IntroAgave\StudentFiles\Solution\ContentGenerator\ContentGeneratorWeb\bin\ContentGeneratorWeb.pdb
+D:\Ignite\Beta2\09 IntroAgave\StudentFiles\Solution\ContentGenerator\ContentGeneratorWeb\obj\Release\ContentGeneratorWeb.csprojResolveAssemblyReference.cache
+D:\Ignite\Beta2\09 IntroAgave\StudentFiles\Solution\ContentGenerator\ContentGeneratorWeb\obj\Release\ContentGeneratorWeb.dll
+D:\Ignite\Beta2\09 IntroAgave\StudentFiles\Solution\ContentGenerator\ContentGeneratorWeb\obj\Release\ContentGeneratorWeb.pdb

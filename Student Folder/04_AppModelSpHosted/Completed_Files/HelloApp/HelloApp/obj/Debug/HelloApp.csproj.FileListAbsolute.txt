@@ -1,0 +1,6 @@
+c:\DevProjects\HelloApp\HelloApp\bin\Debug\HelloApp.pdb
+c:\DevProjects\HelloApp\HelloApp\obj\Debug\HelloApp.dll
+c:\DevProjects\HelloApp\HelloApp\obj\Debug\HelloApp.pdb
+C:\Completed\Hands On Labs\04_AppModelSpHosted\Completed_Files\HelloApp\HelloApp\bin\Debug\HelloApp.pdb
+C:\Completed\Hands On Labs\04_AppModelSpHosted\Completed_Files\HelloApp\HelloApp\obj\Debug\HelloApp.dll
+C:\Completed\Hands On Labs\04_AppModelSpHosted\Completed_Files\HelloApp\HelloApp\obj\Debug\HelloApp.pdb

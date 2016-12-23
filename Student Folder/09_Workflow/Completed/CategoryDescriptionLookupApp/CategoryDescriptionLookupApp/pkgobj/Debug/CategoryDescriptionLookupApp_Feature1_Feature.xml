@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="SharePoint App Feature" Id="f4ad2035-eb31-4ec8-8c9d-24566c23949b" ReceiverAssembly="Microsoft.SharePoint.WorkflowServices, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" ReceiverClass="Microsoft.SharePoint.WorkflowServices.SPWorkflowPackageFeatureReceiver" Scope="Web" Title="CategoryDescriptionLookupApp Feature1">
+  <ElementManifests>
+    <ElementManifest Location="Pages\Elements.xml" />
+    <ElementFile Location="Pages\Default.aspx" />
+    <ElementManifest Location="Scripts\Elements.xml" />
+    <ElementFile Location="Scripts\App.js" />
+    <ElementFile Location="Scripts\jquery-1.7.1.min.js" />
+    <ElementFile Location="Scripts\jquery-1.7.1.js" />
+    <ElementFile Location="Scripts\jquery-1.7.1.intellisense.js" />
+    <ElementManifest Location="Content\Elements.xml" />
+    <ElementFile Location="Content\App.css" />
+    <ElementManifest Location="Images\Elements.xml" />
+    <ElementFile Location="Images\AppIcon.png" />
+    <ElementManifest Location="AnnouncementsInstance\Elements.xml" />
+    <ElementManifest Location="Announcements\Elements.xml" />
+    <ElementFile Location="Announcements\Schema.xml" />
+    <ElementManifest Location="CategoryDescriptionLookupWorkflow\Elements.xml" />
+    <ElementFile Location="CategoryDescriptionLookupWorkflow\Workflow.xaml" />
+    <ElementFile Location="CategoryDescriptionLookupWorkflow\WorkflowStartAssociation" />
+    <ElementManifest Location="WorkflowHistoryList\Elements.xml" />
+    <ElementManifest Location="WorkflowTaskList\Elements.xml" />
+  </ElementManifests>
+</Feature>

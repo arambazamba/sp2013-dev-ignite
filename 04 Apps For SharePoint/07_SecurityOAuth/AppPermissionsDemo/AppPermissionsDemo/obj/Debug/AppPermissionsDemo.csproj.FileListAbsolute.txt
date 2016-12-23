@@ -1,0 +1,3 @@
+c:\DevProjects\AppPermissionsDemo\AppPermissionsDemo\bin\Debug\AppPermissionsDemo.pdb
+c:\DevProjects\AppPermissionsDemo\AppPermissionsDemo\obj\Debug\AppPermissionsDemo.dll
+c:\DevProjects\AppPermissionsDemo\AppPermissionsDemo\obj\Debug\AppPermissionsDemo.pdb

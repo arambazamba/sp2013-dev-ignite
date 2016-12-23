@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="Custom Members List" Id="22687413-06ec-42ef-98a9-1fb2d7eeaa9d" ReceiverAssembly="CustomListSolution, Version=1.0.0.0, Culture=neutral, PublicKeyToken=ff51c9e2ad9a04e1" ReceiverClass="CustomListSolution.Features.MainSite.MainSiteEventReceiver" Scope="Site">
+  <ElementManifests>
+    <ElementManifest Location="MemberType\Elements.xml" />
+    <ElementManifest Location="TeamMembersInstance\Elements.xml" />
+    <ElementManifest Location="TeamMembers\Elements.xml" />
+    <ElementFile Location="TeamMembers\Schema.xml" />
+    <ElementManifest Location="ContosoSitePages\Elements.xml" />
+    <ElementFile Location="ContosoSitePages\Page1.aspx" />
+    <ElementFile Location="ContosoSitePages\Page2.aspx" />
+    <ElementFile Location="ContosoSitePages\Page3.aspx" />
+  </ElementManifests>
+</Feature>

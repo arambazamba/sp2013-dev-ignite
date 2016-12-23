@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\CustomXmlTimesheet.xml
+c:\DevProjects\CustomXmlTimesheet\CustomXmlTimesheet\bin\Debug\CustomXmlTimesheet.app

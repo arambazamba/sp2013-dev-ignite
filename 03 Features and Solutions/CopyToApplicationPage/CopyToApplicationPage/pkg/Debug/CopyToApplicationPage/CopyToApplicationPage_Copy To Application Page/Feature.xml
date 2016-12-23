@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="Copy To Application Page" Id="ba1906e2-81ae-4336-976a-b0e7471b5427" Scope="Web">
+  <ElementManifests>
+    <ElementManifest Location="CopyToMenuEntry\Elements.xml" />
+  </ElementManifests>
+</Feature>

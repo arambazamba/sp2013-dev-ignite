@@ -1,0 +1,24 @@
+﻿<Activity xmlns='TimeSummary'>
+
+  <TimeActivity>
+    <Date>6/8/2012</Date>
+    <Professional>Brian Cox</Professional>
+    <ElapsedTime>180</ElapsedTime>
+    <Charge>360</Charge>
+  </TimeActivity>
+
+  <TimeActivity>
+    <Date>6/13/2012</Date>
+    <Professional>Brian Cox</Professional>
+    <ElapsedTime>135</ElapsedTime>
+    <Charge>170</Charge>
+  </TimeActivity>
+
+  <TimeActivity>
+    <Date>6/27/2012</Date>
+    <Professional>Brian Cox</Professional>
+    <ElapsedTime>160</ElapsedTime>
+    <Charge>320</Charge>
+  </TimeActivity>
+
+</Activity>

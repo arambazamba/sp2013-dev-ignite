@@ -1,0 +1,5 @@
+D:\Dev\03 Features and Solutions\Notifications\Notifications\bin\Debug\Notifications.dll
+D:\Dev\03 Features and Solutions\Notifications\Notifications\bin\Debug\Notifications.pdb
+D:\Dev\03 Features and Solutions\Notifications\Notifications\obj\Debug\Notifications.csprojResolveAssemblyReference.cache
+D:\Dev\03 Features and Solutions\Notifications\Notifications\obj\Debug\Notifications.dll
+D:\Dev\03 Features and Solutions\Notifications\Notifications\obj\Debug\Notifications.pdb

@@ -1,0 +1,27 @@
+<Activity mc:Ignorable="sads" x:Class="SimpleWorkflowApp.Simple_Workflow.Workflow"
+ xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities"
+ xmlns:made="clr-namespace:Microsoft.Activities.Design.ExpressionTranslation;assembly=Microsoft.Activities.Design"
+ xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+ xmlns:mca="clr-namespace:Microsoft.CSharp.Activities;assembly=System.Activities"
+ xmlns:p="wf://workflow.windows.net/$Activities"
+ xmlns:p1="http://schemas.microsoft.com/workflow/2012/07/xaml/activities"
+ xmlns:sads="http://schemas.microsoft.com/netfx/2010/xaml/activities/debugger"
+ xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Sequence sads:DebugSymbol.Symbol="9xCsrL3w5hTp/ba8sw6nwzaET2M6XERldlByb2plY3RzXFNpbXBsZVdvcmtmbG93QXBwXFNpbXBsZVdvcmtmbG93QXBwXFNpbXBsZVdvcmtmbG93XFdvcmtmbG93LnhhbWwEJwM2DgIBASgFKGsCAQUpBTQSAgECKFIoaAIBBg==">
+    <p:WriteToHistory Message="Workflow starting..." />
+    <p:SetField FieldValueDynamicValue="{x:Null}">
+      <p:SetField.FieldName>
+        <InArgument x:TypeArguments="x:String">
+          <p1:ExpressionContainerValue x:TypeArguments="x:String" DisplayName="&quot;Body&quot;" Expression="Body" />
+        </InArgument>
+      </p:SetField.FieldName>
+      <p:SetField.FieldValue>
+        <InArgument x:TypeArguments="x:Object">
+          <p1:ExpressionContainerValue x:TypeArguments="x:Object" DisplayName="&quot;updated by workflow&quot;">
+            <p1:Convert x:TypeArguments="x:String, x:Object" Input="updated by workflow" />
+          </p1:ExpressionContainerValue>
+        </InArgument>
+      </p:SetField.FieldValue>
+    </p:SetField>
+  </Sequence>
+</Activity>

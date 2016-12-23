@@ -1,0 +1,3 @@
+c:\DevProjects\SearchApp\SearchApp\bin\Debug\SearchApp.pdb
+c:\DevProjects\SearchApp\SearchApp\obj\Debug\SearchApp.dll
+c:\DevProjects\SearchApp\SearchApp\obj\Debug\SearchApp.pdb

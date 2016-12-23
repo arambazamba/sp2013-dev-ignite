@@ -1,0 +1,3 @@
+c:\DevProjects\ChromeApp\ChromeApp\bin\Debug\ChromeApp.pdb
+c:\DevProjects\ChromeApp\ChromeApp\obj\Debug\ChromeApp.dll
+c:\DevProjects\ChromeApp\ChromeApp\obj\Debug\ChromeApp.pdb

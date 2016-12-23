@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\TwitterMailApp.xml
+c:\DevProjects\TwitterMailApp\TwitterMailApp\bin\Debug\TwitterMailApp.app

@@ -1,0 +1,5 @@
+c:\DevProjects\RESTLab\RESTLab\bin\Debug\RESTLab.dll
+c:\DevProjects\RESTLab\RESTLab\bin\Debug\RESTLab.pdb
+c:\DevProjects\RESTLab\RESTLab\obj\Debug\RESTLab.csprojResolveAssemblyReference.cache
+c:\DevProjects\RESTLab\RESTLab\obj\Debug\RESTLab.dll
+c:\DevProjects\RESTLab\RESTLab\obj\Debug\RESTLab.pdb

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.OfficeApp" DefaultFile="TranslatorApp.xml" SupportedTrustLevels="All" SupportedDeploymentScopes="AppPackage" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="TranslatorApp.xml" Target="TranslatorApp.xml\" Type="AppPackage" />
+  </Files>
+  <ExtensionData>
+    <ExtensionDataItem Key="OfficeAppManifestRelativePath" Value="TranslatorApp.xml\TranslatorApp.xml" />
+    <ExtensionDataItem Key="OfficeAppStartPageRelativePath" Value="Pages\TranslatorApp.html" />
+  </ExtensionData>
+</ProjectItem>

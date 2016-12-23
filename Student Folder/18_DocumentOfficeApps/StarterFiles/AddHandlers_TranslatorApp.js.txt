@@ -1,0 +1,31 @@
+var officeDoc;
+
+Office.initialize = function (reason) {
+
+  // Initialize variables using Office JavaScript API
+  officeDoc = Office.context.document;
+
+  // Add handler function for jQuery document ready event
+  $(function () {
+    // UI initialization code goes here
+    $("#cmdReadSelection").click(onReadSelection);
+    $("#cmdRegisterEventHandler").click(onRegisterEventHandler);
+    $("#cmdTranslate").click(onTranslate);
+    $("#cmdWriteSelection").click(onWriteSelection);
+  });
+
+}
+
+function onReadSelection() {
+}
+
+function onRegisterEventHandler() {
+}
+
+function onTranslate() {
+}
+
+function onWriteSelection() {
+}
+
+

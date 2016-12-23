@@ -1,0 +1,1 @@
+bin\Debug\Doc2Pdf.wsp

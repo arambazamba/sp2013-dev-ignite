@@ -1,0 +1,4 @@
+c:\DevProjects\LifecycleApp\LifecycleApp\bin\Debug\LifecycleApp.pdb
+c:\DevProjects\LifecycleApp\LifecycleApp\obj\Debug\LifecycleApp.dll
+c:\DevProjects\LifecycleApp\LifecycleApp\obj\Debug\LifecycleApp.pdb
+c:\DevProjects\LifecycleApp\LifecycleApp\obj\Debug\LifecycleApp.csprojResolveAssemblyReference.cache

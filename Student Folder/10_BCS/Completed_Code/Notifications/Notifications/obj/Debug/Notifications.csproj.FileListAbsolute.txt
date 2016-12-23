@@ -1,0 +1,4 @@
+c:\DevProjects\Notifications\Notifications\bin\Debug\Notifications.dll
+c:\DevProjects\Notifications\Notifications\bin\Debug\Notifications.pdb
+c:\DevProjects\Notifications\Notifications\obj\Debug\Notifications.dll
+c:\DevProjects\Notifications\Notifications\obj\Debug\Notifications.pdb

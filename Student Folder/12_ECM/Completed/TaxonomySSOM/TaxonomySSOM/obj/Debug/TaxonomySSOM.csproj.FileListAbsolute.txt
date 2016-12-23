@@ -1,0 +1,6 @@
+c:\DevProjects\TaxonomySSOM\TaxonomySSOM\bin\Debug\TaxonomySSOM.exe.config
+c:\DevProjects\TaxonomySSOM\TaxonomySSOM\bin\Debug\TaxonomySSOM.exe
+c:\DevProjects\TaxonomySSOM\TaxonomySSOM\bin\Debug\TaxonomySSOM.pdb
+c:\DevProjects\TaxonomySSOM\TaxonomySSOM\obj\Debug\TaxonomySSOM.csprojResolveAssemblyReference.cache
+c:\DevProjects\TaxonomySSOM\TaxonomySSOM\obj\Debug\TaxonomySSOM.exe
+c:\DevProjects\TaxonomySSOM\TaxonomySSOM\obj\Debug\TaxonomySSOM.pdb

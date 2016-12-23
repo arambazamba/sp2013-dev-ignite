@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\MyTaskPaneApp.xml
+C:\DevProjects\MyTaskPaneApp\MyTaskPaneApp\bin\Debug\MyTaskPaneApp.app

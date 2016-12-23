@@ -1,0 +1,11 @@
+c:\DevProjects\LifecycleApp\LifecycleAppWeb\bin\LifecycleAppWeb.dll
+c:\DevProjects\LifecycleApp\LifecycleAppWeb\bin\LifecycleAppWeb.pdb
+c:\DevProjects\LifecycleApp\LifecycleAppWeb\bin\Microsoft.IdentityModel.dll
+c:\DevProjects\LifecycleApp\LifecycleAppWeb\bin\Microsoft.IdentityModel.Extensions.dll
+c:\DevProjects\LifecycleApp\LifecycleAppWeb\bin\Microsoft.SharePoint.Client.dll
+c:\DevProjects\LifecycleApp\LifecycleAppWeb\bin\Microsoft.SharePoint.Client.Runtime.dll
+c:\DevProjects\LifecycleApp\LifecycleAppWeb\bin\Microsoft.SharePoint.Client.xml
+c:\DevProjects\LifecycleApp\LifecycleAppWeb\bin\Microsoft.SharePoint.Client.Runtime.xml
+c:\DevProjects\LifecycleApp\LifecycleAppWeb\obj\Debug\LifecycleAppWeb.csprojResolveAssemblyReference.cache
+c:\DevProjects\LifecycleApp\LifecycleAppWeb\obj\Debug\LifecycleAppWeb.dll
+c:\DevProjects\LifecycleApp\LifecycleAppWeb\obj\Debug\LifecycleAppWeb.pdb

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="ba53c522-4085-4346-8880-ecc672cf457e" SharePointProductVersion="15.0">
+  <FeatureManifests>
+    <FeatureManifest Location="MembershipApp_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ss:Workflow xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mca="clr-namespace:Microsoft.CSharp.Activities;assembly=System.Activities" xmlns:mswad="clr-namespace:Microsoft.SharePoint.WorkflowServices.Activities.Design;assembly=Microsoft.SharePoint.WorkflowServices.Activities.Design" xmlns:p="wf://workflow.windows.net/$Activities" xmlns:sads="http://schemas.microsoft.com/netfx/2010/xaml/activities/debugger" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=mscorlib" xmlns:ss="clr-namespace:SimpleWorkflowApp.Simple_Workflow;assembly=SimpleWorkflowApp" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TextExpression.NamespacesForImplementation>
+    <sco:Collection x:TypeArguments="x:String">
+      <x:String>System</x:String>
+      <x:String>System.Collections.Generic</x:String>
+      <x:String>System.Data</x:String>
+      <x:String>System.Text</x:String>
+    </sco:Collection>
+  </TextExpression.NamespacesForImplementation>
+  <TextExpression.ReferencesForImplementation>
+    <sco:Collection x:TypeArguments="AssemblyReference">
+      <AssemblyReference>System</AssemblyReference>
+      <AssemblyReference>System.Data</AssemblyReference>
+      <AssemblyReference>System.Activities</AssemblyReference>
+      <AssemblyReference>System.Runtime.Serialization</AssemblyReference>
+      <AssemblyReference>System.ServiceModel.Activities</AssemblyReference>
+      <AssemblyReference>System.Xaml</AssemblyReference>
+      <AssemblyReference>System.Xml</AssemblyReference>
+      <AssemblyReference>System.Xml.Linq</AssemblyReference>
+      <AssemblyReference>Microsoft.Activities</AssemblyReference>
+      <AssemblyReference>Microsoft.SharePoint.WorkflowServices.Activities</AssemblyReference>
+      <AssemblyReference>PresentationFramework</AssemblyReference>
+      <AssemblyReference>System.Core</AssemblyReference>
+      <AssemblyReference>mscorlib</AssemblyReference>
+      <AssemblyReference>SimpleWorkflowApp</AssemblyReference>
+    </sco:Collection>
+  </TextExpression.ReferencesForImplementation>
+  <ss:Workflow.Implementation>
+    <Sequence>
+      <p:WriteToHistory Message="Workflow starting..." />
+      <p:SetField FieldValueDynamicValue="{x:Null}">
+        <p:SetField.FieldName>
+          <InArgument x:TypeArguments="x:String">
+            <mca:CSharpValue x:TypeArguments="x:String">"Body"</mca:CSharpValue>
+          </InArgument>
+        </p:SetField.FieldName>
+        <p:SetField.FieldValue>
+          <InArgument x:TypeArguments="x:Object">
+            <mca:CSharpValue x:TypeArguments="x:Object">"updated by workflow"</mca:CSharpValue>
+          </InArgument>
+        </p:SetField.FieldValue>
+      </p:SetField>
+      <sads:DebugSymbol.Symbol>d09jOlxEZXZQcm9qZWN0c1xTaW1wbGVXb3JrZmxvd0FwcFxTaW1wbGVXb3JrZmxvd0FwcFxTaW1wbGVXb3JrZmxvd1xXb3JrZmxvdy54YW1sBicDNg4CAQEoBShrAgEFKQU0EgIBAihSKGgCAQYxCzFeAgEELAssTwIBAw==</sads:DebugSymbol.Symbol>
+    </Sequence>
+  </ss:Workflow.Implementation>
+</ss:Workflow>

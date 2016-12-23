@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="2867168a-e5a8-4fd4-a645-8231a2d64537" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="DemoWebParts.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="DemoWebParts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=7c4d327b154fd663" Namespace="DemoWebParts.DataboundWebPart" TypeName="*" />
+        <SafeControl Assembly="DemoWebParts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=7c4d327b154fd663" Namespace="DemoWebParts.SharePointControlsWebPart" TypeName="*" />
+        <SafeControl Assembly="DemoWebParts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=7c4d327b154fd663" Namespace="DemoWebParts.CSSWebPart" TypeName="*" />
+        <SafeControl Assembly="DemoWebParts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=7c4d327b154fd663" Namespace="DemoWebParts.CustomEditorPartWP" TypeName="*" />
+        <SafeControl Assembly="DemoWebParts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=7c4d327b154fd663" Namespace="DemoWebParts.ConnectedWebParts" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="LAYOUTS\1033\STYLES\mystyle.css" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="DemoWebParts_DemoWebParts\Feature.xml" />
+  </FeatureManifests>
+</Solution>

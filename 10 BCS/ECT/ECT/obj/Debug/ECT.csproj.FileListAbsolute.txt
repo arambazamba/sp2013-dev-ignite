@@ -1,0 +1,4 @@
+D:\ECT\ECT\bin\Debug\ECT.dll
+D:\ECT\ECT\bin\Debug\ECT.pdb
+D:\ECT\ECT\obj\Debug\ECT.dll
+D:\ECT\ECT\obj\Debug\ECT.pdb

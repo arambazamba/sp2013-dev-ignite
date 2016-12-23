@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="English to Spanish Conversion" Description="A feature for converting documents from English to Spanish" Id="98338603-1419-4027-bac3-448680e05c49" Scope="Web">
+  <ElementManifests>
+    <ElementManifest Location="Action\Elements.xml" />
+  </ElementManifests>
+</Feature>

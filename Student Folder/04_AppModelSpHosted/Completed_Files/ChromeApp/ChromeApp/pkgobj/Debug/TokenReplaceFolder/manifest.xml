@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="a485998d-f6ba-4540-a8c3-bfa1942fdaaf" SharePointProductVersion="15.0">
+  <FeatureManifests>
+    <FeatureManifest Location="ChromeApp_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

@@ -1,0 +1,9 @@
+D:\Dev\02 Server Object Model Basics\LinqConsole\LinqConsole\obj\Debug\LinqConsole.csprojResolveAssemblyReference.cache
+D:\Dev\02 Server Object Model Basics\LinqConsole\LinqConsole\bin\Debug\LinqConsole.exe.config
+D:\Dev\02 Server Object Model Basics\LinqConsole\LinqConsole\bin\Debug\LinqConsole.exe
+D:\Dev\02 Server Object Model Basics\LinqConsole\LinqConsole\bin\Debug\LinqConsole.pdb
+D:\Dev\02 Server Object Model Basics\LinqConsole\LinqConsole\obj\Debug\LinqConsole.exe
+D:\Dev\02 Server Object Model Basics\LinqConsole\LinqConsole\obj\Debug\LinqConsole.pdb
+D:\02 Server Object Model Basics\LinqConsole\LinqConsole\bin\Debug\LinqConsole.exe.config
+D:\02 Server Object Model Basics\LinqConsole\LinqConsole\obj\Debug\LinqConsole.exe
+D:\02 Server Object Model Basics\LinqConsole\LinqConsole\obj\Debug\LinqConsole.pdb

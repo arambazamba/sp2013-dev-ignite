@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="93e632d9-970f-4e33-8981-d0d8a7446a75" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="CopyToApplicationPage.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Layouts\CopyToApplicationPage\CopyTo.aspx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="CopyToApplicationPage_Copy To Application Page\Feature.xml" />
+  </FeatureManifests>
+</Solution>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="5b540e6b-7132-4baa-83d0-d534ee3dc8c6" ReceiverAssembly="GeoList, Version=1.0.0.0, Culture=neutral, PublicKeyToken=72ba9f2638cbd0ba" ReceiverClass="GeoList.Features.Feature1.Feature1EventReceiver" Scope="Web" Title="GeoList Feature1">
+  <ElementManifests>
+    <ElementManifest Location="ServiceCallsInstance\Elements.xml" />
+    <ElementManifest Location="ServiceCalls\Elements.xml" />
+    <ElementFile Location="ServiceCalls\Schema.xml" />
+  </ElementManifests>
+</Feature>

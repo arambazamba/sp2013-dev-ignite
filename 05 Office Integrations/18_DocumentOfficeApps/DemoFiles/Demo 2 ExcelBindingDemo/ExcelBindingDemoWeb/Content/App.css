@@ -1,0 +1,70 @@
+﻿body {
+  padding: 0px;
+  background-color: #444;
+}
+
+h1 {
+  color: White;
+  background-color: black;
+  padding: 4px;
+  font-size: 1.75em;
+  box-sizing: border-box;
+  height: 32px;
+  margin: 0px;
+}
+
+#toolbar {
+  height: 32px;
+  box-sizing: border-box;
+  margin: 0px;
+  background-color: #bbb;
+  padding: 4px;
+}
+
+#toolbar input[type=button]{
+  width: 100px;
+  height:24px; 
+  padding-left:1em; 
+  padding-right:1em; 
+  background-color:white; 
+  border:1px solid #ccc; 
+  cursor:pointer; 
+}
+
+#display {
+  margin: 4px;
+  border:  1px solid #BBB;
+  padding: 4px;
+  background-color: white;
+  height: 292px;
+}
+
+  #display table {
+    border: black solid 1px;
+    border-collapse: collapse;
+  }
+  
+  
+  #display th {
+    vertical-align: middle; 
+    padding: 2px; 
+    line-height: inherit;
+    border: black solid 1px;
+    border-collapse: collapse;
+    background-color: #000;
+    color: #fff;
+    font-weight: bold;
+  }
+  
+  #display td {
+    text-align:left; 
+    vertical-align: middle; 
+    padding: 2px;
+    padding-left: 4px;
+    width: 120px; 
+    line-height: inherit;
+    height: 1.2em;
+    border: black solid 1px;
+    border-collapse: collapse;
+  }
+  

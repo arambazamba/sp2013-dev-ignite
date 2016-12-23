@@ -1,0 +1,15 @@
+c:\DevProjects\MyTaskPaneApp\MyTaskPaneAppWeb\bin\MyTaskPaneAppWeb.dll
+c:\DevProjects\MyTaskPaneApp\MyTaskPaneAppWeb\bin\MyTaskPaneAppWeb.pdb
+c:\DevProjects\MyTaskPaneApp\MyTaskPaneAppWeb\obj\Debug\MyTaskPaneAppWeb.csprojResolveAssemblyReference.cache
+c:\DevProjects\MyTaskPaneApp\MyTaskPaneAppWeb\obj\Debug\MyTaskPaneAppWeb.dll
+c:\DevProjects\MyTaskPaneApp\MyTaskPaneAppWeb\obj\Debug\MyTaskPaneAppWeb.pdb
+D:\Dev\05 Office Integrations\17_IntroOfficeApps\DemoFiles\Solution\MyTaskPaneApp\MyTaskPaneAppWeb\bin\MyTaskPaneAppWeb.dll
+D:\Dev\05 Office Integrations\17_IntroOfficeApps\DemoFiles\Solution\MyTaskPaneApp\MyTaskPaneAppWeb\bin\MyTaskPaneAppWeb.pdb
+D:\Dev\05 Office Integrations\17_IntroOfficeApps\DemoFiles\Solution\MyTaskPaneApp\MyTaskPaneAppWeb\obj\Debug\MyTaskPaneAppWeb.csprojResolveAssemblyReference.cache
+D:\Dev\05 Office Integrations\17_IntroOfficeApps\DemoFiles\Solution\MyTaskPaneApp\MyTaskPaneAppWeb\obj\Debug\MyTaskPaneAppWeb.dll
+D:\Dev\05 Office Integrations\17_IntroOfficeApps\DemoFiles\Solution\MyTaskPaneApp\MyTaskPaneAppWeb\obj\Debug\MyTaskPaneAppWeb.pdb
+D:\05 Office Integrations\17_IntroOfficeApps\DemoFiles\Solution\MyTaskPaneApp\MyTaskPaneAppWeb\bin\MyTaskPaneAppWeb.dll
+D:\05 Office Integrations\17_IntroOfficeApps\DemoFiles\Solution\MyTaskPaneApp\MyTaskPaneAppWeb\bin\MyTaskPaneAppWeb.pdb
+D:\05 Office Integrations\17_IntroOfficeApps\DemoFiles\Solution\MyTaskPaneApp\MyTaskPaneAppWeb\obj\Debug\MyTaskPaneAppWeb.csprojResolveAssemblyReference.cache
+D:\05 Office Integrations\17_IntroOfficeApps\DemoFiles\Solution\MyTaskPaneApp\MyTaskPaneAppWeb\obj\Debug\MyTaskPaneAppWeb.dll
+D:\05 Office Integrations\17_IntroOfficeApps\DemoFiles\Solution\MyTaskPaneApp\MyTaskPaneAppWeb\obj\Debug\MyTaskPaneAppWeb.pdb

@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\ContentGenerator.xml
+c:\DevProjects\ContentGenerator\ContentGenerator\bin\Debug\ContentGenerator.app

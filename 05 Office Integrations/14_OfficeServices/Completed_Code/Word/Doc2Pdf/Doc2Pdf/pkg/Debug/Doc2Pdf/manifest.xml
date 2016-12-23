@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="9ec0b4a2-f861-404f-b8ce-263b75308e13" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="Doc2Pdf.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Layouts\Doc2Pdf\Converter.aspx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="Doc2Pdf_Main\Feature.xml" />
+  </FeatureManifests>
+</Solution>

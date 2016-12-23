@@ -1,0 +1,2 @@
+D:\Dev\02 Server Object Model Basics\BasicFileOperations\BasicFileOperations\bin\Debug\BasicFileOperations.exe.config
+D:\02 Server Object Model Basics\BasicFileOperations\BasicFileOperations\bin\Debug\BasicFileOperations.exe.config

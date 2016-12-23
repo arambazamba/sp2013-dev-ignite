@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\YouTubeMailApp.xml
+D:\Dev\05 Office Integrations\19_MailOfficeApps\Completed\YouTubeMailApp\YouTubeMailApp\bin\Debug\YouTubeMailApp.app

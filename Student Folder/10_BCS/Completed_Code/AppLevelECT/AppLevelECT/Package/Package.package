@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="aede879b-fc21-459a-a71e-ed2757868dce" 
+        solutionId="aede879b-fc21-459a-a71e-ed2757868dce" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="AppLevelECT"
+        sharePointProductVersion="15.0">
+  <features>
+        <featureReference itemId="288aa33f-0c2b-4066-9b6f-faa3e9de5632" />
+  </features>
+</package>

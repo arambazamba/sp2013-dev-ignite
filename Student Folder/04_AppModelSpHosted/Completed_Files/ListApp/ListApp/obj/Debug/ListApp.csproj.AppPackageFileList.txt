@@ -1,0 +1,1 @@
+C:\Demos\SharePoint-Hosted Apps\ListApp\ListApp\bin\Debug\app.publish\ListApp.app

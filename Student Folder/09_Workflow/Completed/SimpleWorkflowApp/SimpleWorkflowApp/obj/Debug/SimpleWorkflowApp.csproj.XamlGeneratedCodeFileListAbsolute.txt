@@ -1,0 +1,5 @@
+obj\Debug\_SimpleWorkflowApp.g.cs
+obj\Debug\Workflow.g.cs
+obj\Debug\SimpleWorkflowApp.Simple_Workflow_Workflow_BeforeInitializeComponentHelper.cs
+obj\Debug\_AssemblyInfo_7bb6005c82ea4cc7b9eb69b25a1ed556.g.cs
+D:\Dev ETC\Student Folder\09_Workflow\Completed\SimpleWorkflowApp\SimpleWorkflowApp\obj\Debug\SimpleWorkflowApp.Simple_Workflow_Workflow_CompiledExpressionRoot.cs

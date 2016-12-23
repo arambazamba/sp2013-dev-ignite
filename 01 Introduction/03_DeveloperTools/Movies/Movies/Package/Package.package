@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="f7bf13e9-10ee-4fe5-9bb1-24db68e07a1e" solutionId="f7bf13e9-10ee-4fe5-9bb1-24db68e07a1e" resetWebServer="false" sharePointProductVersion="15.0" name="Movies" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="15bf374e-0036-4fb3-b6dc-5ab3cb9691b1" />
+  </features>
+</package>

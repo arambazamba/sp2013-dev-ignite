@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="ab219d82-d2e9-45ba-8ad5-c6ef1118ca29" Scope="Web" Title="Demo Feature to add Sample Customers list">
+  <ElementManifests>
+    <ElementManifest Location="SampleCustomersList\Elements.xml" />
+  </ElementManifests>
+</Feature>

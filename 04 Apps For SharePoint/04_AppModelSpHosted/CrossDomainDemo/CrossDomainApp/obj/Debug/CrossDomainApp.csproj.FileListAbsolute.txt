@@ -1,0 +1,6 @@
+C:\Completed\Presentations+Demos\04_AppModelSpHosted\CrossDomainDemo\CrossDomainApp\bin\Debug\CrossDomainApp.pdb
+C:\Completed\Presentations+Demos\04_AppModelSpHosted\CrossDomainDemo\CrossDomainApp\obj\Debug\CrossDomainApp.dll
+C:\Completed\Presentations+Demos\04_AppModelSpHosted\CrossDomainDemo\CrossDomainApp\obj\Debug\CrossDomainApp.pdb
+D:\Presentations & Demos\04_AppModelSpHosted\CrossDomainDemo\CrossDomainApp\bin\Debug\CrossDomainApp.pdb
+D:\Presentations & Demos\04_AppModelSpHosted\CrossDomainDemo\CrossDomainApp\obj\Debug\CrossDomainApp.dll
+D:\Presentations & Demos\04_AppModelSpHosted\CrossDomainDemo\CrossDomainApp\obj\Debug\CrossDomainApp.pdb

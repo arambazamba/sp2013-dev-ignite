@@ -1,0 +1,5 @@
+c:\DevProjects\TranslatorApp\TranslatorAppWeb\bin\TranslatorAppWeb.dll
+c:\DevProjects\TranslatorApp\TranslatorAppWeb\bin\TranslatorAppWeb.pdb
+c:\DevProjects\TranslatorApp\TranslatorAppWeb\obj\Debug\TranslatorAppWeb.csprojResolveAssemblyReference.cache
+c:\DevProjects\TranslatorApp\TranslatorAppWeb\obj\Debug\TranslatorAppWeb.dll
+c:\DevProjects\TranslatorApp\TranslatorAppWeb\obj\Debug\TranslatorAppWeb.pdb

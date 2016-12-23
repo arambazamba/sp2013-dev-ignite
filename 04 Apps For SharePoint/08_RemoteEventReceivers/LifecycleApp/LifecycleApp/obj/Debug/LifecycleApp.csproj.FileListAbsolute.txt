@@ -1,0 +1,8 @@
+c:\DevProjects\LifecycleApp\LifecycleApp\bin\Debug\LifecycleApp.pdb
+c:\DevProjects\LifecycleApp\LifecycleApp\obj\Debug\LifecycleApp.dll
+c:\DevProjects\LifecycleApp\LifecycleApp\obj\Debug\LifecycleApp.pdb
+c:\DevProjects\LifecycleApp\LifecycleApp\obj\Debug\LifecycleApp.csprojResolveAssemblyReference.cache
+D:\Dev ETC\04 Apps For SharePoint\08_RemoteEventReceivers\LifecycleApp\LifecycleApp\bin\Debug\LifecycleApp.pdb
+D:\Dev ETC\04 Apps For SharePoint\08_RemoteEventReceivers\LifecycleApp\LifecycleApp\obj\Debug\LifecycleApp.csprojResolveAssemblyReference.cache
+D:\Dev ETC\04 Apps For SharePoint\08_RemoteEventReceivers\LifecycleApp\LifecycleApp\obj\Debug\LifecycleApp.dll
+D:\Dev ETC\04 Apps For SharePoint\08_RemoteEventReceivers\LifecycleApp\LifecycleApp\obj\Debug\LifecycleApp.pdb

@@ -1,0 +1,2 @@
+D:\Dev\02 Server Object Model Basics\Lookups\Lookups\bin\Debug\Lookups.exe.config
+D:\02 Server Object Model Basics\Lookups\Lookups\bin\Debug\Lookups.exe.config

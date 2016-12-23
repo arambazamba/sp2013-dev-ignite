@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="16bbbf63-142a-4e77-98c2-2e39eaa748ed" 
+        solutionId="16bbbf63-142a-4e77-98c2-2e39eaa748ed" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="MembershipApp"
+        sharePointProductVersion="15.0">
+  <features>
+        <featureReference itemId="d8df67a4-0122-430d-adb7-0d15179a24ab" />
+  </features>
+</package>

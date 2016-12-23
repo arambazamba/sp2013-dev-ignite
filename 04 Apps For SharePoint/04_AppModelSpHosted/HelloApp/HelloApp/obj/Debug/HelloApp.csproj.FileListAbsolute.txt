@@ -1,0 +1,10 @@
+d:\HelloApp\HelloApp\bin\Debug\HelloApp.pdb
+d:\HelloApp\HelloApp\obj\Debug\HelloApp.dll
+d:\HelloApp\HelloApp\obj\Debug\HelloApp.pdb
+D:\Presentations & Demos\04_AppModelSpHosted\HelloApp\HelloApp\bin\Debug\HelloApp.pdb
+D:\Presentations & Demos\04_AppModelSpHosted\HelloApp\HelloApp\obj\Debug\HelloApp.dll
+D:\Presentations & Demos\04_AppModelSpHosted\HelloApp\HelloApp\obj\Debug\HelloApp.pdb
+D:\Dev\04 Apps For SharePoint\04_AppModelSpHosted\HelloApp\HelloApp\bin\Debug\HelloApp.pdb
+D:\Dev\04 Apps For SharePoint\04_AppModelSpHosted\HelloApp\HelloApp\obj\Debug\HelloApp.dll
+D:\Dev\04 Apps For SharePoint\04_AppModelSpHosted\HelloApp\HelloApp\obj\Debug\HelloApp.pdb
+D:\Dev\04 Apps For SharePoint\04_AppModelSpHosted\HelloApp\HelloApp\obj\Debug\HelloApp.csprojResolveAssemblyReference.cache

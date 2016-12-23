@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="Notifications List" Id="004463dc-d0b4-43bb-9985-cfeacb0db309" ReceiverAssembly="Notifications, Version=1.0.0.0, Culture=neutral, PublicKeyToken=c6e83c4d962bc4c3" ReceiverClass="Notifications.Features.Main.MainEventReceiver" Scope="Web">
+  <ElementManifests>
+    <ElementManifest Location="Notifications\Elements.xml" />
+  </ElementManifests>
+</Feature>

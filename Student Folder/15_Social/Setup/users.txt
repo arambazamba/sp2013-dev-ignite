@@ -1,0 +1,3328 @@
+dn: CN=Patricia Doyle,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Patricia Doyle
+sn: Doyle
+title: President and Chief Executive Officer
+physicalDeliveryOfficeName: S1000
+telephoneNumber: (425) 555-0100
+givenName: Patricia
+distinguishedName: CN=Patricia Doyle,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002317.0Z
+displayName: Patricia Doyle
+uSNCreated: 45141
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45649
+department: Executive
+directReports: CN=Gary Altman III,OU=Employees,DC=contoso,DC=com
+directReports: CN=Charles Fitzgerald,OU=Employees,DC=contoso,DC=com
+directReports: CN=Chris Preston,OU=Employees,DC=contoso,DC=com
+directReports: CN=Prasanna Samarawickrama,OU=Employees,DC=contoso,DC=com
+directReports: CN=Dan Babcock Jr,OU=Employees,DC=contoso,DC=com
+name: Patricia Doyle
+objectGUID:: IxAxHHN3+U+Jb5wCMYfW1A==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754669972820005
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmWQQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: PatriciaD
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235401.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: PatriciaD@Contoso.com
+
+dn: CN=Dan Babcock Jr,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Dan Babcock Jr
+sn: Babcock Jr
+title: Chief Financial Officer
+physicalDeliveryOfficeName: S1001
+telephoneNumber: (425) 555-0101
+givenName: Dan
+distinguishedName: CN=Dan Babcock Jr,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002317.0Z
+displayName: Dan Babcock Jr
+uSNCreated: 45145
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45651
+department: Finance
+directReports: CN=Josh Barnhill,OU=Employees,DC=contoso,DC=com
+directReports: CN=Pilar Ackerman,OU=Employees,DC=contoso,DC=com
+name: Dan Babcock Jr
+objectGUID:: h2+3LB4k/Ee0eqNRC4pJ9w==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754669973288047
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmWgQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: DanB
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235335.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: DanB@Contoso.com
+manager: CN=Patricia Doyle,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Prasanna Samarawickrama,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Prasanna Samarawickrama
+sn: Samarawickrama
+title: Vice-President Marketing and Sales
+physicalDeliveryOfficeName: S1002
+telephoneNumber: (425) 555-0102
+givenName: Prasanna
+distinguishedName: CN=Prasanna Samarawickrama,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002317.0Z
+displayName: Prasanna Samarawickrama
+uSNCreated: 45149
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45653
+department: Sales
+directReports: CN=Jay Henningsen,OU=Employees,DC=contoso,DC=com
+directReports: CN=Dave Richards,OU=Employees,DC=contoso,DC=com
+directReports: CN=Angela Barbariol,OU=Employees,DC=contoso,DC=com
+name: Prasanna Samarawickrama
+objectGUID:: jWiK+5rt5EWJLGnfm3pgOA==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754669973756089
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmWwQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: PrasannaS
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235401.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: PrasannaS@Contoso.com
+manager: CN=Patricia Doyle,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Chris Preston,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Chris Preston
+sn: Preston
+title: Chief Technology Officer
+physicalDeliveryOfficeName: S1003
+telephoneNumber: (425) 555-0103
+givenName: Chris
+distinguishedName: CN=Chris Preston,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002317.0Z
+displayName: Chris Preston
+uSNCreated: 45153
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45655
+department: IT
+directReports: CN=Michael Holm,OU=Employees,DC=contoso,DC=com
+directReports: CN=Andreas Berglund,OU=Employees,DC=contoso,DC=com
+name: Chris Preston
+objectGUID:: Eb04/nAKCES8/RWCShoeHA==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754669974380145
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmXAQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: ChrisP
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235335.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: ChrisP@Contoso.com
+manager: CN=Patricia Doyle,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Charles Fitzgerald,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Charles Fitzgerald
+sn: Fitzgerald
+title: Chief Operations Officer
+physicalDeliveryOfficeName: S1004
+telephoneNumber: (425) 555-0104
+givenName: Charles
+distinguishedName: CN=Charles Fitzgerald,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002317.0Z
+displayName: Charles Fitzgerald
+uSNCreated: 45157
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45657
+department: Operations
+directReports: CN=Claus Hansen,OU=Employees,DC=contoso,DC=com
+directReports: CN=Steve Masters,OU=Employees,DC=contoso,DC=com
+directReports: CN=Jinghao Liu,OU=Employees,DC=contoso,DC=com
+directReports: CN=Don Funk,OU=Employees,DC=contoso,DC=com
+name: Charles Fitzgerald
+objectGUID:: tVktKYvaG06n/kSVyblomw==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754669974692173
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmXQQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: CharlesF
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235335.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: CharlesF@Contoso.com
+manager: CN=Patricia Doyle,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Pilar Ackerman,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Pilar Ackerman
+sn: Ackerman
+title: Director of Accounting
+physicalDeliveryOfficeName: S1005
+telephoneNumber: (425) 555-0105
+givenName: Pilar
+distinguishedName: CN=Pilar Ackerman,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002317.0Z
+displayName: Pilar Ackerman
+uSNCreated: 45161
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45659
+department: Finance
+name: Pilar Ackerman
+objectGUID:: NGuAq4p+pEaC/HN6Lk4mmQ==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754669975160215
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmXgQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: PilarA
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235401.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: PilarA@Contoso.com
+manager: CN=Dan Babcock Jr,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Josh Barnhill,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Josh Barnhill
+sn: Barnhill
+title: Director of Financial Planning
+physicalDeliveryOfficeName: S1006
+telephoneNumber: (425) 555-0106
+givenName: Josh
+distinguishedName: CN=Josh Barnhill,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002317.0Z
+displayName: Josh Barnhill
+uSNCreated: 45165
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45661
+department: Finance
+directReports: CN=Howard Gonzalez,OU=Employees,DC=contoso,DC=com
+name: Josh Barnhill
+objectGUID:: xZu1g+kE2kSEgPRuFa1/UQ==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754669975628257
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmXwQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: JoshB
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235401.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: JoshB@Contoso.com
+manager: CN=Dan Babcock Jr,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Angela Barbariol,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Angela Barbariol
+sn: Barbariol
+title: Director of Customer Relations
+physicalDeliveryOfficeName: S1007
+telephoneNumber: (425) 555-0107
+givenName: Angela
+distinguishedName: CN=Angela Barbariol,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002317.0Z
+displayName: Angela Barbariol
+uSNCreated: 45169
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45663
+department: Sales
+name: Angela Barbariol
+objectGUID:: GaBBRyuKMkqmtx7uIGwBiQ==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754669976096344
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmYAQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: AngelaB
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235335.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: AngelaB@Contoso.com
+manager: CN=Prasanna Samarawickrama,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Dave Richards,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Dave Richards
+sn: Richards
+title: Director of Marketing
+physicalDeliveryOfficeName: S1008
+telephoneNumber: (425) 555-0108
+givenName: Dave
+distinguishedName: CN=Dave Richards,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002317.0Z
+displayName: Dave Richards
+uSNCreated: 45173
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45665
+department: Sales
+directReports: CN=Amy Alberts,OU=Employees,DC=contoso,DC=com
+directReports: CN=Jyothi Pai,OU=Employees,DC=contoso,DC=com
+directReports: CN=Jesse Merriam,OU=Employees,DC=contoso,DC=com
+name: Dave Richards
+objectGUID:: cP+p2+MHkUeH58njjLCZig==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754669976408402
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmYQQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: DaveR
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235335.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: DaveR@Contoso.com
+manager: CN=Prasanna Samarawickrama,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Jay Henningsen,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Jay Henningsen
+sn: Henningsen
+title: Director of Sales
+physicalDeliveryOfficeName: S1009
+telephoneNumber: (425) 555-0109
+givenName: Jay
+distinguishedName: CN=Jay Henningsen,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002317.0Z
+displayName: Jay Henningsen
+uSNCreated: 45177
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45667
+department: Sales
+directReports: CN=Ioannis Xylaras,OU=Employees,DC=contoso,DC=com
+directReports: CN=Mike Fitzmaurice,OU=Employees,DC=contoso,DC=com
+name: Jay Henningsen
+objectGUID:: P3Gr7LtmL0SNlBSdHijdsw==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754669976876489
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmYgQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: JayH
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235401.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: JayH@Contoso.com
+manager: CN=Prasanna Samarawickrama,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Andreas Berglund,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Andreas Berglund
+sn: Berglund
+title: Director of Computer Services
+physicalDeliveryOfficeName: S1010
+telephoneNumber: (425) 555-0110
+givenName: Andreas
+distinguishedName: CN=Andreas Berglund,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002317.0Z
+displayName: Andreas Berglund
+uSNCreated: 45181
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45669
+department: IT
+directReports: CN=Luis Bonifaz,OU=Employees,DC=contoso,DC=com
+directReports: CN=Catherine Boeger,OU=Employees,DC=contoso,DC=com
+name: Andreas Berglund
+objectGUID:: 6fCRWDasPUSzVAm4DMGahQ==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754669977656634
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmYwQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: AndreasB
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235335.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: AndreasB@Contoso.com
+manager: CN=Chris Preston,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Michael Holm,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Michael Holm
+sn: Holm
+title: Director of Systems Administration
+physicalDeliveryOfficeName: S1011
+telephoneNumber: (425) 555-0111
+givenName: Michael
+distinguishedName: CN=Michael Holm,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002317.0Z
+displayName: Michael Holm
+uSNCreated: 45185
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45671
+department: IT
+name: Michael Holm
+objectGUID:: wklummyifUuzV/aOUnkyzw==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754669978124721
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmZAQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: MichaelH
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235401.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: MichaelH@Contoso.com
+manager: CN=Chris Preston,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Don Funk,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Don Funk
+sn: Funk
+title: Director of Distribution
+physicalDeliveryOfficeName: S1012
+telephoneNumber: (425) 555-0112
+givenName: Don
+distinguishedName: CN=Don Funk,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002317.0Z
+displayName: Don Funk
+uSNCreated: 45189
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45673
+department: Operations
+directReports: CN=Pernille Halberg,OU=Employees,DC=contoso,DC=com
+directReports: CN=Erin Hagens,OU=Employees,DC=contoso,DC=com
+directReports: CN=Adina Hagege,OU=Employees,DC=contoso,DC=com
+directReports: CN=Ivo Haemels,OU=Employees,DC=contoso,DC=com
+directReports: CN=Willis Johnson,OU=Employees,DC=contoso,DC=com
+name: Don Funk
+objectGUID:: 3Lyw4aBdr0yH0IEN/RU6aw==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754669978592808
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmZQQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: DonF
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235335.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: DonF@Contoso.com
+manager: CN=Charles Fitzgerald,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Jinghao Liu,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Jinghao Liu
+sn: Liu
+title: Director of Human Resources
+physicalDeliveryOfficeName: S1013
+telephoneNumber: (425) 555-0113
+givenName: Jinghao
+distinguishedName: CN=Jinghao Liu,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002317.0Z
+displayName: Jinghao Liu
+uSNCreated: 45193
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45675
+department: Operations
+directReports: CN=Tamara Johnston,OU=Employees,DC=contoso,DC=com
+name: Jinghao Liu
+objectGUID:: 3aCLZ8ONGU2eaMiJAUIqfA==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754669979060895
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmZgQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: JinghaoL
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235401.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: JinghaoL@Contoso.com
+manager: CN=Charles Fitzgerald,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Steve Masters,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Steve Masters
+sn: Masters
+title: Director of Manufacturing
+physicalDeliveryOfficeName: S1014
+telephoneNumber: (425) 555-0114
+givenName: Steve
+distinguishedName: CN=Steve Masters,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002317.0Z
+displayName: Steve Masters
+uSNCreated: 45197
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45677
+department: Operations
+directReports: CN=Lorraine Nay,OU=Employees,DC=contoso,DC=com
+directReports: CN=William Ngoh,OU=Employees,DC=contoso,DC=com
+name: Steve Masters
+objectGUID:: JF3unyp6nUijawkfOOUVdQ==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754669979528982
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmZwQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: SteveM
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235415.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: SteveM@Contoso.com
+manager: CN=Charles Fitzgerald,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Howard Gonzalez,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Howard Gonzalez
+sn: Gonzalez
+title: Financial Planning Manager
+physicalDeliveryOfficeName: S1015
+telephoneNumber: (425) 555-0115
+givenName: Howard
+distinguishedName: CN=Howard Gonzalez,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002318.0Z
+displayName: Howard Gonzalez
+uSNCreated: 45201
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45679
+department: Finance
+directReports: CN=Robert Lyon,OU=Employees,DC=contoso,DC=com
+directReports: CN=Mark Hassall,OU=Employees,DC=contoso,DC=com
+directReports: CN=Denise Smith,OU=Employees,DC=contoso,DC=com
+name: Howard Gonzalez
+objectGUID:: nrfW+VihAkGPtMH/2yz+7A==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754669979841040
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmaAQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: HowardG
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235401.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: HowardG@Contoso.com
+manager: CN=Josh Barnhill,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Catherine Boeger,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Catherine Boeger
+sn: Boeger
+title: Documentation Manager
+physicalDeliveryOfficeName: S1016
+telephoneNumber: (425) 555-0116
+givenName: Catherine
+distinguishedName: CN=Catherine Boeger,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002318.0Z
+displayName: Catherine Boeger
+uSNCreated: 45205
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45681
+department: IT
+directReports: CN=Qiang Wang,OU=Employees,DC=contoso,DC=com
+directReports: CN=John Emory,OU=Employees,DC=contoso,DC=com
+directReports: CN=Tracy Tallman,OU=Employees,DC=contoso,DC=com
+name: Catherine Boeger
+objectGUID:: K/opEITC9UiIMlYRH1pcvg==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754669980309127
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmaQQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: CatherineB
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235335.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: CatherineB@Contoso.com
+manager: CN=Andreas Berglund,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Luis Bonifaz,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Luis Bonifaz
+sn: Bonifaz
+title: Technology Solutions Manager
+physicalDeliveryOfficeName: S1017
+telephoneNumber: (425) 555-0117
+givenName: Luis
+distinguishedName: CN=Luis Bonifaz,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002318.0Z
+displayName: Luis Bonifaz
+uSNCreated: 45209
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45683
+department: IT
+directReports: CN=David Yalovsky,OU=Employees,DC=contoso,DC=com
+directReports: CN=Sandeep Katyal,OU=Employees,DC=contoso,DC=com
+directReports: CN=Brian Cox,OU=Employees,DC=contoso,DC=com
+name: Luis Bonifaz
+objectGUID:: LSk9MM3qe0Cvojd4nPeH4g==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754669981245301
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmagQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: LuisB
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235401.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: LuisB@Contoso.com
+manager: CN=Andreas Berglund,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Tamara Johnston,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Tamara Johnston
+sn: Johnston
+title: Payroll Manager
+physicalDeliveryOfficeName: S1018
+telephoneNumber: (425) 555-0118
+givenName: Tamara
+distinguishedName: CN=Tamara Johnston,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002318.0Z
+displayName: Tamara Johnston
+uSNCreated: 45213
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45685
+department: Operations
+directReports: CN=Simon Pearson,OU=Employees,DC=contoso,DC=com
+directReports: CN=Ray Chow,OU=Employees,DC=contoso,DC=com
+directReports: CN=Tawana Nusbaum,OU=Employees,DC=contoso,DC=com
+name: Tamara Johnston
+objectGUID:: fpcA/O7xnU2LJSFd7lrdLg==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754669981713388
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmawQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: TamaraJ
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235415.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: TamaraJ@Contoso.com
+manager: CN=Jinghao Liu,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Denise Smith,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Denise Smith
+sn: Smith
+title: Analyst
+physicalDeliveryOfficeName: S1019
+telephoneNumber: (425) 555-0119
+givenName: Denise
+distinguishedName: CN=Denise Smith,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002318.0Z
+displayName: Denise Smith
+uSNCreated: 45217
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45687
+department: Finance
+name: Denise Smith
+objectGUID:: H2mq2aEAy0y7Ll0GKILIIA==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754669982493533
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmbAQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: DeniseS
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235335.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: DeniseS@Contoso.com
+manager: CN=Howard Gonzalez,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Mark Hassall,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Mark Hassall
+sn: Hassall
+title: Analyst
+physicalDeliveryOfficeName: S1020
+telephoneNumber: (425) 555-0120
+givenName: Mark
+distinguishedName: CN=Mark Hassall,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002318.0Z
+displayName: Mark Hassall
+uSNCreated: 45221
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45689
+department: Finance
+name: Mark Hassall
+objectGUID:: Gz9avTnP2UWKR3NTnRBpjg==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754669982805591
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmbQQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: MarkH
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235401.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: MarkH@Contoso.com
+manager: CN=Howard Gonzalez,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Robert Lyon,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Robert Lyon
+sn: Lyon
+title: Analyst
+physicalDeliveryOfficeName: S1021
+telephoneNumber: (425) 555-0121
+givenName: Robert
+distinguishedName: CN=Robert Lyon,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002318.0Z
+displayName: Robert Lyon
+uSNCreated: 45225
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45691
+department: Finance
+name: Robert Lyon
+objectGUID:: M4PYg1biPEOmdRhyoUE6Gw==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754669983429707
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmbgQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: RobertL
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235401.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: RobertL@Contoso.com
+manager: CN=Howard Gonzalez,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Tracy Tallman,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Tracy Tallman
+sn: Tallman
+title: Technical Editor
+physicalDeliveryOfficeName: S1022
+telephoneNumber: (425) 555-0122
+givenName: Tracy
+distinguishedName: CN=Tracy Tallman,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002318.0Z
+displayName: Tracy Tallman
+uSNCreated: 45229
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45693
+department: IT
+directReports: CN=Tammy McDonald,OU=Employees,DC=contoso,DC=com
+directReports: CN=Julian Isla,OU=Employees,DC=contoso,DC=com
+directReports: CN=Chris Ashton,OU=Employees,DC=contoso,DC=com
+directReports: CN=Rajesh Patel,OU=Employees,DC=contoso,DC=com
+name: Tracy Tallman
+objectGUID:: WH7V1Z7lx0OIu0HHY+YfSA==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754669983897794
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmbwQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: TracyT
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235415.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: TracyT@Contoso.com
+manager: CN=Catherine Boeger,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Rajesh Patel,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Rajesh Patel
+sn: Patel
+title: Editorial Assistant
+physicalDeliveryOfficeName: S1023
+telephoneNumber: (425) 555-0123
+givenName: Rajesh
+distinguishedName: CN=Rajesh Patel,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002318.0Z
+displayName: Rajesh Patel
+uSNCreated: 45233
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45695
+department: IT
+name: Rajesh Patel
+objectGUID:: JJ7DIqg2t0ijLcrhkcLTug==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754669984365881
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmcAQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: RajeshP
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235401.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: RajeshP@Contoso.com
+manager: CN=Tracy Tallman,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Chris Ashton,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Chris Ashton
+sn: Ashton
+title: Technical Writer
+physicalDeliveryOfficeName: S1024
+telephoneNumber: (425) 555-0124
+givenName: Chris
+distinguishedName: CN=Chris Ashton,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002318.0Z
+displayName: Chris Ashton
+uSNCreated: 45237
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45697
+department: IT
+name: Chris Ashton
+objectGUID:: K5OoFWYqZkOH1wPoW+Vh0Q==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754669984833968
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmcQQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: ChrisA
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235335.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: ChrisA@Contoso.com
+manager: CN=Tracy Tallman,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Julian Isla,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Julian Isla
+sn: Isla
+title: Technical Writer
+physicalDeliveryOfficeName: S1025
+telephoneNumber: (425) 555-0125
+givenName: Julian
+distinguishedName: CN=Julian Isla,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002318.0Z
+displayName: Julian Isla
+uSNCreated: 45241
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45699
+department: IT
+name: Julian Isla
+objectGUID:: kxGb4bRJIk2hT9PDnWBXBA==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754669985146026
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmcgQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: JulianI
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235401.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: JulianI@Contoso.com
+manager: CN=Tracy Tallman,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Tammy McDonald,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Tammy McDonald
+sn: McDonald
+title: Technical Writer
+physicalDeliveryOfficeName: N1000
+telephoneNumber: (425) 555-0126
+givenName: Tammy
+distinguishedName: CN=Tammy McDonald,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002318.0Z
+displayName: Tammy McDonald
+uSNCreated: 45245
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45701
+department: IT
+name: Tammy McDonald
+objectGUID:: oYeRp2eac0GxVwBcNd5AUQ==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754669985614113
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmcwQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: TammyM
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235415.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: TammyM@Contoso.com
+manager: CN=Tracy Tallman,OU=Employees,DC=contoso,DC=com
+
+dn: CN=John Emory,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: John Emory
+sn: Emory
+title: Graphic Designer
+physicalDeliveryOfficeName: N1001
+telephoneNumber: (425) 555-0127
+givenName: John
+distinguishedName: CN=John Emory,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002318.0Z
+displayName: John Emory
+uSNCreated: 45249
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45703
+department: IT
+name: John Emory
+objectGUID:: s9Jtxn75tU2Zi6dHrKLA3w==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754669986082242
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmdAQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: JohnE
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235401.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: JohnE@Contoso.com
+manager: CN=Catherine Boeger,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Qiang Wang,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Qiang Wang
+sn: Wang
+title: Graphic Designer
+physicalDeliveryOfficeName: N1002
+telephoneNumber: (425) 555-0128
+givenName: Qiang
+distinguishedName: CN=Qiang Wang,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002318.0Z
+displayName: Qiang Wang
+uSNCreated: 45253
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45705
+department: IT
+name: Qiang Wang
+objectGUID:: O7Xf0f6NYU2d2KMjpAA5fQ==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754669986550371
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmdQQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: QiangW
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235401.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: QiangW@Contoso.com
+manager: CN=Catherine Boeger,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Brian Cox,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Brian Cox
+sn: Cox
+title: Solutions Developer
+physicalDeliveryOfficeName: N1003
+telephoneNumber: (425) 555-0129
+givenName: Brian
+distinguishedName: CN=Brian Cox,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002318.0Z
+displayName: Brian Cox
+uSNCreated: 45257
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+memberOf: CN=WSS_ADMIN_WPG,CN=Users,DC=contoso,DC=com
+uSNChanged: 45707
+department: IT
+wWWHomePage: http://Contoso.com:81/personal/brianc/
+name: Brian Cox
+objectGUID:: ip3HjUnqFEWL8clB3K5uYg==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754669986862457
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmdgQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: BrianC
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235335.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: BrianC@Contoso.com
+manager: CN=Luis Bonifaz,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Sandeep Katyal,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Sandeep Katyal
+sn: Katyal
+title: Solutions Developer
+physicalDeliveryOfficeName: N1004
+telephoneNumber: (425) 555-0130
+givenName: Sandeep
+distinguishedName: CN=Sandeep Katyal,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002318.0Z
+displayName: Sandeep Katyal
+uSNCreated: 45261
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45709
+department: IT
+name: Sandeep Katyal
+objectGUID:: ywHUc7jbRkijeI4oGyBpmg==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754669987330586
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmdwQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: SandeepK
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235401.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: SandeepK@Contoso.com
+manager: CN=Luis Bonifaz,OU=Employees,DC=contoso,DC=com
+
+dn: CN=David Yalovsky,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: David Yalovsky
+sn: Yalovsky
+title: Solutions Developer
+physicalDeliveryOfficeName: N1005
+telephoneNumber: (425) 555-0131
+givenName: David
+distinguishedName: CN=David Yalovsky,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002318.0Z
+displayName: David Yalovsky
+uSNCreated: 45265
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45711
+department: IT
+name: David Yalovsky
+objectGUID:: txVhaOZ2gEey8G2jR3UbcA==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754669987798715
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmeAQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: DavidY
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235335.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: DavidY@Contoso.com
+manager: CN=Luis Bonifaz,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Tawana Nusbaum,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Tawana Nusbaum
+sn: Nusbaum
+title: Payroll Assistant
+physicalDeliveryOfficeName: N1006
+telephoneNumber: (425) 555-0132
+givenName: Tawana
+distinguishedName: CN=Tawana Nusbaum,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002318.0Z
+displayName: Tawana Nusbaum
+uSNCreated: 45269
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45713
+department: Operations
+name: Tawana Nusbaum
+objectGUID:: bmfn3/ZnLUiTA4ZGjaUPJw==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754669988266844
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmeQQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: TawanaN
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235415.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: TawanaN@Contoso.com
+manager: CN=Tamara Johnston,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Ray Chow,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Ray Chow
+sn: Chow
+title: Payroll Assistant
+physicalDeliveryOfficeName: N1007
+telephoneNumber: (425) 555-0133
+givenName: Ray
+distinguishedName: CN=Ray Chow,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002318.0Z
+displayName: Ray Chow
+uSNCreated: 45273
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45715
+department: Operations
+name: Ray Chow
+objectGUID:: 6pGZQWvPSE+Vtd8pcbcbQQ==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754669988734973
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmegQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: RayC
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235401.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: RayC@Contoso.com
+manager: CN=Tamara Johnston,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Simon Pearson,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Simon Pearson
+sn: Pearson
+title: Payroll Assistant
+physicalDeliveryOfficeName: N1008
+telephoneNumber: (425) 555-0134
+givenName: Simon
+distinguishedName: CN=Simon Pearson,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002318.0Z
+displayName: Simon Pearson
+uSNCreated: 45277
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45717
+department: Operations
+name: Simon Pearson
+objectGUID:: 0qfYTeT480mtZiptrajD3g==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754669989047059
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmewQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: SimonP
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235415.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: SimonP@Contoso.com
+manager: CN=Tamara Johnston,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Mike Fitzmaurice,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Mike Fitzmaurice
+sn: Fitzmaurice
+title: Regional Sales Manager US-W
+physicalDeliveryOfficeName: N1009
+telephoneNumber: (425) 555-0135
+givenName: Mike
+distinguishedName: CN=Mike Fitzmaurice,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002318.0Z
+displayName: Mike Fitzmaurice
+uSNCreated: 45281
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45719
+department: Sales
+name: Mike Fitzmaurice
+objectGUID:: 11ZQc4zZ906sMjeMmP8l7Q==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754669989515188
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmfAQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: MikeF
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235401.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: MikeF@Contoso.com
+manager: CN=Jay Henningsen,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Willis Johnson,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Willis Johnson
+sn: Johnson
+title: Records Manager
+physicalDeliveryOfficeName: N1046
+telephoneNumber: (425) 555-0175
+givenName: Willis
+distinguishedName: CN=Willis Johnson,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002319.0Z
+displayName: Willis Johnson
+uSNCreated: 45285
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45721
+department: Operations
+directReports: CN=Pedro Gutierrez,OU=Employees,DC=contoso,DC=com
+directReports: CN=Rob Verhoff,OU=Employees,DC=contoso,DC=com
+directReports: CN=Nicole Caron,OU=Employees,DC=contoso,DC=com
+name: Willis Johnson
+objectGUID:: oUobY6fY+EaupFmhS9JQTw==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754669990295403
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmfQQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: WillisJ
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235415.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: WillisJ@Contoso.com
+manager: CN=Don Funk,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Nicole Caron,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Nicole Caron
+sn: Caron
+title: Regional Sales Associate US-W
+physicalDeliveryOfficeName: N1010
+telephoneNumber: (425) 555-0136
+givenName: Nicole
+distinguishedName: CN=Nicole Caron,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002319.0Z
+displayName: Nicole Caron
+uSNCreated: 45289
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45723
+department: Sales
+name: Nicole Caron
+objectGUID:: obRYX060gEi46Q9+TQlryw==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754669990607489
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmfgQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: NicoleC
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235401.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: NicoleC@Contoso.com
+manager: CN=Willis Johnson,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Rob Verhoff,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Rob Verhoff
+sn: Verhoff
+title: Regional Sales Associate US-W
+physicalDeliveryOfficeName: N1011
+telephoneNumber: (425) 555-0137
+givenName: Rob
+distinguishedName: CN=Rob Verhoff,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002319.0Z
+displayName: Rob Verhoff
+uSNCreated: 45293
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45725
+department: Sales
+name: Rob Verhoff
+objectGUID:: Dz5ZoXNTO06ooAuht7yb9A==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754669991075618
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmfwQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: RobV
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235401.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: RobV@Contoso.com
+manager: CN=Willis Johnson,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Pedro Gutierrez,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Pedro Gutierrez
+sn: Gutierrez
+title: Regional Sales Associate US-W
+physicalDeliveryOfficeName: N1012
+telephoneNumber: (425) 555-0138
+givenName: Pedro
+distinguishedName: CN=Pedro Gutierrez,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002319.0Z
+displayName: Pedro Gutierrez
+uSNCreated: 45297
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45727
+department: Sales
+name: Pedro Gutierrez
+objectGUID:: goIvB/yzYEir2+PoD5ELrg==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754669991543747
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmgAQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: PedroG
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235401.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: PedroG@Contoso.com
+manager: CN=Willis Johnson,OU=Employees,DC=contoso,DC=com
+
+dn: CN=William Ngoh,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: William Ngoh
+sn: Ngoh
+title: Regional Manufacturing Manager US-W
+physicalDeliveryOfficeName: N1013
+telephoneNumber: (425) 555-0139
+givenName: William
+distinguishedName: CN=William Ngoh,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002319.0Z
+displayName: William Ngoh
+uSNCreated: 45301
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45729
+department: Operations
+directReports: CN=Paul West,OU=Employees,DC=contoso,DC=com
+name: William Ngoh
+objectGUID:: JjZ9SyWvqEiJNOyZKnDz6A==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754669992011876
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmgQQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: WilliamN
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235415.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: WilliamN@Contoso.com
+manager: CN=Steve Masters,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Paul West,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Paul West
+sn: West
+title: Workshop Manager US-W
+physicalDeliveryOfficeName: N1014
+telephoneNumber: (425) 555-0140
+givenName: Paul
+distinguishedName: CN=Paul West,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002319.0Z
+displayName: Paul West
+uSNCreated: 45305
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45731
+department: Operations
+directReports: CN=Jeff Price,OU=Employees,DC=contoso,DC=com
+directReports: CN=John Chen,OU=Employees,DC=contoso,DC=com
+name: Paul West
+objectGUID:: zgEjB9SRQkmYwBYSM0nCYg==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754669992480005
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmggQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: PaulW
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235401.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: PaulW@Contoso.com
+manager: CN=William Ngoh,OU=Employees,DC=contoso,DC=com
+
+dn: CN=John Chen,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: John Chen
+sn: Chen
+title: Lead Installer
+physicalDeliveryOfficeName: N1015
+telephoneNumber: (425) 555-0141
+givenName: John
+distinguishedName: CN=John Chen,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002319.0Z
+displayName: John Chen
+uSNCreated: 45309
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45733
+department: Operations
+directReports: CN=Kim Abercrombie,OU=Employees,DC=contoso,DC=com
+directReports: CN=Lionel Penuchot,OU=Employees,DC=contoso,DC=com
+directReports: CN=Brian Burke,OU=Employees,DC=contoso,DC=com
+name: John Chen
+objectGUID:: 25BsHWuDpkqOtdWrQdHr5Q==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754669992792091
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmgwQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: JohnC
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235401.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: JohnC@Contoso.com
+manager: CN=Paul West,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Brian Burke,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Brian Burke
+sn: Burke
+title: Installer
+physicalDeliveryOfficeName: N1016
+telephoneNumber: (425) 555-0142
+givenName: Brian
+distinguishedName: CN=Brian Burke,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002319.0Z
+displayName: Brian Burke
+uSNCreated: 45313
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45735
+department: Operations
+name: Brian Burke
+objectGUID:: RTUbB3VbZkSRXk0zBU+SkA==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754669993260220
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmhAQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: BrianB
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235335.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: BrianB@Contoso.com
+manager: CN=John Chen,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Lionel Penuchot,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Lionel Penuchot
+sn: Penuchot
+title: Installer
+physicalDeliveryOfficeName: N1017
+telephoneNumber: (425) 555-0143
+givenName: Lionel
+distinguishedName: CN=Lionel Penuchot,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002319.0Z
+displayName: Lionel Penuchot
+uSNCreated: 45317
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45737
+department: Operations
+name: Lionel Penuchot
+objectGUID:: n/KYYnjX5ki9FAxvXnuokw==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754669993728349
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmhQQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: LionelP
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235401.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: LionelP@Contoso.com
+manager: CN=John Chen,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Kim Abercrombie,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Kim Abercrombie
+sn: Abercrombie
+title: Installer
+physicalDeliveryOfficeName: N1018
+telephoneNumber: (425) 555-0144
+givenName: Kim
+distinguishedName: CN=Kim Abercrombie,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002319.0Z
+displayName: Kim Abercrombie
+uSNCreated: 45321
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45739
+department: Operations
+name: Kim Abercrombie
+objectGUID:: qydDevSyX0KeaqKekKCNuQ==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754669994196478
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmhgQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: KimA
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235401.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: KimA@Contoso.com
+manager: CN=John Chen,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Jeff Price,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Jeff Price
+sn: Price
+title: Lead Fabricator
+physicalDeliveryOfficeName: N1019
+telephoneNumber: (425) 555-0145
+givenName: Jeff
+distinguishedName: CN=Jeff Price,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002319.0Z
+displayName: Jeff Price
+uSNCreated: 45325
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45741
+department: Operations
+directReports: CN=Frank Lee,OU=Employees,DC=contoso,DC=com
+directReports: CN=Megan Sherman,OU=Employees,DC=contoso,DC=com
+name: Jeff Price
+objectGUID:: R+5n0h1uhEqFfWxKi/Hu/Q==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754669994508564
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmhwQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: JeffP
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235401.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: JeffP@Contoso.com
+manager: CN=Paul West,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Megan Sherman,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Megan Sherman
+sn: Sherman
+title: Fabricator
+physicalDeliveryOfficeName: N1020
+telephoneNumber: (425) 555-0146
+givenName: Megan
+distinguishedName: CN=Megan Sherman,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002319.0Z
+displayName: Megan Sherman
+uSNCreated: 45329
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45743
+department: Operations
+name: Megan Sherman
+objectGUID:: wDxTb/61gU2U7df0Wr8fMA==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754669995288779
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmiAQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: MeganS
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235401.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: MeganS@Contoso.com
+manager: CN=Jeff Price,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Frank Lee,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Frank Lee
+sn: Lee
+title: Fabricator
+physicalDeliveryOfficeName: N1021
+telephoneNumber: (425) 555-0147
+givenName: Frank
+distinguishedName: CN=Frank Lee,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002319.0Z
+displayName: Frank Lee
+uSNCreated: 45333
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45745
+department: Operations
+name: Frank Lee
+objectGUID:: IfLrWc6Y2kSmu2YfMR5awg==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754669995756921
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmiQQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: FrankL
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235335.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: FrankL@Contoso.com
+manager: CN=Jeff Price,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Ioannis Xylaras,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Ioannis Xylaras
+sn: Xylaras
+title: Regional Sales Manager US-E
+physicalDeliveryOfficeName: N1023
+telephoneNumber: (425) 555-0149
+givenName: Ioannis
+distinguishedName: CN=Ioannis Xylaras,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002319.0Z
+displayName: Ioannis Xylaras
+uSNCreated: 45337
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45747
+department: Sales
+directReports: CN=Karin Zimprich,OU=Employees,DC=contoso,DC=com
+directReports: CN=Eliot Graff,OU=Employees,DC=contoso,DC=com
+directReports: CN=Laura Norman,OU=Employees,DC=contoso,DC=com
+name: Ioannis Xylaras
+objectGUID:: 2TXkJMpidE+RiaWTQQ7Byg==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754669996225089
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmigQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: IoannisX
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235401.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: IoannisX@Contoso.com
+manager: CN=Jay Henningsen,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Laura Norman,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Laura Norman
+sn: Norman
+title: Regional Sales Associate US-E
+physicalDeliveryOfficeName: N1024
+telephoneNumber: (425) 555-0150
+givenName: Laura
+distinguishedName: CN=Laura Norman,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002319.0Z
+displayName: Laura Norman
+uSNCreated: 45341
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45749
+department: Sales
+name: Laura Norman
+objectGUID:: kScwpgR3ak6xKtePI6FBGQ==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754669996537201
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmiwQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: LauraN
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235401.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: LauraN@Contoso.com
+manager: CN=Ioannis Xylaras,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Eliot Graff,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Eliot Graff
+sn: Graff
+title: Regional Sales Associate US-E
+physicalDeliveryOfficeName: N1025
+telephoneNumber: (425) 555-0151
+givenName: Eliot
+distinguishedName: CN=Eliot Graff,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002319.0Z
+displayName: Eliot Graff
+uSNCreated: 45345
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45751
+department: Sales
+name: Eliot Graff
+objectGUID:: im8nrgwkL0K4U54y+dJxhg==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754669997005369
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmjAQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: EliotG
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235335.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: EliotG@Contoso.com
+manager: CN=Ioannis Xylaras,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Karin Zimprich,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Karin Zimprich
+sn: Zimprich
+title: Regional Sales Associate US-E
+physicalDeliveryOfficeName: N1026
+telephoneNumber: (425) 555-0152
+givenName: Karin
+distinguishedName: CN=Karin Zimprich,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002319.0Z
+displayName: Karin Zimprich
+uSNCreated: 45349
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45753
+department: Sales
+name: Karin Zimprich
+objectGUID:: mMEF0Gp9f0O+thUifH9nBQ==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754669997473537
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmjQQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: KarinZ
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235401.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: KarinZ@Contoso.com
+manager: CN=Ioannis Xylaras,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Lorraine Nay,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Lorraine Nay
+sn: Nay
+title: Regional Manufacturing Manager US-E
+physicalDeliveryOfficeName: N1027
+telephoneNumber: (425) 555-0153
+givenName: Lorraine
+distinguishedName: CN=Lorraine Nay,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002319.0Z
+displayName: Lorraine Nay
+uSNCreated: 45353
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45755
+department: Operations
+directReports: CN=Cesar Garcias,OU=Employees,DC=contoso,DC=com
+name: Lorraine Nay
+objectGUID:: L/mF6jDRxESsvWEeexXMcg==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754669997941705
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmjgQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: LorraineN
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235401.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: LorraineN@Contoso.com
+manager: CN=Steve Masters,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Cesar Garcias,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Cesar Garcias
+sn: Garcias
+title: Workshop Manager US-W
+physicalDeliveryOfficeName: N1028
+telephoneNumber: (425) 555-0154
+givenName: Cesar
+distinguishedName: CN=Cesar Garcias,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002319.0Z
+displayName: Cesar Garcias
+uSNCreated: 45357
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45757
+department: Operations
+directReports: CN=Pavel Berka,OU=Employees,DC=contoso,DC=com
+directReports: CN=Barbara Decker,OU=Employees,DC=contoso,DC=com
+name: Cesar Garcias
+objectGUID:: FYrDd2fhv02qsl0UjGwT+A==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754669998409873
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmjwQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: CesarGs
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235335.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: CesarGs@Contoso.com
+manager: CN=Lorraine Nay,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Barbara Decker,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Barbara Decker
+sn: Decker
+title: Lead Installer
+physicalDeliveryOfficeName: N1029
+telephoneNumber: (425) 555-0155
+givenName: Barbara
+distinguishedName: CN=Barbara Decker,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002319.0Z
+displayName: Barbara Decker
+uSNCreated: 45361
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45759
+department: Operations
+directReports: CN=Stefan Hesse,OU=Employees,DC=contoso,DC=com
+directReports: CN=Patrick Sands,OU=Employees,DC=contoso,DC=com
+name: Barbara Decker
+objectGUID:: M/Yi5x3SyUq3m0TwBKWZ2g==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754669998878041
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmkAQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: BarbaraD
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235335.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: BarbaraD@Contoso.com
+manager: CN=Cesar Garcias,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Patrick Sands,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Patrick Sands
+sn: Sands
+title: Installer
+physicalDeliveryOfficeName: N1030
+telephoneNumber: (425) 555-0156
+givenName: Patrick
+distinguishedName: CN=Patrick Sands,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002319.0Z
+displayName: Patrick Sands
+uSNCreated: 45365
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45761
+department: Operations
+name: Patrick Sands
+objectGUID:: eAYRQps/a0GmgWznVQ+RUQ==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754669999190153
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmkQQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: PatrickS
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235401.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: PatrickS@Contoso.com
+manager: CN=Barbara Decker,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Stefan Hesse,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Stefan Hesse
+sn: Hesse
+title: Installer
+physicalDeliveryOfficeName: N1031
+telephoneNumber: (425) 555-0157
+givenName: Stefan
+distinguishedName: CN=Stefan Hesse,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002319.0Z
+displayName: Stefan Hesse
+uSNCreated: 45369
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45763
+department: Operations
+name: Stefan Hesse
+objectGUID:: O2zEO28oJUWsXUSIdn3gdg==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754669999658321
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmkgQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: StefanH
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235415.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: StefanH@Contoso.com
+manager: CN=Barbara Decker,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Pavel Berka,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Pavel Berka
+sn: Berka
+title: Lead Fabricator
+physicalDeliveryOfficeName: N1033
+telephoneNumber: (425) 555-0159
+givenName: Pavel
+distinguishedName: CN=Pavel Berka,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002320.0Z
+displayName: Pavel Berka
+uSNCreated: 45373
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45765
+department: Operations
+directReports: CN=Anton Kirilov,OU=Employees,DC=contoso,DC=com
+directReports: CN=Holly Holt,OU=Employees,DC=contoso,DC=com
+directReports: CN=Russell King,OU=Employees,DC=contoso,DC=com
+name: Pavel Berka
+objectGUID:: 2ltmFx2KAEe/LnhRGZoaeQ==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754669999970433
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmkwQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: PavelB
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235401.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: PavelB@Contoso.com
+manager: CN=Cesar Garcias,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Russell King,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Russell King
+sn: King
+title: Fabricator
+physicalDeliveryOfficeName: N1034
+telephoneNumber: (425) 555-0160
+givenName: Russell
+distinguishedName: CN=Russell King,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002320.0Z
+displayName: Russell King
+uSNCreated: 45377
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45767
+department: Operations
+name: Russell King
+objectGUID:: OcwfhtlLl0uwf5fi1DS7zg==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754670000438601
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmlAQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: RussellK
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235401.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: RussellK@Contoso.com
+manager: CN=Pavel Berka,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Holly Holt,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Holly Holt
+sn: Holt
+title: Fabricator
+physicalDeliveryOfficeName: N1035
+telephoneNumber: (425) 555-0161
+givenName: Holly
+distinguishedName: CN=Holly Holt,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002320.0Z
+displayName: Holly Holt
+uSNCreated: 45381
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45769
+department: Operations
+name: Holly Holt
+objectGUID:: ZpzL8jG2cUa+VdPlzguLlQ==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754670001530993
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmlQQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: HollyH
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235401.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: HollyH@Contoso.com
+manager: CN=Pavel Berka,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Anton Kirilov,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Anton Kirilov
+sn: Kirilov
+title: Fabricator
+physicalDeliveryOfficeName: N1036
+telephoneNumber: (425) 555-0162
+givenName: Anton
+distinguishedName: CN=Anton Kirilov,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002320.0Z
+displayName: Anton Kirilov
+uSNCreated: 45385
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45771
+department: Operations
+name: Anton Kirilov
+objectGUID:: 0df55112dkuAc3K2s8D2vg==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754670001999161
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmlgQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: AntonK
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235335.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: AntonK@Contoso.com
+manager: CN=Pavel Berka,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Gary Altman III,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Gary Altman III
+sn: Altman III
+title: Lawyer
+physicalDeliveryOfficeName: N1037
+telephoneNumber: (425) 555-0163
+givenName: Gary
+distinguishedName: CN=Gary Altman III,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002320.0Z
+displayName: Gary Altman III
+uSNCreated: 45389
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45773
+department: Executive
+name: Gary Altman III
+objectGUID:: gVUSYYJzl0+F0bWenAGWTw==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754670002467329
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmlwQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: GaryA
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235335.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: GaryA@Contoso.com
+manager: CN=Patricia Doyle,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Jesse Merriam,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Jesse Merriam
+sn: Merriam
+title: Product Manager
+physicalDeliveryOfficeName: N1038
+telephoneNumber: (425) 555-0164
+givenName: Jesse
+distinguishedName: CN=Jesse Merriam,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002320.0Z
+displayName: Jesse Merriam
+uSNCreated: 45393
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45775
+department: Sales
+directReports: CN=Ties Arts,OU=Employees,DC=contoso,DC=com
+directReports: CN=Craig Playstead,OU=Employees,DC=contoso,DC=com
+name: Jesse Merriam
+objectGUID:: fMdP8dGnM0WNegvaddSXlw==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754670002779441
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmmAQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: JesseM
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235401.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: JesseM@Contoso.com
+manager: CN=Dave Richards,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Jyothi Pai,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Jyothi Pai
+sn: Pai
+title: Marketing Intern
+physicalDeliveryOfficeName: N1039
+telephoneNumber: (425) 555-0165
+givenName: Jyothi
+distinguishedName: CN=Jyothi Pai,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002320.0Z
+displayName: Jyothi Pai
+uSNCreated: 45397
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45777
+department: Sales
+name: Jyothi Pai
+objectGUID:: OFxwgV2g00WHJf0QyWZh7g==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754670003247609
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmmQQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: JyothiP
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235401.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: JyothiP@Contoso.com
+manager: CN=Dave Richards,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Amy Alberts,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Amy Alberts
+sn: Alberts
+title: Marketing Intern
+physicalDeliveryOfficeName: N1040
+telephoneNumber: (425) 555-0166
+givenName: Amy
+distinguishedName: CN=Amy Alberts,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002320.0Z
+displayName: Amy Alberts
+uSNCreated: 45401
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45779
+department: Sales
+name: Amy Alberts
+objectGUID:: bgjStym+h0yvjtxpq5J0dg==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754670003715777
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmmgQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: AmyA
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235335.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: AmyA@Contoso.com
+manager: CN=Dave Richards,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Craig Playstead,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Craig Playstead
+sn: Playstead (Sebben & Sebben)
+title: Marketing Contractor
+physicalDeliveryOfficeName: Remote
+telephoneNumber: (425) 555-0167
+givenName: Craig
+distinguishedName: CN=Craig Playstead,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002320.0Z
+displayName: Craig Playstead
+uSNCreated: 45405
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45781
+department: Sales
+name: Craig Playstead
+objectGUID:: 7aCTIi04Ek+yU1gkT/H6nQ==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754670004183945
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmmwQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: CraigP
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235335.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: CraigP@Contoso.com
+manager: CN=Jesse Merriam,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Ties Arts,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Ties Arts
+sn: Arts (Sebben & Sebben)
+title: Marketing Contractor
+physicalDeliveryOfficeName: Remote
+telephoneNumber: (425) 555-0168
+givenName: Ties
+distinguishedName: CN=Ties Arts,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002320.0Z
+displayName: Ties Arts
+uSNCreated: 45409
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45783
+department: Sales
+name: Ties Arts
+objectGUID:: MBLIBp9+1EKSEyG+PpIFeQ==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754670004496057
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmnAQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: TiesA
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235415.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: TiesA@Contoso.com
+manager: CN=Jesse Merriam,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Claus Hansen,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Claus Hansen
+sn: Hansen
+title: Attorney
+physicalDeliveryOfficeName: N1041
+telephoneNumber: (425) 555-0169
+givenName: Claus
+distinguishedName: CN=Claus Hansen,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002320.0Z
+displayName: Claus Hansen
+uSNCreated: 45413
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45785
+department: Legal
+name: Claus Hansen
+objectGUID:: Rt1bapVLpU680IlrKyGNWQ==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754670004964225
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmnQQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: ClausH
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235335.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: ClausH@Contoso.com
+manager: CN=Charles Fitzgerald,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Dianne Tibbot,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Dianne Tibbot
+sn: Tibbot
+title: Fabrikam Director of Purchasing
+physicalDeliveryOfficeName: W2006
+telephoneNumber: (425) 555-0170
+givenName: Dianne
+distinguishedName: CN=Dianne Tibbot,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002320.0Z
+displayName: Dianne Tibbot
+uSNCreated: 45416
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45787
+department: Purchasing
+name: Dianne Tibbot
+objectGUID:: MLN5nkmLOUWG9yMiupo/DA==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754670005432393
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmngQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: DianneT
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235335.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: DianneT@Contoso.com
+
+dn: CN=Ivo Haemels,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Ivo Haemels
+sn: Haemels
+title: Warehouse Manager
+physicalDeliveryOfficeName: N1042
+telephoneNumber: (425) 555-0171
+givenName: Ivo
+distinguishedName: CN=Ivo Haemels,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002320.0Z
+displayName: Ivo Haemels
+uSNCreated: 45420
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45789
+department: Operations
+name: Ivo Haemels
+objectGUID:: YsSL4B04mk6CfHIPgK3yxA==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754670006056653
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmnwQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: IvoH
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235401.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: IvoH@Contoso.com
+manager: CN=Don Funk,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Adina Hagege,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Adina Hagege
+sn: Hagege
+title: Fullfillment
+physicalDeliveryOfficeName: N1043
+telephoneNumber: (425) 555-0172
+givenName: Adina
+distinguishedName: CN=Adina Hagege,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002320.0Z
+displayName: Adina Hagege
+uSNCreated: 45424
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45791
+department: Operations
+name: Adina Hagege
+objectGUID:: Oz6v6ODuuU2C4ltxj1xFqA==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754670006524857
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmoAQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: AdinaA
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235335.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: AdinaA@Contoso.com
+manager: CN=Don Funk,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Erin Hagens,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Erin Hagens
+sn: Hagens
+title: QA Manager
+physicalDeliveryOfficeName: N1044
+telephoneNumber: (425) 555-0173
+givenName: Erin
+distinguishedName: CN=Erin Hagens,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002320.0Z
+displayName: Erin Hagens
+uSNCreated: 45428
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45793
+department: Operations
+name: Erin Hagens
+objectGUID:: Hx5CtFn2VkWHnJ+lDYXFoQ==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754670007149129
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmoQQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: ErinH
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235335.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: ErinH@Contoso.com
+manager: CN=Don Funk,OU=Employees,DC=contoso,DC=com
+
+dn: CN=Pernille Halberg,OU=Employees,DC=contoso,DC=com
+changetype: add
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: user
+cn: Pernille Halberg
+sn: Halberg
+title: Test Lead
+physicalDeliveryOfficeName: N1045
+telephoneNumber: (425) 555-0174
+givenName: Pernille
+distinguishedName: CN=Pernille Halberg,OU=Employees,DC=contoso,DC=com
+instanceType: 4
+whenCreated: 20120305235228.0Z
+whenChanged: 20120306002320.0Z
+displayName: Pernille Halberg
+uSNCreated: 45432
+memberOf: CN=PortalUsers,OU=Employees,DC=contoso,DC=com
+uSNChanged: 45795
+department: Operations
+name: Pernille Halberg
+objectGUID:: YnyJfZ7EpUekuBaaE7JiNA==
+userAccountControl: 66080
+badPwdCount: 0
+codePage: 0
+countryCode: 0
+badPasswordTime: 0
+lastLogoff: 0
+lastLogon: 0
+pwdLastSet: 129754670007617333
+primaryGroupID: 513
+objectSid:: AQUAAAAAAAUVAAAAJTnHAQwilR7pmVOmogQAAA==
+accountExpires: 9223372036854775807
+logonCount: 0
+sAMAccountName: PernilleH
+sAMAccountType: 805306368
+objectCategory: CN=Person,CN=Schema,CN=Configuration,DC=contoso,DC=com
+dSCorePropagationData: 20120305235401.0Z
+dSCorePropagationData: 20120305235307.0Z
+dSCorePropagationData: 16010101000416.0Z
+mail: PernilleH@Contoso.com
+manager: CN=Don Funk,OU=Employees,DC=contoso,DC=com
+

@@ -1,0 +1,5 @@
+c:\DevProjects\ContentGenerator\ContentGeneratorWeb\bin\ContentGeneratorWeb.dll
+c:\DevProjects\ContentGenerator\ContentGeneratorWeb\bin\ContentGeneratorWeb.pdb
+c:\DevProjects\ContentGenerator\ContentGeneratorWeb\obj\Debug\ContentGeneratorWeb.csprojResolveAssemblyReference.cache
+c:\DevProjects\ContentGenerator\ContentGeneratorWeb\obj\Debug\ContentGeneratorWeb.dll
+c:\DevProjects\ContentGenerator\ContentGeneratorWeb\obj\Debug\ContentGeneratorWeb.pdb

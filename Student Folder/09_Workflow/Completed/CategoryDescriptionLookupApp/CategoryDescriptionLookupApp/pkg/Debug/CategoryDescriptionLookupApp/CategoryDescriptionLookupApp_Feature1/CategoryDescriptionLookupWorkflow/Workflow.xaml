@@ -1,0 +1,213 @@
+<Activity mc:Ignorable="sads" x:Class="CategoryDescriptionLookupApp.Category_Description_Lookup_Workflow.Workflow"
+ xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities"
+ xmlns:made="clr-namespace:Microsoft.Activities.Design.ExpressionTranslation;assembly=Microsoft.Activities.Design"
+ xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+ xmlns:mca="clr-namespace:Microsoft.CSharp.Activities;assembly=System.Activities"
+ xmlns:p="http://schemas.microsoft.com/workflow/2012/07/xaml/activities"
+ xmlns:p1="wf://workflow.windows.net/$Activities"
+ xmlns:s="clr-namespace:System;assembly=mscorlib"
+ xmlns:sads="http://schemas.microsoft.com/netfx/2010/xaml/activities/debugger"
+ xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Sequence sads:DebugSymbol.Symbol="d3hjOlxEZXZQcm9qZWN0c1xDYXRlZ29yeURlc2NyaXB0aW9uTG9va3VwQXBwXENhdGVnb3J5RGVzY3JpcHRpb25Mb29rdXBBcHBcQ2F0ZWdvcnlEZXNjcmlwdGlvbkxvb2t1cFdvcmtmbG93XFdvcmtmbG93LnhhbWwKKgOIAQ4CAQExBTccAgEhOAVNKAIBGk4FVBgCARdVBWATAgESYQVnGAIBD2gFcyICAQl0BXoYAgEGewWGARICAQJohwFooQECAQo=">
+    <Sequence.Variables>
+      <Variable x:TypeArguments="x:String" x:Name="__ReferenceID1" Name="CategoryName" />
+      <Variable x:TypeArguments="p:DynamicValue" x:Name="__ReferenceID2" Name="CategoryDVResponse" />
+      <Variable x:TypeArguments="x:String" x:Name="__ReferenceID3" Name="CategoryDescription" />
+      <Variable x:TypeArguments="s:Guid" x:Name="__ReferenceID0" Name="TriggerListItemGuid" />
+    </Sequence.Variables>
+    <p1:GetCurrentItemGuid>
+      <p1:GetCurrentItemGuid.Result>
+        <OutArgument x:TypeArguments="s:Guid">
+          <p:ExpressionContainerReference x:TypeArguments="s:Guid" DisplayName="TriggerListItemGuid">
+            <p:ExpressionContainerReference.Arguments>
+              <InOutArgument x:TypeArguments="s:Guid" x:Key="TriggerListItemGuid">
+                <VariableReference x:TypeArguments="s:Guid" Variable="{x:Reference __ReferenceID0}" />
+              </InOutArgument>
+            </p:ExpressionContainerReference.Arguments>
+            <ArgumentReference x:TypeArguments="s:Guid" ArgumentName="TriggerListItemGuid" />
+          </p:ExpressionContainerReference>
+        </OutArgument>
+      </p1:GetCurrentItemGuid.Result>
+    </p1:GetCurrentItemGuid>
+    <p1:LookupSPListItemStringProperty DisplayName="LookupSPListItemProperty">
+      <p1:LookupSPListItemStringProperty.ItemGuid>
+        <InArgument x:TypeArguments="s:Guid">
+          <p:ExpressionContainerValue x:TypeArguments="s:Guid" DisplayName="TriggerListItemGuid">
+            <p:ExpressionContainerValue.Arguments>
+              <InArgument x:TypeArguments="s:Guid" x:Key="TriggerListItemGuid">
+                <VariableValue x:TypeArguments="s:Guid" Variable="{x:Reference __ReferenceID0}" />
+              </InArgument>
+            </p:ExpressionContainerValue.Arguments>
+            <ArgumentValue x:TypeArguments="s:Guid" ArgumentName="TriggerListItemGuid" />
+          </p:ExpressionContainerValue>
+        </InArgument>
+      </p1:LookupSPListItemStringProperty.ItemGuid>
+      <p1:LookupSPListItemStringProperty.ListId>
+        <InArgument x:TypeArguments="s:Guid">
+          <p:ExpressionContainerValue x:TypeArguments="s:Guid" DisplayName="System.Guid.Parse(&quot;{$ListId:Lists/Announcements;}&quot;)">
+            <p:ParseGuid Value="{}{$ListId:Lists/Announcements;}" />
+          </p:ExpressionContainerValue>
+        </InArgument>
+      </p1:LookupSPListItemStringProperty.ListId>
+      <p1:LookupSPListItemStringProperty.PropertyName>
+        <InArgument x:TypeArguments="x:String">
+          <p:ExpressionContainerValue x:TypeArguments="x:String" DisplayName="&quot;Title&quot;" Expression="Title" />
+        </InArgument>
+      </p1:LookupSPListItemStringProperty.PropertyName>
+      <p1:LookupSPListItemStringProperty.Result>
+        <OutArgument x:TypeArguments="x:String">
+          <p:ExpressionContainerReference x:TypeArguments="x:String" DisplayName="CategoryName">
+            <p:ExpressionContainerReference.Arguments>
+              <InOutArgument x:TypeArguments="x:String" x:Key="CategoryName">
+                <VariableReference x:TypeArguments="x:String" Variable="{x:Reference __ReferenceID1}" />
+              </InOutArgument>
+            </p:ExpressionContainerReference.Arguments>
+            <ArgumentReference x:TypeArguments="x:String" ArgumentName="CategoryName" />
+          </p:ExpressionContainerReference>
+        </OutArgument>
+      </p1:LookupSPListItemStringProperty.Result>
+    </p1:LookupSPListItemStringProperty>
+    <p1:WriteToHistory>
+      <p1:WriteToHistory.Message>
+        <InArgument x:TypeArguments="x:String">
+          <p:ExpressionContainerValue x:TypeArguments="x:String" DisplayName="&quot;Category: &quot; + CategoryName">
+            <p:ExpressionContainerValue.Arguments>
+              <InArgument x:TypeArguments="x:String" x:Key="CategoryName">
+                <VariableValue x:TypeArguments="x:String" Variable="{x:Reference __ReferenceID1}" />
+              </InArgument>
+            </p:ExpressionContainerValue.Arguments>
+            <p:ConcatString>
+              <InArgument x:TypeArguments="x:String" EvaluationOrder="1" Expression="Category: " />
+              <InArgument x:TypeArguments="x:String" EvaluationOrder="2">
+                <ArgumentValue x:TypeArguments="x:String" ArgumentName="CategoryName" />
+              </InArgument>
+            </p:ConcatString>
+          </p:ExpressionContainerValue>
+        </InArgument>
+      </p1:WriteToHistory.Message>
+    </p1:WriteToHistory>
+    <p:HttpSend>
+      <p:HttpSend.ResponseContent>
+        <OutArgument x:TypeArguments="p:DynamicValue">
+          <p:ExpressionContainerReference x:TypeArguments="p:DynamicValue" DisplayName="CategoryDVResponse">
+            <p:ExpressionContainerReference.Arguments>
+              <InOutArgument x:TypeArguments="p:DynamicValue" x:Key="CategoryDVResponse">
+                <VariableReference x:TypeArguments="p:DynamicValue" Variable="{x:Reference __ReferenceID2}" />
+              </InOutArgument>
+            </p:ExpressionContainerReference.Arguments>
+            <ArgumentReference x:TypeArguments="p:DynamicValue" ArgumentName="CategoryDVResponse" />
+          </p:ExpressionContainerReference>
+        </OutArgument>
+      </p:HttpSend.ResponseContent>
+      <p:HttpSend.Uri>
+        <InArgument x:TypeArguments="x:String">
+          <p:ExpressionContainerValue x:TypeArguments="x:String" DisplayName="&quot;http://services.odata.org/Northwind/Northwind.svc/Categories?$format=json&amp;$filter=substringof('&quot; + CategoryName + &quot;', CategoryName) eq true&amp;$select=Description&quot;">
+            <p:ExpressionContainerValue.Arguments>
+              <InArgument x:TypeArguments="x:String" x:Key="CategoryName">
+                <VariableValue x:TypeArguments="x:String" Variable="{x:Reference __ReferenceID1}" />
+              </InArgument>
+            </p:ExpressionContainerValue.Arguments>
+            <p:ConcatString>
+              <InArgument x:TypeArguments="x:String" EvaluationOrder="1">
+                <p:ConcatString>
+                  <InArgument x:TypeArguments="x:String" EvaluationOrder="1" Expression="http://services.odata.org/Northwind/Northwind.svc/Categories?$format=json&amp;$filter=substringof('" />
+                  <InArgument x:TypeArguments="x:String" EvaluationOrder="2">
+                    <ArgumentValue x:TypeArguments="x:String" ArgumentName="CategoryName" />
+                  </InArgument>
+                </p:ConcatString>
+              </InArgument>
+              <InArgument x:TypeArguments="x:String" EvaluationOrder="2" Expression="', CategoryName) eq true&amp;$select=Description" />
+            </p:ConcatString>
+          </p:ExpressionContainerValue>
+        </InArgument>
+      </p:HttpSend.Uri>
+    </p:HttpSend>
+    <p1:WriteToHistory>
+      <p1:WriteToHistory.Message>
+        <InArgument x:TypeArguments="x:String">
+          <p:ExpressionContainerValue x:TypeArguments="x:String" DisplayName="&quot;Response from service: &quot; + CategoryDVResponse.ToString()">
+            <p:ExpressionContainerValue.Arguments>
+              <InArgument x:TypeArguments="x:Object" x:Key="CategoryDVResponse">
+                <VariableValue x:TypeArguments="x:Object" Variable="{x:Reference __ReferenceID2}" />
+              </InArgument>
+            </p:ExpressionContainerValue.Arguments>
+            <p:ConcatString>
+              <InArgument x:TypeArguments="x:String" EvaluationOrder="1" Expression="Response from service: " />
+              <InArgument x:TypeArguments="x:String" EvaluationOrder="2">
+                <p:ToString>
+                  <InArgument x:TypeArguments="x:Object">
+                    <ArgumentValue x:TypeArguments="x:Object" ArgumentName="CategoryDVResponse" />
+                  </InArgument>
+                </p:ToString>
+              </InArgument>
+            </p:ConcatString>
+          </p:ExpressionContainerValue>
+        </InArgument>
+      </p1:WriteToHistory.Message>
+    </p1:WriteToHistory>
+    <p:GetDynamicValueProperty x:TypeArguments="x:String" PropertyName="d/results(0)/Description">
+      <p:GetDynamicValueProperty.Result>
+        <OutArgument x:TypeArguments="x:String">
+          <p:ExpressionContainerReference x:TypeArguments="x:String" DisplayName="CategoryDescription">
+            <p:ExpressionContainerReference.Arguments>
+              <InOutArgument x:TypeArguments="x:String" x:Key="CategoryDescription">
+                <VariableReference x:TypeArguments="x:String" Variable="{x:Reference __ReferenceID3}" />
+              </InOutArgument>
+            </p:ExpressionContainerReference.Arguments>
+            <ArgumentReference x:TypeArguments="x:String" ArgumentName="CategoryDescription" />
+          </p:ExpressionContainerReference>
+        </OutArgument>
+      </p:GetDynamicValueProperty.Result>
+      <p:GetDynamicValueProperty.Source>
+        <InArgument x:TypeArguments="p:DynamicValue">
+          <p:ExpressionContainerValue x:TypeArguments="p:DynamicValue" DisplayName="CategoryDVResponse">
+            <p:ExpressionContainerValue.Arguments>
+              <InArgument x:TypeArguments="p:DynamicValue" x:Key="CategoryDVResponse">
+                <VariableValue x:TypeArguments="p:DynamicValue" Variable="{x:Reference __ReferenceID2}" />
+              </InArgument>
+            </p:ExpressionContainerValue.Arguments>
+            <ArgumentValue x:TypeArguments="p:DynamicValue" ArgumentName="CategoryDVResponse" />
+          </p:ExpressionContainerValue>
+        </InArgument>
+      </p:GetDynamicValueProperty.Source>
+    </p:GetDynamicValueProperty>
+    <p1:WriteToHistory>
+      <p1:WriteToHistory.Message>
+        <InArgument x:TypeArguments="x:String">
+          <p:ExpressionContainerValue x:TypeArguments="x:String" DisplayName="&quot;Value extracted from DV:&quot; + CategoryDescription">
+            <p:ExpressionContainerValue.Arguments>
+              <InArgument x:TypeArguments="x:String" x:Key="CategoryDescription">
+                <VariableValue x:TypeArguments="x:String" Variable="{x:Reference __ReferenceID3}" />
+              </InArgument>
+            </p:ExpressionContainerValue.Arguments>
+            <p:ConcatString>
+              <InArgument x:TypeArguments="x:String" EvaluationOrder="1" Expression="Value extracted from DV:" />
+              <InArgument x:TypeArguments="x:String" EvaluationOrder="2">
+                <ArgumentValue x:TypeArguments="x:String" ArgumentName="CategoryDescription" />
+              </InArgument>
+            </p:ConcatString>
+          </p:ExpressionContainerValue>
+        </InArgument>
+      </p1:WriteToHistory.Message>
+    </p1:WriteToHistory>
+    <p1:SetField FieldValueDynamicValue="{x:Null}">
+      <p1:SetField.FieldName>
+        <InArgument x:TypeArguments="x:String">
+          <p:ExpressionContainerValue x:TypeArguments="x:String" DisplayName="&quot;Body&quot;" Expression="Body" />
+        </InArgument>
+      </p1:SetField.FieldName>
+      <p1:SetField.FieldValue>
+        <InArgument x:TypeArguments="x:Object">
+          <p:ExpressionContainerValue x:TypeArguments="x:Object" DisplayName="CategoryDescription">
+            <p:ExpressionContainerValue.Arguments>
+              <InArgument x:TypeArguments="x:Object" x:Key="CategoryDescription">
+                <VariableValue x:TypeArguments="x:Object" Variable="{x:Reference __ReferenceID3}" />
+              </InArgument>
+            </p:ExpressionContainerValue.Arguments>
+            <ArgumentValue x:TypeArguments="x:Object" ArgumentName="CategoryDescription" />
+          </p:ExpressionContainerValue>
+        </InArgument>
+      </p1:SetField.FieldValue>
+    </p1:SetField>
+  </Sequence>
+</Activity>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="WORD to PDF Conversion Feature" Description="A feature to convert Word documents to PDF" Id="c16a175c-3865-4b4c-8a37-c1a2956703b3" Scope="Web">
+  <ElementManifests>
+    <ElementManifest Location="Action\Elements.xml" />
+  </ElementManifests>
+</Feature>

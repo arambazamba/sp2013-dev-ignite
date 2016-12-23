@@ -1,0 +1,4 @@
+d:\Movies\Movies\bin\Debug\Movies.dll
+d:\Movies\Movies\bin\Debug\Movies.pdb
+d:\Movies\Movies\obj\Debug\Movies.dll
+d:\Movies\Movies\obj\Debug\Movies.pdb

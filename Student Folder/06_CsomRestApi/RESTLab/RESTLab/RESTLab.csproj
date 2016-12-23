@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7FEEE056-C5F2-4015-8EEF-75BC01A5D93D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>RESTLab</RootNamespace>
+    <AssemblyName>RESTLab</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetOfficeVersion>15.0</TargetOfficeVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{C1CDDADD-2546-481F-9697-4EA41081F2FC};{14822709-B5A1-4724-98CA-57A101D1B079};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>true</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>key.snk</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="Microsoft.SharePoint" />
+    <Reference Include="Microsoft.SharePoint.Client.ServerRuntime" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Features\SiteMain\SiteMain.EventReceiver.cs">
+      <DependentUpon>SiteMain.feature</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Customers\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{0f9fd8ae-9c25-4a78-80ba-c9e059234c34}</SharePointProjectItemId>
+    </None>
+    <None Include="Features\SiteMain\SiteMain.feature">
+      <FeatureId>{128df0dc-5b17-4e6f-8ffe-3ffe6f6df6c9}</FeatureId>
+    </None>
+    <None Include="key.snk" />
+    <None Include="Modules\LabPages\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{9a778746-d3bc-4699-b281-a4632ac2e5d3}</SharePointProjectItemId>
+    </None>
+    <None Include="Modules\RootFolder\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{7c3dff39-4e5e-4505-84be-1074042aa486}</SharePointProjectItemId>
+    </None>
+    <None Include="Modules\SolutionPages\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{655d4b84-b9a9-4354-84a2-60052c8f479d}</SharePointProjectItemId>
+    </None>
+    <None Include="Package\Package.package">
+      <PackageId>{225aaff9-8de8-4606-ac4f-3c08b57de1c8}</PackageId>
+    </None>
+    <None Include="Package\Package.Template.xml">
+      <DependentUpon>Package.package</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="Customers\Elements.xml" />
+    <Content Include="Features\SiteMain\SiteMain.Template.xml">
+      <DependentUpon>SiteMain.feature</DependentUpon>
+    </Content>
+    <Content Include="Modules\LabPages\Elements.xml" />
+    <Content Include="Modules\LabPages\Exercise01.aspx" />
+    <Content Include="Modules\LabPages\Exercise01.js" />
+    <Content Include="Modules\LabPages\Exercise02.aspx" />
+    <Content Include="Modules\LabPages\Exercise02.js" />
+    <Content Include="Modules\LabPages\Exercise03.aspx" />
+    <Content Include="Modules\LabPages\Exercise03.js" />
+    <Content Include="Modules\LabPages\Exercise04.aspx" />
+    <Content Include="Modules\LabPages\Exercise04.js" />
+    <Content Include="Modules\RootFolder\css\lab_styles.css" />
+    <Content Include="Modules\RootFolder\css\smoothness\images\ui-bg_flat_0_aaaaaa_40x100.png" />
+    <Content Include="Modules\RootFolder\css\smoothness\images\ui-bg_flat_75_ffffff_40x100.png" />
+    <Content Include="Modules\RootFolder\css\smoothness\images\ui-bg_glass_55_fbf9ee_1x400.png" />
+    <Content Include="Modules\RootFolder\css\smoothness\images\ui-bg_glass_65_ffffff_1x400.png" />
+    <Content Include="Modules\RootFolder\css\smoothness\images\ui-bg_glass_75_dadada_1x400.png" />
+    <Content Include="Modules\RootFolder\css\smoothness\images\ui-bg_glass_75_e6e6e6_1x400.png" />
+    <Content Include="Modules\RootFolder\css\smoothness\images\ui-bg_glass_95_fef1ec_1x400.png" />
+    <Content Include="Modules\RootFolder\css\smoothness\images\ui-bg_highlight-soft_75_cccccc_1x100.png" />
+    <Content Include="Modules\RootFolder\css\smoothness\images\ui-icons_222222_256x240.png" />
+    <Content Include="Modules\RootFolder\css\smoothness\images\ui-icons_2e83ff_256x240.png" />
+    <Content Include="Modules\RootFolder\css\smoothness\images\ui-icons_454545_256x240.png" />
+    <Content Include="Modules\RootFolder\css\smoothness\images\ui-icons_888888_256x240.png" />
+    <Content Include="Modules\RootFolder\css\smoothness\images\ui-icons_cd0a0a_256x240.png" />
+    <Content Include="Modules\RootFolder\css\smoothness\jquery-ui.css" />
+    <Content Include="Modules\RootFolder\Elements.xml" />
+    <Content Include="Modules\RootFolder\js\datajs.js" />
+    <Content Include="Modules\RootFolder\js\jquery-ui.js" />
+    <Content Include="Modules\RootFolder\js\jquery.js" />
+    <Content Include="Modules\RootFolder\js\jsrender.js" />
+    <Content Include="Modules\SolutionPages\Elements.xml" />
+    <Content Include="Modules\SolutionPages\Exercise01.aspx" />
+    <Content Include="Modules\SolutionPages\Exercise01.js" />
+    <Content Include="Modules\SolutionPages\Exercise02.aspx" />
+    <Content Include="Modules\SolutionPages\Exercise02.js" />
+    <Content Include="Modules\SolutionPages\Exercise03.aspx" />
+    <Content Include="Modules\SolutionPages\Exercise03.js" />
+    <Content Include="Modules\SolutionPages\Exercise04.aspx" />
+    <Content Include="Modules\SolutionPages\Exercise04.js" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '11.0'">11.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(VSToolsPath)\SharePointTools\Microsoft.VisualStudio.SharePoint.targets" Condition="'$(VSToolsPath)' != ''" />
+</Project>

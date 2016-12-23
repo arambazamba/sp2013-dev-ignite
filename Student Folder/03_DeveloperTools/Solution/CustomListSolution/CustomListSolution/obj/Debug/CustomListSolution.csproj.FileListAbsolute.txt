@@ -1,0 +1,5 @@
+C:\Student\Labs\SharePointTools\CustomListSolution\CustomListSolution\bin\Debug\CustomListSolution.dll
+C:\Student\Labs\SharePointTools\CustomListSolution\CustomListSolution\bin\Debug\CustomListSolution.pdb
+C:\Student\Labs\SharePointTools\CustomListSolution\CustomListSolution\obj\Debug\CustomListSolution.csprojResolveAssemblyReference.cache
+C:\Student\Labs\SharePointTools\CustomListSolution\CustomListSolution\obj\Debug\CustomListSolution.dll
+C:\Student\Labs\SharePointTools\CustomListSolution\CustomListSolution\obj\Debug\CustomListSolution.pdb

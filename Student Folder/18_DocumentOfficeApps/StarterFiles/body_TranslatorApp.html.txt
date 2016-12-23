@@ -1,0 +1,11 @@
+
+  <h2>English to Spanish</h2>
+
+  <div id="toolbar">
+    <input type="button" id="cmdReadSelection" value="Read" />
+    <input type="button" id="cmdRegisterEventHandler" value="Event" />
+    <input type="button" id="cmdTranslate" value="Translate" />
+    <input type="button" id="cmdWriteSelection" value="Write" />
+  </div>
+
+  <div id="display" />

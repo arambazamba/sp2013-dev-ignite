@@ -1,0 +1,4 @@
+﻿<%@ServiceHost 
+    Language="C#" 
+    Factory="Microsoft.SharePoint.Client.Services.MultipleBaseAddressBasicHttpBindingServiceHostFactory, Microsoft.SharePoint.Client.ServerRuntime, Version=14.0.0.0, Culture=neutral, PublickeyToken=71e9bce111e9429c" 
+    Service="Notifications.NotificationEndpoint, $SharePoint.Project.AssemblyFullName$"%>

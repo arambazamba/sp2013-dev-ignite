@@ -1,0 +1,4 @@
+c:\DevProjects\ProviderHostedApp\ProviderHostedApp\bin\Debug\ProviderHostedApp.pdb
+c:\DevProjects\ProviderHostedApp\ProviderHostedApp\obj\Debug\ProviderHostedApp.dll
+c:\DevProjects\ProviderHostedApp\ProviderHostedApp\obj\Debug\ProviderHostedApp.pdb
+c:\DevProjects\ProviderHostedApp\ProviderHostedApp\obj\Debug\ProviderHostedApp.csprojResolveAssemblyReference.cache
